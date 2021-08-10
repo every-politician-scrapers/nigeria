@@ -9,7 +9,7 @@ class MemberList
     def name
       Name.new(
         full: stripped_name, 
-        prefixes: %w[Engr Amb Sen Arc Dr Prince]
+        prefixes: %w[Engr Amb Sen Arc Dr Prince Major General Dame]
       ).short
     end
 
