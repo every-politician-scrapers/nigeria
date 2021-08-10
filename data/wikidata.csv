@@ -1,3 +1,26 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q59829052,Alhaji Muhammad Musa Bello,Alhaji Muhammad Musa Bello,,,,,Q59514359,Minister of the Federal Capital Territory,Q59829052-8AE8B3EE-5D26-47DA-A15B-BC787A99B9FC
+Q23714146,Abubakar Malami,Abubakar Malami,male,1967-04-17T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108035665,Attorney General of the Federation (AGF),Q23714146-D0F7271A-43E4-419B-82ED-843DF14B350A
+Q23714146,Abubakar Malami,Abubakar Malami,male,1967-04-17T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108035668,Minister of Justice,Q23714146-E4BEA3BD-FEE2-4310-B4A7-B50B35E52681
+Q41559149,Adamu Adamu,Adamu Adamu,male,1956-05-25T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q75153172,Minister of Education,Q41559149-766A52B1-B859-47F0-B4F4-504D4CA015F0
+Q62356,Babatunde Raji Fashola,Babatunde Fashola,male,1963-06-28T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108036024,Minister of Works and Housing,Q62356-CB8AA16B-F3D3-4302-9F8D-5DB24D8986AB
+Q4866857,Bashir Salihi Magashi,Bashir Salihi Magashi,male,,,https://www.osgf.gov.ng/ministries,Q5251230,Minister of Defence,Q4866857-9552EDAD-93FC-4AD0-9BA2-304C6DEA5AFA
+Q3510794,Chris Ngige,Chris Ngige,male,1952-08-08T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q106406342,Minister of Labour and Employment,Q3510794-DA311186-BAD9-458E-BDB5-EA795DC00065
+Q107453260,Clem Ikanade Agba,Clement Agba,male,1964-01-01T00:00:00Z,9,https://www.osgf.gov.ng/ministries,Q108036022,Minister of Budget and National Planning,Q107453260-B1D6C7FF-81AF-4D6B-B06F-E59A84B87821
+Q21467394,Geoffrey Onyeama,Geoffrey Onyeama,male,1956-02-02T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q3354633,Minister of Foreign Affairs,Q21467394-136cc5e7-48bc-ce01-ef4b-55e8e52a93c4
+Q5576947,Godswill Akpabio,Godswill Akpabio,male,1962-12-19T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108037311,Minister of Niger Delta,Q5576947-270A45BD-CF90-424D-A07D-6F2F2112C83A
+Q7530281,Hadi Sirika,Sirika Hadi,male,1964-03-02T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108037332,Minister of Aviation,Q7530281-A938E366-27D1-4AD3-A467-0F5E682493C6
+Q19561129,Lai Mohammed,Lai Mohammed,male,1951-12-06T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108037314,Minister of Information and Culture,Q19561129-2BD8EE78-6F31-4DAC-8CE2-C5FCCB35361B
+Q59829052,Mohammed Musa Bello,Mohammed Musa Bello,male,1959-01-01T00:00:00Z,10,https://www.osgf.gov.ng/ministries,Q59514359,Minister of Federal Capital Territory (FCT),Q59829052-8AE8B3EE-5D26-47DA-A15B-BC787A99B9FC
 Q361567,Muhammadu Buhari,Muhammadu Buhari,male,1942-12-17T00:00:00Z,11,,Q500282,President of Nigeria,Q361567-bb38d547-47f9-93d3-fd1a-a95ff28b1815
+Q13655513,Ogbonnaya Onu,Ogbonnaya Onu,male,1951-12-01T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108035729,Minister of Science and Technology,Q13655513-FB4D5F51-1678-4BA8-98A5-A25D3597BF87
+Q75184824,Olammilekan Adegbite,Olamilekan Adegbite,male,,,https://www.osgf.gov.ng/ministries,Q108035716,Minister of Mines and Steel Development,Q75184824-6C527CEF-52ED-4CBF-9874-7BAFAD1BFE29
+Q62670421,Osagie Ehanire,Osagie Emmanuel Ehanire,male,1946-01-01T00:00:00Z,9,https://www.osgf.gov.ng/ministries,Q75157896,Minister of Health,Q62670421-498112ff-0a22-4f3a-9ddf-987d3642dbc3
+Q27830470,Pauline Tallen,Pauline Tallen,female,1959-01-08T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108037288,Minister of Women Affairs and Social Development,Q27830470-50261562-53EE-4F67-B91F-044288E5F844
+Q7296120,Rauf Aregbesola,Rauf Aregbesola,male,1957-05-25T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108035710,Minister of Interior,Q7296120-2D15FA22-202E-43AE-9155-F79D400D8213
+Q7370548,Rotimi Amaechi,Rotimi Amaechi,male,1965-05-27T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108036175,Minister of Transportation,Q7370548-2E1D4456-5242-47F0-87EB-CE5B482AC471
+Q87966273,Sale Mamman,Saleh Mamman,male,1958-01-02T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108036501,Minister of Power,Q87966273-6548205F-DD60-4003-84B4-30EB84696986
+Q66309734,Sharon Ikeazor,Sharon Ikeazor,female,1961-01-01T00:00:00Z,9,https://www.osgf.gov.ng/ministries,Q108037339,Minister of State Environment,Q66309734-AA423AF4-0321-444E-BC1A-2249C482AB5D
+Q93377076,Suleiman Adamu,Suleiman Adamu,male,1963-04-19T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108037321,Minister of Water Resources,Q93377076-5C026E2D-DACE-42AF-8B0C-39A67635A55B
+Q65953957,Sunday Dare,Sunday Dare,male,1966-05-29T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108037328,Minister of Youth and Sports,Q65953957-B25BFFCD-D761-4FF6-9B63-F46160AF6716
+Q18355928,Uchechukwu Ogah,Uchechukwu Sampson Ogah,male,1969-12-22T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q108037343,"Minister of State, Mines and Steel Development",Q18355928-02793399-A192-4AE9-862E-D2771AF28D49
+Q42559242,Zainab Shamsuna Ahmed,Zainab Ahmed,female,1960-06-16T00:00:00Z,11,https://www.osgf.gov.ng/ministries,Q5449550,"Minister of Finance, Budget and National Planning",Q42559242-6D600134-13AE-481A-B2B2-5AAB617F7C3E
