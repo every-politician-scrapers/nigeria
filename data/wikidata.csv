@@ -1,5 +1,5 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q101693651,Zubairu Dada,Zubairu Dada,male,1952-03-28,11,,,Q109661385,Minister of State for Foreign Affairs of Nigeria,Q101693651-9E36CA15-D2F9-4086-8434-C96A85D80B46
+Q101693651,Zubairu Dada,Zubairu Dada,male,1952-03-28,11,https://www.osgf.gov.ng/ministries,2021-11-21,Q109661385,Minister of State Foreign Affairs,Q101693651-9E36CA15-D2F9-4086-8434-C96A85D80B46
 Q107453260,Clem Ikanade Agba,Clement Agba,male,1964-01-01,9,https://www.osgf.gov.ng/ministries,2021-08-10,Q108036022,Minister of Budget and National Planning,Q107453260-B1D6C7FF-81AF-4D6B-B06F-E59A84B87821
 Q108704107,Mohammed Maigari Dangyadi,Mohammed Maigari Dingyadi,male,1953-01-01,9,https://www.osgf.gov.ng/ministries,2021-11-21,Q109661675,Minister of Police Affairs,Q108704107-AC25D2D5-19FC-44DD-9190-98CFFF4F2DC3
 Q109252006,Muhammad Mahmood Abubakar,Muhammad Mahmood Abubakar,male,,,,,Q109661491,Minister of Agriculture and Rural Development,Q109252006-3281F3A6-8E4D-4516-BA70-74594651349D
@@ -15,7 +15,7 @@ Q23714146,Abubakar Malami,Abubakar Malami,male,1967-04-17,11,https://www.osgf.go
 Q23714146,Abubakar Malami,Abubakar Malami,male,1967-04-17,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108035668,Minister of Justice,Q23714146-E4BEA3BD-FEE2-4310-B4A7-B50B35E52681
 Q27830470,Pauline Tallen,Pauline Tallen,female,1959-01-08,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037288,Minister of Women Affairs and Social Development,Q27830470-50261562-53EE-4F67-B91F-044288E5F844
 Q3510794,Chris Ngige,Chris Ngige,male,1952-08-08,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q106406342,Minister of Labour and Employment,Q3510794-DA311186-BAD9-458E-BDB5-EA795DC00065
-Q3510803,George Akume,George Akume,male,1953-12-27,11,,,Q109661921,Minister of Special Duties and Inter-Governmental Affairs,Q3510803-3D8A0D35-5DB3-4D6F-8A67-8C24AB5106AD
+Q3510803,George Akume,George Akume,male,1953-12-27,11,https://www.osgf.gov.ng/ministries,2021-11-21,Q109661921,Minister of Special Duties and Inter-Governmental Affairs,Q3510803-3D8A0D35-5DB3-4D6F-8A67-8C24AB5106AD
 Q361567,Muhammadu Buhari,Muhammadu Buhari,male,1942-12-17,11,,,Q500282,President of Nigeria,Q361567-bb38d547-47f9-93d3-fd1a-a95ff28b1815
 Q41559149,Adamu Adamu,Adamu Adamu,male,1956-05-25,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q75153172,Minister of Education,Q41559149-766A52B1-B859-47F0-B4F4-504D4CA015F0
 Q42559242,Zainab Shamsuna Ahmed,Zainab Ahmed,female,1960-06-16,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q5449550,"Minister of Finance, Budget and National Planning",Q42559242-6D600134-13AE-481A-B2B2-5AAB617F7C3E
@@ -27,8 +27,8 @@ Q62356,Babatunde Raji Fashola,Babatunde Fashola,male,1963-06-28,11,https://www.o
 Q62670421,Osagie Ehanire,Osagie Emmanuel Ehanire,male,1946-01-01,9,https://www.osgf.gov.ng/ministries,2021-08-10,Q75157896,Minister of Health,Q62670421-498112ff-0a22-4f3a-9ddf-987d3642dbc3
 Q65953957,Sunday Dare,Sunday Dare,male,1966-05-29,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037328,Minister of Youth and Sports,Q65953957-B25BFFCD-D761-4FF6-9B63-F46160AF6716
 Q66309734,Sharon Ikeazor,Sharon Ikeazor,female,1961-01-01,9,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037339,Minister of State Environment,Q66309734-AA423AF4-0321-444E-BC1A-2249C482AB5D
+Q66309786,Suleiman Adamu,Suleiman Adamu Kazaure,male,1963-04-19,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037321,Minister of Water Resources,Q66309786-447ABA62-5F0B-4795-9BA9-55EFA6C6EF69
 Q7296120,Rauf Aregbesola,Rauf Aregbesola,male,1957-05-25,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108035710,Minister of Interior,Q7296120-2D15FA22-202E-43AE-9155-F79D400D8213
 Q7370548,Rotimi Amaechi,Rotimi Amaechi,male,1965-05-27,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108036175,Minister of Transportation,Q7370548-2E1D4456-5242-47F0-87EB-CE5B482AC471
 Q75184824,Olammilekan Adegbite,Olamilekan Adegbite,male,,,https://www.osgf.gov.ng/ministries,2021-08-10,Q108035716,Minister of Mines and Steel Development,Q75184824-6C527CEF-52ED-4CBF-9874-7BAFAD1BFE29
 Q7530281,Hadi Sirika,Sirika Hadi,male,1964-03-02,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037332,Minister of Aviation,Q7530281-A938E366-27D1-4AD3-A467-0F5E682493C6
-Q93377076,Suleiman Adamu,Suleiman Adamu,male,1963-04-19,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037321,Minister of Water Resources,Q93377076-5C026E2D-DACE-42AF-8B0C-39A67635A55B
