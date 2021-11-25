@@ -1,0 +1,112 @@
+{
+  "title": "Suleiman Adamu Kazaure",
+  "pageID": 61408277,
+  "categories": [
+    "Nigerian government officials",
+    "1963 births",
+    "Living people",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Suleiman Adamu Kazaure is the Nigerian Minister of Water Resources under president Muhammadu Buhari's administration.",
+              "links": [
+                {
+                  "text": "Nigerian",
+                  "type": "internal",
+                  "page": "Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muhammadu Buhari"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Suleiman Adamu Kazaure"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2019",
+          "template": "more citations needed"
+        },
+        {
+          "date": "November 2020",
+          "template": "orphan"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
+          "date": "November 2021",
+          "template": "when"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Politics of Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Nigeria"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Biography",
+            "Nigeria",
+            "Politics",
+            "Society"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}
