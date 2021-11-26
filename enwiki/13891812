@@ -900,14 +900,14 @@
         {
           "sentences": [
             {
-              "text": "As soon as Haiti was struck by a magnitude 7.0 M w earthquake, Babatunde Fashola launched an appeal to raise up to one million US dollars.",
+              "text": "As soon as Haiti was struck by a magnitude 7.0 Mw earthquake, Babatunde Fashola launched an appeal to raise up to one million US dollars.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Haiti"
                 },
                 {
-                  "text": "magnitude 7.0 M w ",
+                  "text": "magnitude 7.0 Mw",
                   "type": "internal",
                   "page": "Moment magnitude scale"
                 }
@@ -928,6 +928,10 @@
             "2010 Haiti earthquake"
           ],
           "template": "see also"
+        },
+        {
+          "text": "w",
+          "template": "sub"
         }
       ],
       "references": [
