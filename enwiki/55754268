@@ -417,7 +417,13 @@
               ]
             },
             {
-              "text": "The article was later retracted by both The Daily Independent and NewsWireNgr, another online news portal that copied the article, after the claims could not be proved."
+              "text": "The article was later retracted by both The Daily Independent and NewswireNGR, another online news portal that copied the article, after the claims could not be proved.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NewswireNGR"
+                }
+              ]
             },
             {
               "text": "A fact check by Premium Times stated that \"it is FALSE to claim that the debate between Mr Pantami and the late Yusuf was a friendly chat. It was a heated debate which has now formed the basis for scholarly research on the ideology of Boko Haram\" but could not confirm if Pantami was placed on the terrorist watchlist of the United States of America government as the latter does not disclose those on the list.",
