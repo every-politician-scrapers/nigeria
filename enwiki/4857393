@@ -205,43 +205,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "Niyi and Education",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "He attended University of Lagos where he studied Law and obtained (LL.B Hons).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of Lagos"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "ekitistategovernors"
-        },
-        {
-          "template": "nigerian state governors 1999-2003 term"
-        },
-        {
-          "template": "nigeria-politician-stub"
-        }
-      ]
     }
   ]
 }

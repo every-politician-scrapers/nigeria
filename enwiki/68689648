@@ -113,65 +113,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "History",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dingyadi was born in Dingyadi, Sokoto.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Sokoto"
-                }
-              ]
-            },
-            {
-              "text": "He is a 1978 graduate of Ahmadu Bello University.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ahmadu Bello University"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "last": "Adeolu",
-          "date": "2017-03-17",
-          "title": "MOHAMMED, Maigari Dingyadi",
-          "url": "https://blerf.org/index.php/biography/mohammed-maigari-dingyadi/",
-          "access-date": "2021-09-24",
-          "website": "Biographical Legacy and Research Foundation",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-08-22",
-          "title": "SCORECARD: How police affairs minister fared one year into office",
-          "url": "https://www.premiumtimesng.com/investigationspecial-reports/410085-scorecard-how-police-affairs-minister-fared-one-year-into-office.html",
-          "access-date": "2021-09-24",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
     }
   ]
 }
