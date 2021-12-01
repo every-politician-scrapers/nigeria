@@ -203,9 +203,9 @@
           "template": "color"
         },
         {
-          "year": "1942",
-          "month": "12",
-          "day": "17",
+          "year": "1930",
+          "month": "02",
+          "day": "09",
           "df": "y",
           "template": "birth date and age"
         },
@@ -479,7 +479,7 @@
             ]
           },
           "birth_date": {
-            "text": "December 17, 1942"
+            "text": "February 9, 1930"
           },
           "birth_place": {
             "text": "Daura, Northern Region, British Nigeria\n(now Daura, Nigeria)",
