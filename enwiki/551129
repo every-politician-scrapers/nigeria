@@ -197,12 +197,6 @@
           "template": "use dmy dates"
         },
         {
-          "list": [
-            "#c4122d"
-          ],
-          "template": "color"
-        },
-        {
           "year": "1942",
           "month": "12",
           "day": "17",
@@ -616,6 +610,10 @@
           "location": "Chatham House, London",
           "date": "26 February 2015",
           "url": "https://www.youtube.com/watch?v=RNiKgdhYcKI&t=22m00s",
+          "access-date": "31 March 2015",
+          "archive-date": "27 December 2015",
+          "archive-url": "https://web.archive.org/web/20151227082832/https://www.youtube.com/watch?v=RNiKgdhYcKI&t=22m00s",
+          "url-status": "live",
           "template": "citation",
           "type": "speech"
         },
@@ -626,6 +624,9 @@
           "access-date": "2021-10-01",
           "website": "Vanguard News",
           "language": "en-US",
+          "archive-date": "1 October 2021",
+          "archive-url": "https://web.archive.org/web/20211001112806/https://www.vanguardngr.com/2016/12/the-frustrations-of-buhari-from-2003-to-2011/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -636,6 +637,9 @@
           "work": "BBC News",
           "url": "https://www.bbc.com/news/world-africa-32139858",
           "access-date": "2021-09-23",
+          "archive-date": "10 November 2021",
+          "archive-url": "https://web.archive.org/web/20211110022117/https://www.bbc.com/news/world-africa-32139858",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -645,6 +649,9 @@
           "url": "https://www.premiumtimesng.com/news/headlines/180374-buhari-in-historic-election-win-emerges-nigerias-president-elect.html",
           "access-date": "2021-10-01",
           "language": "en-GB",
+          "archive-date": "1 October 2021",
+          "archive-url": "https://web.archive.org/web/20211001113036/https://www.premiumtimesng.com/news/headlines/180374-buhari-in-historic-election-win-emerges-nigerias-president-elect.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -655,6 +662,9 @@
           "date": "27 February 2019",
           "language": "en-US",
           "access-date": "2019-08-30",
+          "archive-date": "6 September 2019",
+          "archive-url": "https://web.archive.org/web/20190906151856/https://punchng.com/breaking-inec-declares-buhari-winner-of-2019-presidential-election/",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -665,6 +675,9 @@
           "access-date": "2021-10-01",
           "website": "CNN",
           "date": "27 February 2019",
+          "archive-date": "1 October 2021",
+          "archive-url": "https://web.archive.org/web/20211001113245/https://www.cnn.com/2019/02/26/africa/buhari-wins-nigeria-election-intl/index.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -682,6 +695,9 @@
           "url": "http://www.dawodu.com/buhari.htm",
           "title": "Military Regime of Buhari and Idiagbon, January 1984 – August 1985",
           "access-date": "12 September 2013",
+          "archive-date": "4 March 2016",
+          "archive-url": "https://web.archive.org/web/20160304074423/http://www.dawodu.com/buhari.htm",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -693,6 +709,9 @@
           "date": "October 2003",
           "access-date": "12 September 2013",
           "author-link": "Max Siollun",
+          "archive-date": "6 April 2014",
+          "archive-url": "https://web.archive.org/web/20140406090246/http://www.dawodu.com/siollun3.htm",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -704,6 +723,9 @@
           "date": "22 July 2002",
           "access-date": "12 September 2013",
           "author-link": "Sanusi Lamido Sanusi",
+          "archive-date": "12 March 2015",
+          "archive-url": "https://web.archive.org/web/20150312155444/http://www.gamji.com/sanusi/sanusi26.htm",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -714,6 +736,9 @@
           "newspaper": "Leadership (Nigeria)",
           "date": "14 September 2010",
           "access-date": "12 September 2013",
+          "archive-date": "29 June 2018",
+          "archive-url": "https://web.archive.org/web/20180629075850/http://allafrica.com/stories/201009140173.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         }
