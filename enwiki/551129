@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Muhammadu Buhari (born 17 December 1942) is a Nigerian politician who has been president of Nigeria since 2015.",
+              "text": "Muhammadu Buhari (born 17 December 1942) is a Nigerian who is a Retired Major General from the Nigerian Army, a former military head of State and now a politician who has been president of Nigeria since 2015.",
               "links": [
                 {
                   "text": "politician",
@@ -603,6 +603,15 @@
         }
       ],
       "references": [
+        {
+          "title": "Muhammadu Buhari {{!}} Biography & Facts {{!}} Britannica",
+          "url": "https://www.britannica.com/biography/Muhammadu-Buhari",
+          "access-date": "2021-12-10",
+          "website": "www.britannica.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "Prospects for Democratic Consolidation in Africa: Nigeria's Transition",
           "first": "Muhammadu",
