@@ -18,11 +18,11 @@
         {
           "sentences": [
             {
-              "text": " Isa Ali Ibrahim Fantami (born 20 October 1972), also known as Sheikh Pantami, is an Islamic cleric who is currently serving as Minister of Communications and Digital Economy in Nigeria.",
+              "text": "Isa Ali Ibrahim (born 20 October 1972), commonly known as Isa Ali Pantami, is an Islamic cleric who is currently serving as Minister of Communications and Digital Economy in Nigeria.",
               "formatting": {
                 "bold": [
-                  " Isa Ali Ibrahim Fantami",
-                  "Sheikh Pantami"
+                  "Isa Ali Ibrahim",
+                  "Isa Ali Pantami"
                 ]
               }
             },
@@ -72,16 +72,13 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Isa Ali Ibrahim (Pantami)"
+            "text": "Isa Ali Pantami"
           },
           "honorific-suffix": {
             "text": "FNCS, FBCS, FIIM, MCPN"
           },
           "image": {
             "text": "Pantami.jpg"
-          },
-          "caption": {
-            "text": "Isa Ali Ibrahim (Pantami)"
           },
           "office": {
             "text": "Minister of Communications and Digital Economy"
