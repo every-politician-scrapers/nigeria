@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Muhammadu Buhari (born 17 December 1942) is a Nigerian politician who has been President of Nigeria since 2015.",
+              "text": "Muhammadu Buhari (born 17 December 1922) is a Nigerian politician who has been President of Nigeria since 2015.",
               "links": [
                 {
                   "text": "politician",
@@ -192,7 +192,7 @@
           "template": "use dmy dates"
         },
         {
-          "year": "1942",
+          "year": "1922",
           "month": "12",
           "day": "17",
           "df": "y",
@@ -468,7 +468,7 @@
             ]
           },
           "birth_date": {
-            "text": "December 17, 1942"
+            "text": "December 17, 1922"
           },
           "birth_place": {
             "text": "Daura, Northern Region, British Nigeria\n(now Daura, Nigeria)",
