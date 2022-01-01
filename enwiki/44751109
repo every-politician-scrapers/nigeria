@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Oluyemi Oluleke \"Yemi\" Osinbajo (born 8 March 1957), is a Nigerian lawyer and politician who is currently serving as the Vice President of Nigeria, since 29 May 2015.",
+              "text": "Oluyemi Oluleke \"Yemi\" Osinbajo (born 8 March 1957) is a Nigerian lawyer and politician who has served as the Vice President of Nigeria since 29 May 2015.",
               "links": [
                 {
                   "type": "internal",
@@ -154,22 +154,10 @@
             "text": "19 August 2017"
           },
           "predecessor1": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
+            "text": "Muhammadu Buhari"
           },
           "successor1": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
+            "text": "Muhammadu Buhari"
           },
           "term_start2": {
             "text": "19 January 2017"
@@ -178,22 +166,10 @@
             "text": "13 March 2017"
           },
           "predecessor2": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
+            "text": "Muhammadu Buhari"
           },
           "successor2": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
+            "text": "Muhammadu Buhari"
           },
           "term_start3": {
             "text": "6 June 2016"
@@ -240,10 +216,6 @@
               {
                 "type": "internal",
                 "page": "British Nigeria"
-              },
-              {
-                "type": "internal",
-                "page": "Lagos"
               }
             ]
           },
