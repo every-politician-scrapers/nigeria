@@ -50,26 +50,6 @@
           "description": "Nigerian politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "https://punchng.com/full-list-of-ministers-and-their-portfolios/",
-          "title": "ICYMI: Full list of ministers and their portfolios",
-          "website": "Punch Newspapers",
-          "language": "en-US",
-          "access-date": "2019-11-15",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.com/pidgin/tori-49424672",
-          "title": "Buhari, Akpabio, Fashola and oda ministers wey collect 'big' position",
-          "date": "2019-08-21",
-          "access-date": "2019-11-15",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

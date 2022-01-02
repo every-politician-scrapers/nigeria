@@ -123,58 +123,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://allafrica.com/stories/201608030877.html",
-          "title": "Nigeria: Buhari Appoints New NCC Chair, Commissioners",
-          "last": "Isiaka",
-          "first": "Wakili",
-          "date": "3 August 2016",
-          "work": "All Africa",
-          "access-date": "26 July 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "22 August 2019",
-          "title": "CLOSE-UP: What you didn't know about Sunday Dare, the Jos man who replaced Dalung as sports minister",
-          "url": "https://www.thecable.ng/close-up-tinubus-ex-chief-staff-investigative-journalist-sunday-dare-35th-minister-youth-sports",
-          "access-date": "24 October 2020",
-          "website": "TheCable",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thisdaylive.com/index.php/2016/08/02/buhari-nominates-durojaiye-as-ncc-chairman-dare-as-executive-commissioner/",
-          "title": "Buhari Nominates Durojaiye as NCC Chairman, Dare as Executive Commissioner",
-          "last": "admin",
-          "date": "2 August 2016",
-          "website": "THISDAYLIVE",
-          "language": "en-US",
-          "access-date": "25 July 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "A minister determined to change Nigeria’s sports architecture",
-          "url": "https://guardian.ng/sport/a-minister-determined-to-change-nigerias-sports-architecture/",
-          "access-date": "2021-02-12",
-          "website": "guardian.ng",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-08-27",
-          "title": "Sunday Dare: One Year Journey as Minister of Youth And Sports",
-          "url": "https://www.premiumtimesng.com/news/411081-sunday-dare-one-year-journey-as-minister-of-youth-and-sports.html",
-          "access-date": "2021-02-12",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

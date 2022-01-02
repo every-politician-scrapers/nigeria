@@ -52,14 +52,6 @@
           "date": "November 2021",
           "template": "when"
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

@@ -87,16 +87,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.bloomberg.com/markets/stocks",
-          "title": "Stocks",
-          "website": "Bloomberg.com",
-          "access-date": "2017-12-22",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
