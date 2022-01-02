@@ -47,10 +47,6 @@
       ],
       "templates": [
         {
-          "date": "February 2019",
-          "template": "blp sources"
-        },
-        {
           "year": "1969",
           "month": "12",
           "day": "22",
