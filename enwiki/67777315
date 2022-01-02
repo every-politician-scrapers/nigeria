@@ -182,46 +182,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Buhari don apoint new Chief of Army Staff",
-          "url": "https://www.bbc.com/pidgin/tori-57271639",
-          "access-date": "27 May 2021",
-          "work": "BBC News Pidgin",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Buhari names Major-General Faruk Yahaya as new army chief",
-          "url": "https://guardian.ng/breakingnews/buhari-names-major-general-Faruk-yahaya-as-new-army-chief/",
-          "access-date": "27 May 2021",
-          "work": "The Guardian Nigeria News - Nigeria and World News",
-          "date": "2021-05-27",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.vanguardngr.com/2021/05/updated-buhari-appoints-major-general-Faruk-yahaya-as-chief-of-army-staff/",
-          "publisher": "Vanguard Newspaper Nigeria",
-          "title": "Buhari appoints Major General Faruk Yahaya as Chief of Army Staff",
-          "author": "Kingsley Omonobi",
-          "access-date": "2021-05-27",
-          "website": "www.vanguardngr.com",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://m.guardian.ng/news/nigerias-army-chief-ibrahim-attahiru-dies-in-air-crash/",
-          "publisher": "The Guardian Nigeria",
-          "title": "Nigeria’s army chief Ibrahim Attahiru dies in air crash",
-          "author": "Editor",
-          "access-date": "27 May 2021",
-          "work": "The Guardian Nigeria News - Nigeria and World News",
-          "date": "2021-05-21",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

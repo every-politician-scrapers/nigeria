@@ -142,28 +142,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.vanguardngr.com/2019/08/meet-fct-minister-muhammad-musa-bello/",
-          "title": "Meet FCT minister, Muhammad Musa Bello",
-          "date": "2019-08-22",
-          "website": "Vanguard News",
-          "language": "en-US",
-          "access-date": "2020-03-19",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://m.guardian.ng/news/fct-minister-charges-workers-to-perform-or-be-kicked-out/",
-          "title": "FCT minister charges workers to perform or be kicked out",
-          "date": "2019-08-28",
-          "website": "The Guardian Nigeria News - Nigeria and World News",
-          "language": "en-US",
-          "access-date": "2020-03-19",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

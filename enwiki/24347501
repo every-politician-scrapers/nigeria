@@ -313,29 +313,6 @@
             "text": "Politician"
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Enios",
-          "first1": "Akinkotu",
-          "title": "BREAKING: Lawan emerges Senate President",
-          "url": "https://punchng.com/breaking-lawan-emerges-senate-president/",
-          "publisher": "Punch",
-          "access-date": "11 June 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nassnig.org/senate/member.php?senator=116&page=1",
-          "title": "Ahmed Ibrahim Lawan",
-          "publisher": "National Assembly of Nigeria",
-          "access-date": "2009-09-14",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20090218210025/http://nassnig.org/senate/member.php?senator=116&page=1",
-          "archive-date": "18 February 2009",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

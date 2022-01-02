@@ -115,52 +115,6 @@
             "text": "http://www.mastersenergyltd.com/"
           }
         }
-      ],
-      "references": [
-        {
-          "last": "editor",
-          "date": "2019-04-28",
-          "title": "Uchechukwu Ogah: Champion Extraordinaire",
-          "url": "https://www.thisdaylive.com/index.php/2019/04/28/uchechukwu-ogah-champion-extraordinaire/",
-          "access-date": "2020-09-25",
-          "website": "THISDAYLIVE",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "JUST IN: Full List: Buhari assigns portfolios to new Ministers",
-          "url": "https://oak.tv/newstrack/full-list-buhari-assigns-portfolios-ministers/",
-          "accessdate": "26 August 2019",
-          "work": "Oak TV Newstrack",
-          "date": "21 August 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://dailynewsnigeria.com.ng/buhari-new-ministers-list-2019/",
-          "title": "Buhari New Ministers List 2019",
-          "last": "Nigeria",
-          "first": "Daily News",
-          "date": "2019-07-23",
-          "website": "Daily News Nigeria",
-          "language": "en-US",
-          "access-date": "2019-07-26",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://w3.mastersenergyltd.com/news/president-masters-energy-group-businessworld-newspaper-man-year",
-          "title": "Masters Energy - Welcome to our World",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

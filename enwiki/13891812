@@ -229,41 +229,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "title": "JUST IN: Full List: Buhari assigns portfolios to new Ministers",
-          "url": "https://oak.tv/newstrack/full-list-buhari-assigns-portfolios-ministers/",
-          "access-date": "26 August 2019",
-          "work": "Oak TV Newstrack",
-          "date": "21 August 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.brfashola.org",
-          "title": "HIS EXCELLENCY, BABATUNDE RAJI FASHOLA (SAN), GOVERNOR OF LAGOS STATE, NIGERIA",
-          "access-date": "14 February 2010",
-          "publisher": "Commonwealth Business Council",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20100722223126/http://brfashola.org/",
-          "archive-date": "22 July 2010",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.lagosstate.gov.ng/BRF.php",
-          "title": "His Excellency Mr. Babatunde Raji Fashola, SAN",
-          "access-date": "27 January 2010",
-          "publisher": "lagosstate.gov.ng Lagos State Government",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20091210205955/http://www.lagosstate.gov.ng/BRF.php",
-          "archive-date": "10 December 2009",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
