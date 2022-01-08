@@ -1,2 +1,2 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q25052705,Cabinet of President Muhammadu Buhari,2015-11-11,11,,,,,,,Q5015542,Cabinet of Nigeria,,,,,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q25052705,Cabinet of President Muhammadu Buhari,2015-11-11,11,,,,,,,,,,,,,,
