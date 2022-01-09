@@ -19,13 +19,6 @@
           "sentences": [
             {
               "text": "Sadiya Umar Farouq (born 5 November 1974), is a Nigerian politician and the current minister of humanitarian affairs, disaster management and social development.",
-              "links": [
-                {
-                  "text": "Nigerian",
-                  "type": "internal",
-                  "page": "Nigeria"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Sadiya Umar Farouq"
@@ -90,7 +83,7 @@
         },
         {
           "date": "September 2021",
-          "template": "no footnotes"
+          "template": "more footnotes"
         },
         {
           "df": "yes",

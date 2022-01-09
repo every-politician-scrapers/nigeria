@@ -15,17 +15,12 @@
         {
           "sentences": [
             {
-              "text": "Chief Niyi Adebayo (born February 4th 1958) is a Nigerian politician and traditional aristocrat.",
+              "text": "Chief Niyi Adebayo (born February 4, 1958) is a Nigerian politician and traditional aristocrat.",
               "links": [
                 {
                   "text": "Chief",
                   "type": "internal",
                   "page": "Chieftain"
-                },
-                {
-                  "text": "Nigerian",
-                  "type": "internal",
-                  "page": "Nigeria"
                 },
                 {
                   "text": "politician",
@@ -133,7 +128,7 @@
         {
           "reason": "What and were does this traditional title belongs",
           "date": "October 2020",
-          "template": "clarification needed"
+          "template": "clarify"
         }
       ],
       "infoboxes": [
