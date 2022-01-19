@@ -57,36 +57,16 @@
                   "page": "Lagos State Governor"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fashola is one of Nigeria's most respected politicians."
             },
             {
-              "text": "As a candidate of the Action Congress party, now known as the All Progressives Congress, Fashola succeeded Bola Ahmed Tinubu, on 14 April 2007, and was sworn in on 29 May 2007.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Action Congress"
-                },
-                {
-                  "type": "internal",
-                  "page": "All Progressives Congress"
-                },
-                {
-                  "text": "Bola Ahmed Tinubu",
-                  "type": "internal",
-                  "page": "Bola Tinubu"
-                }
-              ]
-            },
-            {
-              "text": "Fashola was re-elected on 26 April 2011."
-            },
-            {
-              "text": "On November 11th 2015, he was appointed by President Muhammadu Buhari to be the Minister of Power, Works and Housing; he was reappointed Minister of Works & Housing on 21 August 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Muhammadu Buhari"
-                }
-              ]
+              "text": "He is considered a promising candidate for president in the 2023 election."
             }
           ]
         }
