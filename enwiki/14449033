@@ -80,6 +80,13 @@
           "template": "short description"
         },
         {
+          "list": [
+            "other people with similar name",
+            "Rotimi (disambiguation)"
+          ],
+          "template": "for"
+        },
+        {
           "year": "1965",
           "month": "5",
           "day": "27",
