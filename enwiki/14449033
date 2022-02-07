@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Chibuike Rotimi Amaechi (born 27 May 1945) is a Nigerian politician who is currently serving as the Minister of Transportation in the cabinet of President Muhammadu Buhari.",
+              "text": "Chibuike Rotimi Amaechi (born 27 May 1965) is a Nigerian politician who is currently serving as the Minister of Transportation in the cabinet of President Muhammadu Buhari.",
               "links": [
                 {
                   "text": "Nigerian",
@@ -87,7 +87,7 @@
           "template": "for"
         },
         {
-          "year": "1945",
+          "year": "1965",
           "month": "5",
           "day": "27",
           "df": "y",
@@ -226,7 +226,7 @@
             "text": "Chibuike Rotimi Amaechi"
           },
           "birth_date": {
-            "text": "May 27, 1945"
+            "text": "May 27, 1965"
           },
           "birth_place": {
             "text": "Ubima, Ikwerre, Eastern Region, Nigeria (now Ubima, Ikwerre, Rivers State, Nigeria)",
