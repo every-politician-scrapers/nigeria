@@ -1,5 +1,5 @@
 {
-  "title": "Uchechukwu Sampson Ogah",
+  "title": "Uche Ogah",
   "pageID": 44232467,
   "categories": [
     "1969 births",
@@ -20,10 +20,10 @@
         {
           "sentences": [
             {
-              "text": "Uchechukwu S. Ogah (born 22 December 1969) is the current Nigerian Minister of State for Mines and Steel Development.",
+              "text": "Uchechukwu Sampson Ogah (born 22 December 1969) is the current Nigerian Minister of State for Mines and Steel Development.",
               "formatting": {
                 "bold": [
-                  "Uchechukwu S. Ogah"
+                  "Uchechukwu Sampson Ogah"
                 ]
               }
             },
@@ -46,6 +46,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "Nigerian businessman and politician",
+          "template": "short description"
+        },
         {
           "year": "1969",
           "month": "12",
