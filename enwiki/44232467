@@ -21,6 +21,13 @@
           "sentences": [
             {
               "text": "Uchechukwu Sampson Ogah (born 22 December 1969) is the current Nigerian Minister of State for Mines and Steel Development.",
+              "links": [
+                {
+                  "text": "Minister of State for Mines and Steel Development",
+                  "type": "external",
+                  "site": "https://www.miningcadastre.gov.ng/ministers/"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Uchechukwu Sampson Ogah"
@@ -28,7 +35,19 @@
               }
             },
             {
-              "text": "An oil magnate, entrepreneur, investor and philanthropist, Ogah is the President of Master Energy Group, a conglomerate with over 15 subsidiaries and interests across a variety of industries."
+              "text": "An oil magnate, entrepreneur, investor and philanthropist, Ogah is the President of Master Energy Group, a conglomerate with over 15 subsidiaries and interests across a variety of industries, amongst is Masters Energy Oil and Gas Ltd.",
+              "links": [
+                {
+                  "text": "Master Energy Group",
+                  "type": "external",
+                  "site": "https://mastersenergygroup.com/"
+                },
+                {
+                  "text": "Masters Energy Oil and Gas Ltd",
+                  "type": "external",
+                  "site": "https://www.mastersenergyltd.com/"
+                }
+              ]
             },
             {
               "text": "Ogah holds the Nigerian national honour, the Officer of the Order of the Niger (OON)."
