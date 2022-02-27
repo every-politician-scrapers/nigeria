@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Muhammadu Buhari Adeyemi Chukwuebuka (born 17 December 1942) is a Nigerian politician who has been President of Nigeria since 2015.",
+              "text": "Muhammadu Buhari (born 17 December 1942) is a Nigerian politician who has been President of Nigeria since 2015.",
               "links": [
                 {
                   "text": "politician",
@@ -53,7 +53,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Muhammadu Buhari Adeyemi Chukwuebuka"
+                  "Muhammadu Buhari"
                 ]
               }
             }
@@ -226,17 +226,6 @@
             "Yusuf",
             "Zarah"
           ]
-        },
-        {
-          "total_width": "271",
-          "image1": "Seal of the President of Nigeria.svg",
-          "caption1": "Presidential seal",
-          "image2": "Flag of the President of Nigeria.svg",
-          "caption2": "Presidential flag",
-          "spacing": "2",
-          "color": "#FFFFFF",
-          "border": "2",
-          "template": "multiple image"
         },
         {
           "country": "NG",
