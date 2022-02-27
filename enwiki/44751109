@@ -33,7 +33,7 @@
         {
           "sentences": [
             {
-              "text": "Oluyemi Oluleke \"Yemi\" Osinbajo (born 8 March 1957) is a Nigerian lawyer and politician who has served as the Vice President of Nigeria since 29 May 2015.",
+              "text": "Oluyemi Oluleke \"Yemi\" Osinbajo (born 8 March 1957) is a Nigerian lawyer, professor, and politician who has served as the Vice President of Nigeria since 2015.",
               "links": [
                 {
                   "type": "internal",
@@ -42,6 +42,11 @@
                 {
                   "type": "internal",
                   "page": "Vice President of Nigeria"
+                },
+                {
+                  "text": "2015",
+                  "type": "internal",
+                  "page": "First Inauguration of Muhammadu Buhari"
                 }
               ],
               "formatting": {
@@ -49,6 +54,145 @@
                   "Oluyemi Oluleke \"Yemi\" Osinbajo"
                 ]
               }
+            },
+            {
+              "text": "A member of the All Progressives Congress, he previously served as Attorney General of Lagos State from 1999 to 2007 and holds the title of Senior Advocate of Nigeria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "All Progressives Congress"
+                },
+                {
+                  "type": "internal",
+                  "page": "Attorney General of Lagos State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Senior Advocate of Nigeria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Born in Lagos in 1957, Osinbajo is a graduate of the University of Lagos and London School of Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lagos"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Lagos"
+                },
+                {
+                  "type": "internal",
+                  "page": "London School of Economics"
+                }
+              ]
+            },
+            {
+              "text": "Shortly thereafter, he started lecturing at the University of Lagos while practicing law until 1999."
+            },
+            {
+              "text": "That year, Osinbajo was appointed Attorney-General and Commissioner for Justice in the cabinet of Lagos State Governor Bola Tinubu.",
+              "links": [
+                {
+                  "text": "Attorney-General and Commissioner for Justice",
+                  "type": "internal",
+                  "page": "Attorney General of Lagos State"
+                },
+                {
+                  "text": "Lagos State Governor",
+                  "type": "internal",
+                  "page": "Governor of Lagos State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bola Tinubu"
+                }
+              ]
+            },
+            {
+              "text": "After serving during both of Tinubu's four-year terms, Osinbajo left government in 2007 and returned to law and lecturing along with preaching in the Redeemed Christian Church of God.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Redeemed Christian Church of God"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to the 2015 presidential election, Osinbajo was chosen as the running mate to APC nominee Muhammadu Buhari.",
+              "links": [
+                {
+                  "text": "2015 presidential election",
+                  "type": "internal",
+                  "page": "2015 Nigerian general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muhammadu Buhari"
+                }
+              ]
+            },
+            {
+              "text": "Their ticket went on to defeat the then-incumbent duo of President Goodluck Jonathan and Vice President Namadi Sambo.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Goodluck Jonathan"
+                },
+                {
+                  "text": "Vice President",
+                  "type": "internal",
+                  "page": "Vice President of Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Namadi Sambo"
+                }
+              ]
+            },
+            {
+              "text": "Four years later, the ticket was re-elected over the Peoples Democratic Party's Atiku Abubakar and Peter Obi.",
+              "links": [
+                {
+                  "text": "re-elected",
+                  "type": "internal",
+                  "page": "2019 Nigerian general election"
+                },
+                {
+                  "text": "Peoples Democratic Party",
+                  "type": "internal",
+                  "page": "Peoples Democratic Party (Nigeria)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Atiku Abubakar"
+                },
+                {
+                  "type": "internal",
+                  "page": "Peter Obi"
+                }
+              ]
+            },
+            {
+              "text": "Osinbajo's tenure has been marked by his rising profile, especially when he took power as Acting President while Buhari went abroad."
+            },
+            {
+              "text": "Actions taken during his brief stints as the leader of the nation were decisive but contrasted with Buhari's style and were controversial among Buhari's inner circle."
             }
           ]
         }
@@ -57,10 +201,6 @@
         {
           "description": "14th Vice President of Nigeria",
           "template": "short description"
-        },
-        {
-          "date": "March 2021",
-          "template": "lead too short"
         },
         {
           "date": "August 2020",
