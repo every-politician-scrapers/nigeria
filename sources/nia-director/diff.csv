@@ -1,10 +1,8 @@
 @@,itemlabel,item,startdate,enddate
-+++,Albert K. Horsfall,Q4710495,1986,1990
-+++,Haliru Akilu,Q21004758,1990,1993
+->,Albert Horsfall->Albert K. Horsfall,Q4710495,1986,1990
+->,Halilu Akilu->Haliru Akilu,Q21004758,1990,1993
 +++,Zakari Y. Ibrahim,,1993,1998
 +++,Godfrey B. Preware,,1998,1999
 +++,Uche O. Okeke,,1999,2007
 +++,Emmanuel E. Imohe,,2007,2009-09
 +++,Olaniyi Oladeji,,2009-09,2013-10
-+++,Ayo Oke,Q29514889,2013-11-07,2017-10
-+++,Ahmed Rufai Abubakar,Q83154428,2018-01-10,
