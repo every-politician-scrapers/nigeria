@@ -5,6 +5,7 @@
 ->,Q66309786,Suleiman Adamu Kazaure,Minister of Water Resources,2015-11-01->2019-08-21,
 ->,Q66309734,Sharon Ikeazor,Minister of State Environment->Minister of State for Environment,2019-08-21,
 ->,Q65953957,Sunday Dare,Minister of Youth and Sports->Minister of Youth and Sports Development,2019-01-01->2019-08-21,
+->,Q65938686,Ramatu Tijjani Aliyu->Ramatu Tijani Aliyu,Minister of State for Federal Capital Territory->Minister of State for the Federal Capital Territory,2019-08-19->2019-08-21,
 ->,Q62670421,Osagie Emmanuel Ehanire->Osagie Ehanire,Minister of Health,2019-08-01->2019-08-21,
 ->,Q62356,Babatunde Fashola,Minister of Works and Housing,2015-11-11->2019-08-21,
 ->,Q59829052,Mohammed Musa Bello,Minister of the Federal Capital Territory,2015-05-29->2019-08-21,
@@ -14,6 +15,7 @@
 ->,Q42916213,Isa Ali Pantami,Communications minister of Nigeria->Minister of Communications and Digital Economy,2019-08-21,
 ->,Q42559242,Zainab Ahmed,"Finance Minister of Nigeria->Minister of Finance, Budget and National Planning",2018-09-01->2019-08-21,
 ->,Q41559149,Adamu Adamu,Education Minister of Nigeria->Minister of Education,2015-11-11->2019-08-21,
+->,Q361567,Muhammadu Buhari,Minister of Petroleum Resources,2015-11-11->2019-08-21,
 ->,Q3510803,George Akume,Minister of Special Duties and Inter-Governmental Affairs->Minister of Special Duties and Inter-governmental Affairs,2019-07-23->2019-08-21,
 ->,Q3510794,Chris Ngige,Nigerian Minister of Labour->Minister of Labour and Employment,2015-11-11->2019-08-21,
 ->,Q27830470,Pauline Tallen,Minister of Women Affairs and Social Development,2019-01-01->2019-08-21,
@@ -24,27 +26,14 @@
 ->,Q19561129,Lai Mohammed,Minister of Information and Culture,2015-11-01->2019-08-21,
 ->,Q18355928,Uchechukwu Sampson Ogah,"Minister of State, Mines and Steel Development->Minister of State for Mines and Steel Development",2019-08-21,
 ->,Q13655513,Ogbonnaya Onu,"Minister of Science and Technology->Minister of Science, Technology and Innovation",2019-06-14->2019-08-21,
+->,Q111079726->NULL,Muazu Sambo->Mu'azu Sambo,Minister of State for Works and Housing,2021-12-24,
+->,Q109661629->NULL,Abubakar D. Aliyu->Abubakar Aliyu,Minister of State for Works and Housing,2019-08-21,2021-09-01
 ->,Q109661629->NULL,Abubakar D. Aliyu->Abubakar Aliyu,Minister of Power,2021-09-01,
+->,Q109252006->NULL,Muhammad Mahmood Abubakar->Mohammad Mahmood Abubakar,Minister of Environment,2019-08-21,NULL->2021-09-10
 ->,Q109252006->NULL,Muhammad Mahmood Abubakar->Mohammad Mahmood Abubakar,Minister of Agriculture and Rural Development,2021-09-01,
+->,Q107491747,Omotayo Alasoadura->Tayo Alasoadura,Minister of State for Niger Delta Affairs,2019-09-24,
+->,Q107491747,Omotayo Alasoadura->Tayo Alasoadura,Minister of State for Labour and Employment,2019-08-21,2019-09-24
 ->,Q107453260->NULL,Clement Agba,Minister of Budget and National Planning->Minister of State for Budget and National Planning,2019-01-01->2019-08-21,
 ->,Q101693651,Zubairu Dada,Minister of State for Foreign Affairs of Nigeria->Minister of State for Foreign Affairs,2019-01-01->2019-08-21,
 ---,Q361567,Muhammadu Buhari,President of Nigeria,2015-05-29,
----,Q109252006,Muhammad Mahmood Abubakar,Minister of the Environment,2019-08-21,
-+++,Q99162710,Mustapha Baba Shehuri,Minister of State for Agriculture and Rural Development,2019-08-21,
-+++,Q73590469,Mariam Yalwaji Katagum,"Minister of State for Industry, Trade and Investment",2019-08-21,
-+++,Q66901800,Chukwuemeka Nwajiuba,Minister of State for Education,2019-08-21,
-+++,Q66039284,Goddy Jedy Agba,Minister of State for Power,2019-08-21,
-+++,Q65938686,Ramatu Tijani Aliyu,Minister of State for the Federal Capital Territory,2019-08-21,
-+++,Q5529326,Gbemisola Ruqayyah Saraki,Minister of State for Transportation,2019-08-21,
-+++,Q4681916,Adeleke Mamora,Minister of State for Health,2019-08-21,
-+++,Q361567,Muhammadu Buhari,Minister of Petroleum Resources,2019-08-21,
 +++,Q361567,Muhammadu Buhari,President,2019-05-29,
-+++,Q3509607,Timipre Sylva,Minister of State for Petroleum Resources,2019-08-21,
-+++,Q19667657,Festus Keyamo,Minister of State for Niger Delta Affairs,2019-08-21,2019-09-24
-+++,Q19667657,Festus Keyamo,Minister of State for Labour and Employment,2019-09-24,
-+++,Q107491747,Tayo Alasoadura,Minister of State for Niger Delta Affairs,2019-09-24,
-+++,Q107491747,Tayo Alasoadura,Minister of State for Labour and Employment,2019-08-21,2019-09-24
-+++,Q101245550,Mohammed Hassan Abdullahi,"Minister of State for Science, Technology and Innovation",2019-08-21,
-+++,,Mohammad Mahmood Abubakar,Minister of Environment,2019-08-21,2021-09-10
-+++,,Abubakar Aliyu,Minister of State for Works and Housing,2019-08-21,2021-09-01
-+++,,Mu'azu Sambo,Minister of State for Works and Housing,2021-12-24,

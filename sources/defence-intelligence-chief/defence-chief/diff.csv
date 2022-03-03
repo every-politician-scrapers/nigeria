@@ -1,17 +1,15 @@
 @@,itemlabel,item,startdate,enddate
-+++,A.G Mohammed,Q4727556,1985-01,1985-08
-+++,Haliru Akilu,Q21004758,1985-08,1986-07
-+++,Babatunde Elegbede,Q4837544,1986-07,1990-01
-+++,Haliru Akilu,Q21004758,1990-01,1990-09
+->,Aliyu Mohammed Gusau->A.G Mohammed,Q4727556,1985-01,1985-08
+->,Halilu Akilu->Haliru Akilu,Q21004758,1985-08,1986-07
+->,Halilu Akilu->Haliru Akilu,Q21004758,1990-01,1990-09
 +++,Idi Musa,,1990-09,1991-12
 +++,Ibrahim Dahiru Gumel,,1991-12,1995-03
 +++,Idi Musa,,1995-03,1999-07
-+++,Joseph Ajayi,Q111079375,1999-07,2005-09
-+++,Mohammed Said,Q6893298,2005-12,2007-08
-+++,A.M. Halidu-Giwa,Q111079373,2005-12,2007-08
-+++,Babagana Monguno,Q21063459,2009-07,2011-09
-+++,Sani Yakubu Audu,Q111079377,2011-09,2014-02
-+++,Gabriel Okoi,Q111079378,2014-02,2015-07
-+++,Monday Riku Morgan,Q21063488,2015-07,2016-01
-+++,John Saduana Davies,Q111079379,2016-01,2016-07
-+++,Mohammed Saliu Usman,Q111079380,2016-07,
+->,Joseph Ajayi,Q111079375->NULL,1999-07,2005-09
+->,Mohammed Said,Q111079384->NULL,2005-12,2007-08
+->,A.M. Halidu-Giwa,Q111079373->NULL,2005-12,2007-08
+->,Sani Yakubu Audu,Q111079377->NULL,2011-09,2014-02
+->,Gabriel Okoi,Q111079378->NULL,2014-02,2015-07
+->,Riku Morgan->Monday Riku Morgan,Q21063488,2015-07,2016-01
+->,John Saduana Davies,Q111079379->NULL,2016-01,2016-07
+->,Mohammed Saliu Usman,Q111079380->NULL,2016-07,
