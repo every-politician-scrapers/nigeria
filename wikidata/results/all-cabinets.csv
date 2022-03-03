@@ -1,2 +1,7 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q25052705,Cabinet of President Muhammadu Buhari,2015-11-11,11,,,,,,,,,,,,,,
+,Q86752651,Cabinet of Ibrahim Babangida,1985-09-01,10,,,1993-01-01,10,,,,,,,,,,
+,Q5015546,Cabinet of President Olusegun Obasanjo,1999-05-29,11,,,2007-05-29,11,,,,,Q16147354,Cabinet of President Umaru Yar'Adua,,,Q16147354,Cabinet of President Umaru Yar'Adua
+,Q16147354,Cabinet of President Umaru Yar'Adua,2007-07-01,11,,,2010-02-09,11,,,Q5015546,Cabinet of President Olusegun Obasanjo,Q5015547,Cabinet of President Goodluck Jonathan,Q5015546,Cabinet of President Olusegun Obasanjo,Q5015547,Cabinet of President Goodluck Jonathan
+,Q5015547,Cabinet of President Goodluck Jonathan,2010-02-09,11,,,2015-05-29,11,,,Q16147354,Cabinet of President Umaru Yar'Adua,Q25052705,Second Cabinet of President Muhammadu Buhari,Q16147354,Cabinet of President Umaru Yar'Adua,,
+,Q110913632,First Cabinet of President Muhammadu Buhari,2015-09-01,10,,,2019-05-28,11,,,Q5015547,Cabinet of President Goodluck Jonathan,Q25052705,Second Cabinet of President Muhammadu Buhari,,,,
+,Q25052705,Second Cabinet of President Muhammadu Buhari,2019-08-21,11,,,,,,,Q110913632,First Cabinet of President Muhammadu Buhari,,,,,,
