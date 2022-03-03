@@ -2,7 +2,6 @@ id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q500282,President of Nigeria,Q1033,Q1033,Q2625960,,1963-10-01,,,,President of Nigeria
 Q2625960,Vice President of Nigeria,Q1033,Q1033,,,1966-01-16,,,,Vice President of Nigeria
 Q109661491,Minister of Agriculture and Rural Development,Q1033,Q1033,,,,,,,
-Q108037332,Minister of Aviation,Q1033,Q1033,,,,,,,
 Q54600190,Minister of Aviation of Nigeria,Q1033,Q1033,,,,,,,
 Q108036022,Minister of Budget and National Planning,Q1033,Q1033,,,,,,,
 Q54601276,Communications minister of Nigeria,Q1033,Q1033,,,,,,,
@@ -25,6 +24,7 @@ Q109661675,Minister of Police Affairs,Q1033,Q1033,,,,,,,
 Q108036501,Minister of Power,Q1033,Q1033,,,,,,,
 Q108035729,Minister of Science and Technology,Q1033,Q1033,,,,,,,
 Q109661921,Minister of Special Duties and Inter-Governmental Affairs,Q1033,Q1033,,,,,,,
+Q111077758,Minister of Technology,Q1033,Q1033,,,,,,,
 Q108036175,Minister of Transportation,Q1033,Q1033,,,,,,,
 Q108037321,Minister of Water Resources,Q1033,Q1033,,,,,,,
 Q108037288,Minister of Women Affairs and Social Development,Q1033,Q1033,,,,,,,
@@ -38,5 +38,5 @@ Q108035665,Attorney General of the Federation,Q1033,Q1033,,,,,,,
 Q3511642,Chief Justice of Nigeria,Q1033,Q1033,,,,,,,Chief Justice of Nigeria
 Q4376676,President of the Senate of Nigeria,Q1033,Q1033,,,,,,,President of the Senate of Nigeria
 Q7574275,Speaker of the House of Representatives of Nigeria,,,,,,,,,Speaker of the House of Representatives of Nigeria
-Q25351737,Chief of Army Staff,,,,,,,,,Chief of Army Staff (Nigeria)
+Q5097054,Chief of the Defence Staff,,,,,1980-04,,,,Chief of the Defence Staff (Nigeria)
 Q109662154,Governor of the Central Bank of Nigeria,Q1033,,,,,,,,
