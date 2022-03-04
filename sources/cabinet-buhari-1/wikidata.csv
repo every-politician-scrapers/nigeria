@@ -1,4 +1,13 @@
 wdid,name,wdLabel,source,sourceDate,pid,position,start,end,psid
+Q111085760,Habibat Lawal,Habibat Lawal,,,Q18085838,Secretary to the Government of the Federation,2017-04-19,2017-11-01,Q111085760-15F06D85-A304-4E68-A9BB-E54D5CC846E1
+Q111086001,Suleiman Hassan Zarma,Suleiman Hassan Zarma,,,Q111085768,"Minister of State for Power, Works and Housing",2017-08-16,2018-12-13,Q111086001-C276235F-9F83-4025-AA33-C9DED0D43621
+Q111086001,Suleiman Hassan Zarma,Suleiman Hassan Zarma,,,Q109661479,Minister of Environment,2018-12-13,2019-05-28,Q111086001-C69D8C03-3E61-4093-BB33-60F966AE9763
+Q111086007,Abubakar Bawa Bwari,Abubakar Bawa Bwari,,,Q108035716,Minister of Mines and Steel Development,2018-05-30,2019-05-28,Q111086007-70C5244D-A416-45C7-92AC-61AC80996318
+Q111086007,Abubakar Bawa Bwari,Abubakar Bawa Bwari,,,Q108037343,"Minister of State, Mines and Steel Development",2015-11-11,2018-05-30,Q111086007-CDE898E6-9BA4-4873-8E7D-485CB488E9BC
+Q111086014,Omole Daramola,Omole Daramola,,,Q111079659,Minister of State for Niger Delta Affairs,2015-11-11,2019-05-28,Q111086014-CB10316F-12AD-4668-8B90-5FDB90AA0BB7
+Q13140667,Heineken Lokpobiri,Heineken Lokpobiri,,,Q111079663,Minister of State for Agriculture and Rural Development,2015-11-11,2019-05-28,Q13140667-791D285E-1284-4F31-A4CD-B49B88798C86
+Q13655513,Ogbonnaya Onu,Ogbonnaya Onu,,,Q108035729,Minister of Science and Technology,2015-11-11,2019-05-28,Q13655513-F64076D7-1B05-4668-BC33-6DFDF22AED0E
+Q18129932,Khadija Bukar Abba Ibrahim,Khadija Bukar Abba Ibrahim,,,Q109661385,Minister of State for Foreign Affairs of Nigeria,2015-11-11,2019-01-09,Q18129932-9094AE24-9CC9-4726-815C-58A1C6C9C1BF
 Q19561129,Lai Mohammed,Lai Mohammed,,,Q108037314,Minister of Information and Culture,2015-11-01,,Q19561129-2BD8EE78-6F31-4DAC-8CE2-C5FCCB35361B
 Q19730927,Yemi Osinbajo,Yemi Osinbajo,,,Q2625960,Vice President of Nigeria,2015-05-29,,Q19730927-c73c3e8f-4d1e-dc11-ccbe-04be6e9f5117
 Q20675806,Abdulrahman Bello Dambazau,Abdulrahman Bello Dambazau,,,Q108035710,Minister of Interior,2015-11-01,2019-05-01,Q20675806-8AF1DAF5-BE70-42E8-8039-B3B3BD40A3C5
@@ -7,15 +16,36 @@ Q21062079,Isaac Folorunso Adewole,Isaac Folorunso Adewole,,,Q75157896,Minister o
 Q21067202,Babachir David Lawal,Babachir David Lawal,,,Q18085838,Secretary to the Government of the Federation,2015-08-27,2017-10-29,Q21067202-1AE43FC9-7BE3-41CB-A376-66757BFB87A4
 Q21467394,Geoffrey Onyeama,Geoffrey Onyeama,,,Q3354633,Minister of Foreign Affairs,2015-01-01,,Q21467394-136cc5e7-48bc-ce01-ef4b-55e8e52a93c4
 Q21500792,Kemi Adeosun,Kemi Adeosun,,,Q5449550,Finance Minister of Nigeria,2015-11-11,2018-09-14,Q21500792-c97459f3-4767-7fa4-6a3f-2d40edecba45
+Q22002965,Abdur-Raheem Adebayo Shittu,Abdur-Raheem Adebayo Shittu,,,Q54601276,Communications minister of Nigeria,2015-11-11,2019-05-28,Q22002965-C13AB5EF-D811-4619-8806-1ABA5F9F815F
+Q22005714,Emmanuel Ibe Kachikwu,Emmanuel Ibe Kachikwu,,,Q111079656,Minister of State for Petroleum Resources,2015-11-11,2019-05-28,Q22005714-F4142E79-0634-4764-B41D-2ECF1016E22A
+Q23022601,James Ocholi,James Ocholi,,,Q111079660,Minister of State for Labour and Employment,2015-11-11,2016-03-06,Q23022601-1DF39005-CBB1-4070-ACD5-BE97CC5B32DD
 Q23541058,Mansur Dan Ali,Mansur Dan Ali,,,Q5251230,Minister of Defence of Nigeria,2015-11-11,2019-05-29,Q23541058-5D2DCA22-9278-4288-90A5-C8F015B21E03
 Q23714146,Abubakar Malami,Abubakar Malami,,,Q108035668,Minister of Justice,2015-11-11,,Q23714146-E4BEA3BD-FEE2-4310-B4A7-B50B35E52681
+Q27914853,Usani Uguru Usani,Usani Uguru Usani,,,Q108037311,Minister of Niger Delta,2015-11-11,2019-05-28,Q27914853-76DF9317-59DB-4DB0-8559-1143D8CFC110
+Q27967823,Okechukwu Enelamah,Okechukwu Enelamah,,,Q109661459,"Minister of Industry, Trade and Investment",2015-11-11,2019-05-28,Q27967823-5664EE5E-7BE3-41CE-9F23-72CBD82F1F6A
 Q3510794,Chris Ngige,Chris Ngige,,,Q106406342,Nigerian Minister of Labour,2015-11-11,,Q3510794-DA311186-BAD9-458E-BDB5-EA795DC00065
 Q361567,Muhammadu Buhari,Muhammadu Buhari,,,Q111079730,Minister of Petroleum Resources,2015-11-11,,Q361567-3E10A2A5-7D45-4ED9-906C-5050D26EB29A
 Q361567,Muhammadu Buhari,Muhammadu Buhari,,,Q500282,President of Nigeria,2015-05-29,,Q361567-bb38d547-47f9-93d3-fd1a-a95ff28b1815
 Q41559149,Adamu Adamu,Adamu Adamu,,,Q75153172,Education Minister of Nigeria,2015-11-11,,Q41559149-766A52B1-B859-47F0-B4F4-504D4CA015F0
-Q42559242,Zainab Ahmed,Zainab Ahmed,,,Q5449550,Finance Minister of Nigeria,2018-09-01,,Q42559242-765d441b-467e-f1d4-fe5c-b8118aa81cb9
-Q42559242,Zainab Ahmed,Zainab Ahmed,,,Q108067484,Minister of State for Budget and National Planning,2015-01-01,2018-01-01,Q42559242-f4dbd60d-419e-1b1d-5b4b-da16dcd1424a
+Q41560178,Anthony Onwuka,Anthony Onwuka,,,Q111079668,Minister of State for Education,2015-11-11,2019-05-28,Q41560178-9FEAE949-DEFC-40BB-A413-C35E52B87F5E
+Q42559242,Zainab Ahmed,Zainab Ahmed,,,Q5449550,Finance Minister of Nigeria,2018-09-14,,Q42559242-765d441b-467e-f1d4-fe5c-b8118aa81cb9
+Q42559242,Zainab Ahmed,Zainab Ahmed,,,Q108067484,Minister of State for Budget and National Planning,2015-11-11,2018-09-19,Q42559242-f4dbd60d-419e-1b1d-5b4b-da16dcd1424a
+Q42588916,Aisha Abubakar,Aisha Abubakar,,,Q108037288,Minister of Women Affairs and Social Development,2018-09-30,2019-05-28,Q42588916-2A22F9A4-632B-4F63-A25C-21AF12A81218
+Q42588916,Aisha Abubakar,Aisha Abubakar,,,Q111079666,"Minister of State for Industry, Trade and Investment",2015-11-11,2018-09-30,Q42588916-64C017B0-4BC7-414F-8C87-0A8DFF8BA5C3
+Q4699144,Aisha Jummai,Aisha Jummai,,,Q108037288,Minister of Women Affairs and Social Development,2015-11-11,2018-09-29,Q4699144-5C800CF7-13D2-4EE9-AD03-4CF33375984C
 Q47363740,Boss Mustapha,Boss Mustapha,,,Q18085838,Secretary to the Government of the Federation,2017-11-01,,Q47363740-B83F8FF0-E141-4C15-AF43-3F67B5AC679C
+Q4746340,Amina J. Mohammed,Amina J. Mohammed,,,Q109661479,Minister of Environment,2015-11-11,2016-12-15,Q4746340-9D54332C-8893-4FAF-A65E-6D3D3EF5ACEF
+Q4820218,Audu Innocent Ogbeh,Audu Innocent Ogbeh,,,Q109661491,Minister of Agriculture and Rural Development,2015-11-11,2019-05-28,Q4820218-CBA7936D-099E-4B51-9AAF-B9F26CF2DB0B
 Q59829052,Mohammed Musa Bello,Mohammed Musa Bello,,,Q59514359,Minister of the Federal Capital Territory,2015-05-29,,Q59829052-8AE8B3EE-5D26-47DA-A15B-BC787A99B9FC
+Q60318992,Ibrahim Jibril,Ibrahim Jibril,,,Q108037339,Minister of State Environment,2015-11-11,2016-12-15,Q60318992-E6AEC24A-790F-41BF-8ED5-63788DEB8528
+Q60318992,Ibrahim Jibril,Ibrahim Jibril,,,Q109661479,Minister of Environment,2016-12-15,2018-12-12,Q60318992-FC5E1078-491D-4AAD-B768-85BB3A529A09
+Q61630007,Solomon Dalung,Solomon Dalung,,,Q108037328,Minister of Youth and Sports,2015-11-11,2019-05-28,Q61630007-F8E85632-AB60-4946-98F3-95A35AB02542
+Q61995784,Stephen Ocheni,Stephen Ocheni,,,Q111079660,Minister of State for Labour and Employment,2017-08-16,2019-05-28,Q61995784-FE0A4519-1569-4FCB-B34A-5204AE6E861E
 Q62356,Babatunde Fashola,Babatunde Fashola,,,Q108036024,Minister of Works and Housing,2015-11-11,,Q62356-CB8AA16B-F3D3-4302-9F8D-5DB24D8986AB
+Q62670421,Osagie Emmanuel Ehanire,Osagie Emmanuel Ehanire,,,Q111079672,Minister of State for Health,2015-11-11,2019-05-28,Q62670421-FD826C44-B9A2-494A-BE54-81F4E8EF0E22
+Q6380660,Kayode Fayemi,Kayode Fayemi,,,Q108035716,Minister of Mines and Steel Development,2015-11-11,2018-05-30,Q6380660-D603C1D0-BEBC-4CA9-A712-493E6649B3A3
 Q66309786,Suleiman Adamu Kazaure,Suleiman Adamu Kazaure,,,Q108037321,Minister of Water Resources,2015-11-01,,Q66309786-447ABA62-5F0B-4795-9BA9-55EFA6C6EF69
+Q7370548,Rotimi Amaechi,Rotimi Amaechi,,,Q111079667,Minister of State for Transportation,2015-11-11,2019-05-28,Q7370548-032A2831-B01F-45B4-9B16-4FE891957DE7
+Q7530281,Sirika Hadi,Sirika Hadi,,,Q54600190,Minister of Aviation of Nigeria,2015-11-11,2019-05-28,Q7530281-E2873FD7-4C10-4983-8149-003EDC47FDBF
+Q7877282,Udoma Udo Udoma,Udoma Udo Udoma,,,Q108067484,Minister of State for Budget and National Planning,2015-11-11,2019-05-28,Q7877282-86E2EC1E-5C8E-41C2-A16C-6477EE836D58
+Q99162710,Mustapha Baba Shehuri,Mustapha Baba Shehuri,,,Q111085768,"Minister of State for Power, Works and Housing",2015-11-11,2019-05-28,Q99162710-D404EE3C-67B3-4257-9632-1A3E218A57A4
