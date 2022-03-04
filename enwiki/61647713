@@ -1,0 +1,129 @@
+{
+  "title": "Chukwuemeka Nwajiuba",
+  "pageID": 61647713,
+  "categories": [
+    "Imo State politicians",
+    "University of Lagos alumni",
+    "Living people",
+    "1967 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chukwuemeka Nwajiuba (born 20 August 1967) is a Nigerian politician and lawyer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nigerian"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chukwuemeka Nwajiuba"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Minister of State for Education of the Federal Republic of Nigeria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Federal Republic of Nigeria"
+                }
+              ]
+            },
+            {
+              "text": "He has previously served as the Chairman of TETFund Board of Trustees."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician and lawyer",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "September 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1967",
+          "month": "8",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Chukwuemeka Nwajiuba"
+          },
+          "image": {
+            "text": "Chukwuemeka_Nwajiuba.jpg"
+          },
+          "office": {
+            "text": "Minister of State for Education"
+          },
+          "president": {
+            "text": "Muhammadu Buhari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammadu Buhari"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Anthony Anwukah"
+          },
+          "birth_date": {
+            "text": "August 20, 1967"
+          },
+          "birth_place": {
+            "text": "Ehime Mbano-Imo State, Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Nigeria"
+          },
+          "party": {
+            "text": "All Progressives Congress"
+          },
+          "alma_mater": {
+            "text": "Imo State University University of Lagos University of Jos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Imo State University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Lagos"
+              },
+              {
+                "type": "internal",
+                "page": "University of Jos"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "politician lawyer"
+          }
+        }
+      ]
+    }
+  ]
+}

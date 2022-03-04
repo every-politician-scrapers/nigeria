@@ -1,0 +1,200 @@
+{
+  "title": "Boss Mustapha",
+  "pageID": 56305590,
+  "categories": [
+    "Living people",
+    "Ahmadu Bello University alumni",
+    "People from Adamawa State",
+    "20th-century Nigerian politicians",
+    "21st-century Nigerian politicians",
+    "Buhari administration personnel",
+    "Marghi people",
+    "Secretary to the government federation of Nigeria",
+    "1956 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Boss Gidahyelda Mustapha is a Nigerian lawyer and politician who is the Secretary to the Government of the Federation (SGF) and Chairman of the Presidential Task Force on COVID-19.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary to the Government of the Federation"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Boss Gidahyelda Mustapha"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was previously managing director of Nigerian Inland Waterways Authority until his appointed in 2017 to replace Babachir David Lawal as SGF by President Muhammad Buhari on 30 October 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Babachir David Lawal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muhammad Buhari"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Boss Mustapha"
+          },
+          "office1": {
+            "text": "Secretary to the Government of the Federation",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary to the Government of the Federation"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 November 2017"
+          },
+          "predecessor1": {
+            "text": "Babachir David Lawal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Babachir David Lawal"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Muhammadu Buhari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammadu Buhari"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Chairman of the Presidential Task Force on COVID-19"
+          },
+          "president2": {
+            "text": "Muhammadu Buhari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammadu Buhari"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "17 March 2020"
+          },
+          "office3": {
+            "text": "managing director of Nigeria Inland Waterways Authority"
+          },
+          "term_start3": {
+            "text": "23 June 2016"
+          },
+          "term_end3": {
+            "text": "30 October 2017"
+          },
+          "birth_date": {
+            "text": "1956",
+            "number": 1956
+          },
+          "birth_place": {
+            "text": "Hong, Northern Region British Nigeria (now Hong, Adamawa State, Nigeria)",
+            "links": [
+              {
+                "text": "Hong",
+                "type": "internal",
+                "page": "Hong, Nigeria"
+              },
+              {
+                "text": "Northern Region",
+                "type": "internal",
+                "page": "Northern Region, Nigeria"
+              },
+              {
+                "type": "internal",
+                "page": "British Nigeria"
+              },
+              {
+                "text": "Hong",
+                "type": "internal",
+                "page": "Hong, Nigeria"
+              },
+              {
+                "type": "internal",
+                "page": "Adamawa State"
+              }
+            ]
+          },
+          "party": {
+            "text": "All Progressives Congress (2013 to present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "All Progressives Congress"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Ahmadu Bello University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmadu Bello University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer and politician"
+          },
+          "otherparty": {
+            "text": "People's Democratic Party (1998 to 2006) Action Congress (2006 to 2013)",
+            "links": [
+              {
+                "text": "People's Democratic Party",
+                "type": "internal",
+                "page": "People's Democratic Party (Nigeria)"
+              },
+              {
+                "text": "Action Congress",
+                "type": "internal",
+                "page": "Action Congress of Nigeria"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Boss Gidahyelda Mustapha"
+          }
+        }
+      ]
+    }
+  ]
+}

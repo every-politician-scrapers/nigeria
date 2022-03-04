@@ -1,0 +1,177 @@
+{
+  "title": "Ramatu Tijani Aliyu",
+  "pageID": 61361396,
+  "categories": [
+    "Living people",
+    "1970 births",
+    "All Nigeria Peoples Party politicians",
+    "All Progressives Congress politicians",
+    "Buhari administration personnel",
+    "People from Kogi State",
+    "21st-century Nigerian women politicians",
+    "Ahmadu Bello University alumni",
+    "Nigerian women environmentalists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ramatu (born 12 June 1970) is a Nigerian politician from Kogi State, Nigeria.",
+              "links": [
+                {
+                  "text": "Nigerian",
+                  "type": "internal",
+                  "page": "Nigerian people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kogi State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ramatu"
+                ]
+              }
+            },
+            {
+              "text": "She is the Minister of State for Federal Capital Territory (FCT) appointed by president Muhammadu Buhari on August 21, 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Muhammadu Buhari"
+                }
+              ]
+            },
+            {
+              "text": "Ramatu was previously the National Woman Leader of the All Nigeria Peoples Party (ANPP) later All Progressive Congress (APC) after the party and other political parties merged (2014 - 2018).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "All Progressive Congress"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has supported the incumbent president Muhammadu Buhari during his presidential campaigns, where she criticised the opposition candidate in 2019 election, Alhaji Atiku Abubakar of not bringing anything important to the development of the country while he was the vice president of Nigeria, and called on Nigerians not to expect anything from him as he has nothing to offer again.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Atiku Abubakar"
+                }
+              ]
+            },
+            {
+              "text": "She was previously elected the president of the Council of African Political Parties."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1970",
+          "month": "06",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ramatu Tijjani Aliyu"
+          },
+          "spouse": {
+            "text": "Alhaji Tijjani Aliyu (Sardaunan Budon)"
+          },
+          "birth_date": {
+            "text": "June 12, 1970"
+          },
+          "birth_place": {
+            "text": "Kogi State, Nigeria"
+          },
+          "nationality": {
+            "text": "Nigerian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigerian"
+              }
+            ]
+          },
+          "party": {
+            "text": "All Progressive Congress (APC)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "All Progressive Congress"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Former Women Leader APC",
+            "links": [
+              {
+                "text": "APC",
+                "type": "internal",
+                "page": "All Progressive Congress"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2014",
+            "number": 2014
+          },
+          "term_end2": {
+            "text": "2018",
+            "number": 2018
+          },
+          "office1": {
+            "text": "President Council of African Political Parties"
+          },
+          "office": {
+            "text": "Minister of State for Federal Capital Territory (FCT)"
+          },
+          "term_start": {
+            "text": "21 August 2019"
+          },
+          "alma_mater": {
+            "text": "Ahmadu Bello University, Nasarawa State University, Commonwealth University, London.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmadu Bello University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Business, Politician'"
+          },
+          "profession": {
+            "text": "Urban Planner, Politician"
+          }
+        }
+      ]
+    }
+  ]
+}

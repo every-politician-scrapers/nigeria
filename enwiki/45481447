@@ -1,0 +1,173 @@
+{
+  "title": "Festus Keyamo",
+  "pageID": 45481447,
+  "categories": [
+    "1970 births",
+    "People from Delta State",
+    "Living people",
+    "Nigerian human rights activists",
+    "Nigerian activists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Festus Keyamo (born 21 January 1970) is a Nigerian lawyer, a Senior Advocate of Nigeria SAN, critic, columnist and human rights activist.",
+              "links": [
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                },
+                {
+                  "text": "SAN",
+                  "type": "internal",
+                  "page": "Senior Advocate of Nigeria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Festus Keyamo"
+                ]
+              }
+            },
+            {
+              "text": "In April, 2018, Keyamo was appointed as the Director of Strategic Communications (Official Spokesperson) of the 2019 re-election bid of the President of Nigeria."
+            },
+            {
+              "text": "He was appointed minister of state for Niger Delta ministry and later minister of state for Labour and employment."
+            },
+            {
+              "text": "The position he presently occupies."
+            },
+            {
+              "text": "He has since been a politician."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "yes",
+            "year": "1970",
+            "month": "01",
+            "date": "21",
+            "template": "birth date",
+            "text": "January 21, 1970"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Festus Keyamo"
+          },
+          "honorific-suffix": {
+            "text": "SAN, FCIArb(UK)",
+            "links": [
+              {
+                "text": "SAN",
+                "type": "internal",
+                "page": "Senior Advocate of Nigeria"
+              },
+              {
+                "text": "FCIArb",
+                "type": "internal",
+                "page": "CIArb"
+              },
+              {
+                "text": "UK",
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "image": {
+            "text": "Festus Keyamo at Mojeec International 2020 08.jpg"
+          },
+          "caption": {
+            "text": "Festus Keyamo at a visit to Mojeec International in October 2020"
+          },
+          "office1": {
+            "text": "Minister of State, for Labour and Employment",
+            "links": [
+              {
+                "text": "Minister of State, for Labour and Employment",
+                "type": "internal",
+                "page": "Federal Ministry of Labour and Employment"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "24 September 2019"
+          },
+          "predecessor1": {
+            "text": "Stephen Ocheni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephen Ocheni"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "January 21, 1970"
+          },
+          "birth_place": {
+            "text": "Ughelli, Delta State, Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ughelli"
+              },
+              {
+                "type": "internal",
+                "page": "Delta State, Nigeria"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nigerian"
+          },
+          "citizenship": {
+            "text": "Nigerian"
+          },
+          "occupation": {
+            "text": "Lawyer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawyer"
+              }
+            ]
+          },
+          "parents": {
+            "text": "Pa Matthias Keyamo, Caroline Abeni Keyamo(née Ogunjobi)"
+          },
+          "known_for": {
+            "text": "Human rights activism"
+          },
+          "party": {
+            "text": "All Progressives Congress, APC",
+            "links": [
+              {
+                "type": "internal",
+                "page": "All Progressives Congress"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
