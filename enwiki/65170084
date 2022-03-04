@@ -1,0 +1,131 @@
+{
+  "title": "Mustapha Baba Shehuri",
+  "pageID": 65170084,
+  "categories": [
+    "Living people",
+    "Nigerian political people",
+    "1961 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mustapha Baba Shehuri (born 4 July 1961) is a Nigerian Politician who is the incumbent Federal Minister of State for Agriculture and Rural Development.",
+              "formatting": {
+                "bold": [
+                  "Mustapha Baba Shehuri"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Bio"
+          ],
+          "date": "October 2020",
+          "template": "notability"
+        },
+        {
+          "year": "1961",
+          "month": "07",
+          "day": "04",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Alhaji",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alhaji"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of State for Agriculture and Rural Development"
+          },
+          "term_start": {
+            "text": "2019",
+            "number": 2019
+          },
+          "president": {
+            "text": "Muhammadu Buhari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammadu Buhari"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of State for Works, Power and Housing"
+          },
+          "term_start2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "term_end2": {
+            "text": "2019",
+            "number": 2019
+          },
+          "president2": {
+            "text": "Muhammadu Buhari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammadu Buhari"
+              }
+            ]
+          },
+          "name": {
+            "text": "Mustapha Baba Shehuri"
+          },
+          "birth_name": {
+            "text": "Mustapha Baba Shehuri"
+          },
+          "birth_date": {
+            "text": "July 4, 1961"
+          },
+          "alma_mater": {
+            "text": "Gamboru primary school,Maiduguri, Borno State.\nGovernment secondary school, Damagun, Borno State.\nUniversity of Maiduguri, Maiduguri Borno State.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Maiduguri"
+              },
+              {
+                "type": "internal",
+                "page": "Maiduguri"
+              },
+              {
+                "type": "internal",
+                "page": "Borno State"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "politician"
+          }
+        }
+      ]
+    }
+  ]
+}
