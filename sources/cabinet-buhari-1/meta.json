@@ -1,0 +1,16 @@
+{
+    "cabinet":  {
+        "id":     "Q110913632",
+        "start":  "2015-11-11",
+        "end":    "2019-05-28",
+        "parent": "Q5015542"
+    },
+    "source": {
+        "url":   "https://en.wikipedia.org/wiki/First_Cabinet_of_President_Muhammadu_Buhari",
+        "title": "First Cabinet of President Muhammadu Buhari",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    }
+}
