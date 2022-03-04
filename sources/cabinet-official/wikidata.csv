@@ -1,7 +1,7 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q101245550,Mohammed A. Abdullahi,Mohammed Hassan Abdullahi,male,1968-04-21,11,https://www.osgf.gov.ng/ministries,2022-03-03,Q111079664,"Minister of State, Science and Technology",2019-08-21,Q101245550-733EBC47-A79A-45D6-B4B6-D34AF0811AE1
-Q101693651,Zubairu Dada,Zubairu Dada,male,1952-03-28,11,https://www.osgf.gov.ng/ministries,2021-11-21,Q109661385,Minister of State Foreign Affairs,2019-01-01,Q101693651-9E36CA15-D2F9-4086-8434-C96A85D80B46
-Q107453260,Clem Ikanade Agba,Clement Agba,male,1964-01-01,9,https://www.osgf.gov.ng/ministries,2021-08-10,Q108036022,Minister of Budget and National Planning,2019-01-01,Q107453260-B1D6C7FF-81AF-4D6B-B06F-E59A84B87821
+Q101693651,Zubairu Dada,Zubairu Dada,male,1952-03-28,11,https://www.osgf.gov.ng/ministries,2021-11-21,Q109661385,Minister of State Foreign Affairs,2021-08-21,Q101693651-9E36CA15-D2F9-4086-8434-C96A85D80B46
+Q107453260,Clem Ikanade Agba,Clement Agba,male,1964-01-01,9,https://www.osgf.gov.ng/ministries,2021-08-10,Q108036022,Minister of Budget and National Planning,2021-08-21,Q107453260-B1D6C7FF-81AF-4D6B-B06F-E59A84B87821
 Q107491747,Omotayo Alasuadura,Omotayo Alasoadura,male,1949-01-01,9,https://www.osgf.gov.ng/ministries,2022-03-03,Q111079659,Minister of State for Niger Delta,2019-09-24,Q107491747-85B1E13C-26E4-4D4D-87B2-17C0233695BE
 Q108704107,Mohammed Maigari Dangyadi,Mohammed Maigari Dingyadi,male,1953-01-01,9,https://www.osgf.gov.ng/ministries,2021-11-21,Q109661675,Minister of Police Affairs,2019-08-21,Q108704107-AC25D2D5-19FC-44DD-9190-98CFFF4F2DC3
 Q109252006,Muhammad Mahmood Abubakar,Muhammad Mahmood Abubakar,male,,,,,Q109661491,Minister of Agriculture and Rural Development,2021-09-01,Q109252006-3281F3A6-8E4D-4516-BA70-74594651349D
@@ -17,14 +17,14 @@ Q20195461,Sadiya Umar Faruk,Sadiya Umar Farouq,female,1974-11-05,11,https://www.
 Q21467394,Geoffrey Onyeama,Geoffrey Onyeama,male,1956-02-02,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q3354633,Minister of Foreign Affairs,2015-01-01,Q21467394-136cc5e7-48bc-ce01-ef4b-55e8e52a93c4
 Q23714146,Abubakar Malami,Abubakar Malami,male,1967-04-17,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108035665,Attorney General of the Federation (AGF),2015-11-11,Q23714146-D0F7271A-43E4-419B-82ED-843DF14B350A
 Q23714146,Abubakar Malami,Abubakar Malami,male,1967-04-17,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108035668,Minister of Justice,2015-11-11,Q23714146-E4BEA3BD-FEE2-4310-B4A7-B50B35E52681
-Q27830470,Pauline Tallen,Pauline Tallen,female,1959-01-08,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037288,Minister of Women Affairs and Social Development,2019-01-01,Q27830470-50261562-53EE-4F67-B91F-044288E5F844
+Q27830470,Pauline Tallen,Pauline Tallen,female,1959-01-08,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037288,Minister of Women Affairs and Social Development,2021-08-21,Q27830470-50261562-53EE-4F67-B91F-044288E5F844
 Q3509607,Timipre Silva,Timipre Sylva,male,1964-07-07,11,https://www.osgf.gov.ng/ministries,2022-03-03,Q111079656,Minister of State Petroleum,2019-08-21,Q3509607-AE9E2D33-8A50-42F8-8A8E-4D89BE80EBDD
 Q3510794,Chris Ngige,Chris Ngige,male,1952-08-08,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q106406342,Minister of Labour and Employment,2015-11-11,Q3510794-DA311186-BAD9-458E-BDB5-EA795DC00065
 Q3510803,George Akume,George Akume,male,1953-12-27,11,https://www.osgf.gov.ng/ministries,2021-11-21,Q109661921,Minister of Special Duties and Inter-Governmental Affairs,2019-07-23,Q3510803-3D8A0D35-5DB3-4D6F-8A67-8C24AB5106AD
 Q361567,Muhammadu Buhari,Muhammadu Buhari,male,1942-12-17,11,,,Q111079730,Minister of Petroleum Resources,2015-11-11,Q361567-3E10A2A5-7D45-4ED9-906C-5050D26EB29A
 Q361567,Muhammadu Buhari,Muhammadu Buhari,male,1942-12-17,11,,,Q500282,President of Nigeria,2015-05-29,Q361567-bb38d547-47f9-93d3-fd1a-a95ff28b1815
 Q41559149,Adamu Adamu,Adamu Adamu,male,1956-05-25,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q75153172,Minister of Education,2015-11-11,Q41559149-766A52B1-B859-47F0-B4F4-504D4CA015F0
-Q42559242,Zainab Shamsuna Ahmed,Zainab Ahmed,female,1960-06-16,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q5449550,"Minister of Finance, Budget and National Planning",2018-09-01,Q42559242-765d441b-467e-f1d4-fe5c-b8118aa81cb9
+Q42559242,Zainab Shamsuna Ahmed,Zainab Ahmed,female,1960-06-16,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q5449550,"Minister of Finance, Budget and National Planning",2018-09-14,Q42559242-765d441b-467e-f1d4-fe5c-b8118aa81cb9
 Q42916213,Ali Isa Pantami,Isa Ali Pantami,male,1972-10-20,11,https://www.osgf.gov.ng/ministries,2021-11-21,Q54601276,Minister of Communication and Digital Economy,2019-08-21,Q42916213-4CBAF8DA-26D0-445A-B6C3-12CF4DA97E8B
 Q4681916,Adeleke Mamora,Adeleke Mamora,male,1953-02-16,11,,,Q111079672,Minister of State for Health,2019-08-21,Q4681916-A4083417-A361-4EDF-A607-08EA718FF836
 Q4866857,Bashir Salihi Magashi,Bashir Salihi Magashi,male,,,https://www.osgf.gov.ng/ministries,2021-08-10,Q5251230,Minister of Defence,2019-08-21,Q4866857-9552EDAD-93FC-4AD0-9BA2-304C6DEA5AFA
@@ -34,7 +34,7 @@ Q59829052,Mohammed Musa Bello,Mohammed Musa Bello,male,1959-01-01,10,https://www
 Q62356,Babatunde Raji Fashola,Babatunde Fashola,male,1963-06-28,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108036024,Minister of Works and Housing,2015-11-11,Q62356-CB8AA16B-F3D3-4302-9F8D-5DB24D8986AB
 Q62670421,Osagie Ehanire,Osagie Emmanuel Ehanire,male,1946-01-01,9,https://www.osgf.gov.ng/ministries,2021-08-10,Q75157896,Minister of Health,2019-08-01,Q62670421-498112ff-0a22-4f3a-9ddf-987d3642dbc3
 Q65938686,Ramatu Tijani Aliyu,Ramatu Tijjani Aliyu,female,1970-06-12,11,https://www.osgf.gov.ng/ministries,2022-03-03,Q111079658,Minister of State Federal Capital Territory (FCT),2019-08-19,Q65938686-6AD73984-CFED-40B7-9DDD-C12D2AF03CA2
-Q65953957,Sunday Dare,Sunday Dare,male,1966-05-29,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037328,Minister of Youth and Sports,2019-01-01,Q65953957-B25BFFCD-D761-4FF6-9B63-F46160AF6716
+Q65953957,Sunday Dare,Sunday Dare,male,1966-05-29,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037328,Minister of Youth and Sports,2021-08-21,Q65953957-B25BFFCD-D761-4FF6-9B63-F46160AF6716
 Q66039284,Godwin Jedi-Agba,Goddy Jedy Agba,male,1958-08-20,11,https://www.osgf.gov.ng/ministries,2022-03-03,Q111079710,Minister of State Power,2019-08-21,Q66039284-79ED7D19-550F-45C7-A333-BBD96CFF955B
 Q66309734,Sharon Ikeazor,Sharon Ikeazor,female,1961-01-01,9,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037339,Minister of State Environment,2019-08-21,Q66309734-AA423AF4-0321-444E-BC1A-2249C482AB5D
 Q66309786,Suleiman Adamu,Suleiman Adamu Kazaure,male,1963-04-19,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108037321,Minister of Water Resources,2015-11-01,Q66309786-447ABA62-5F0B-4795-9BA9-55EFA6C6EF69
@@ -42,6 +42,6 @@ Q66901800,Emeka Nwajuba,Chukwuemeka Nwajiuba,male,1967-01-01,9,https://www.osgf.
 Q7296120,Rauf Aregbesola,Rauf Aregbesola,male,1957-05-25,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108035710,Minister of Interior,2019-08-01,Q7296120-2D15FA22-202E-43AE-9155-F79D400D8213
 Q73590469,Maryam Katagum,Mariam Yalwaji Katagum,female,1954-01-01,9,https://www.osgf.gov.ng/ministries,2022-03-03,Q111079666,"Minister of State Industry, Trade and Investment",2019-08-21,Q73590469-17452C0B-967C-4438-802B-E84D92AA4643
 Q7370548,Rotimi Amaechi,Rotimi Amaechi,male,1965-05-27,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q108036175,Minister of Transportation,2019-08-21,Q7370548-2E1D4456-5242-47F0-87EB-CE5B482AC471
-Q75184824,Olammilekan Adegbite,Olamilekan Adegbite,male,,,https://www.osgf.gov.ng/ministries,2021-08-10,Q108035716,Minister of Mines and Steel Development,2019-01-01,Q75184824-6C527CEF-52ED-4CBF-9874-7BAFAD1BFE29
+Q75184824,Olammilekan Adegbite,Olamilekan Adegbite,male,,,https://www.osgf.gov.ng/ministries,2021-08-10,Q108035716,Minister of Mines and Steel Development,2019-08-01,Q75184824-6C527CEF-52ED-4CBF-9874-7BAFAD1BFE29
 Q7530281,Hadi Sirika,Sirika Hadi,male,1964-03-02,11,https://www.osgf.gov.ng/ministries,2021-08-10,Q54600190,Minister of Aviation,2019-08-22,Q7530281-A938E366-27D1-4AD3-A467-0F5E682493C6
 Q99162710,Mustapha Baba Shehuri,Mustapha Baba Shehuri,male,1961-07-04,11,https://www.osgf.gov.ng/ministries,2022-03-03,Q111079663,Minister of State Agriculture and Rural Development,2019-08-21,Q99162710-4B18E22A-DC7A-4A31-B737-6995B158995B
