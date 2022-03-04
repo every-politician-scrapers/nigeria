@@ -1,0 +1,115 @@
+item,itemLabel,state
+Q5381464,Enyinnaya Abaribe Harcourt,Abia
+Q7042547,Nkechi Justina Nwaogu,Abia
+Q3510270,Uche Chukwumerije,Abia
+Q4680546,Adamu Sidi Ali,Abuja
+Q5591175,Grace Folashade Bent,Adamawa
+Q6301957,Jubril Aminu,Adamawa
+Q6893199,Mohammed Mana,Adamawa
+Q4734691,Aloysius Akpan Etok,Akwa Ibom
+Q5347498,Effiong Dickson Bob,Akwa Ibom
+Q5370301,Eme Ufot Ekaette,Akwa Ibom
+Q4769401,Annie Okonkwo,Anambra
+Q13140688,Ikechukwu Obiorah,Anambra
+Q6297113,Joy Emodi,Anambra
+Q4735427,Alphonsus Obi Igbeke,Anambra
+Q13140747,Mohammed A Muhammed,Bauchi
+Q7635965,Sulaiman Mohammed Nazif,Bauchi
+Q4849691,Bala Mohammed,Bauchi
+Q13140667,Heineken Lokpobiri,Bayelsa
+Q13140760,Nimi Barigha-Amange,Bayelsa
+Q5373326,Emmanuel Paulker,Bayelsa
+Q459205,David Mark,Benue
+Q3510803,George Akume,Benue
+Q6280933,Joseph Akaagerger,Benue
+Q6349100,Kaka Mallam Yale,Borno
+Q6736241,Maina Maaji Lawan,Borno
+Q7089709,Omar Hambagda,Borno
+Q4868127,Bassey Ewa-Henshaw,Cross River
+Q5607086,Gregory Ngaji,Cross River
+Q378378,Victor Ndoma-Egba,Cross River
+Q6138857,James Manager,Delta
+Q7147437,Patrick Osakwe,Delta
+Q4681514,Adego Erhiawarie Eferakeya,Delta
+Q4771979,Anthony Agbo,Ebonyi
+Q4778249,Anyimchukwu Ude,Ebonyi
+Q6310120,Julius Ucha,Ebonyi
+Q5348580,Ehigie Edobor Uzamere,Edo
+Q7077836,Odion Ugbesia,Edo
+Q8053833,Yisa Braimoh,Edo
+Q4681508,Adefemi Kila,Ekiti
+Q5445889,Festus Olabode Ola,Ekiti
+Q7660769,Ayodele S. Arise,Ekiti
+Q13140852,Sola Akinyede,Ekiti
+Q4831565,Ayogu Eze,Enugu
+Q3510881,Chimaroke Nnamani,Enugu
+Q13140687,Ike Ekweremadu,Enugu
+Q4820221,Audu Idris Umar,Gombe
+Q6380074,Kawu Peto Dukku,Gombe
+Q7395446,Sa'idu Ahmed Alkali,Gombe
+Q7689220,Tawar Umbi Wada,Gombe
+Q1945914,Chris Anyanwu,Imo
+Q7106879,Osita Izunaso,Imo
+Q7660767,Sylvester Anyanwu,Imo
+Q4665816,Abdulaziz Usman,Jigawa
+Q3509330,Ibrahim Saminu Turaki,Jigawa
+Q6933348,Mujitaba Mohammed Mallam,Jigawa
+Q339008,Ahmed Makarfi,Kaduna
+Q5019332,Caleb Zagi,Kaduna
+Q6893162,Mohammed Kabiru Jibril,Kaduna
+Q4746481,Aminu Sule Garo,Kano
+Q4884084,Bello Hayatu Gwarzo,Kano
+Q6344250,Kabiru Ibrahim Gaya,Kano
+Q6892866,Mohammed Adamu Bello,Kano
+Q5521971,Garba Yakubu Lado,Katsina
+Q5984649,Ibrahim M. Ida,Katsina
+Q6734487,Mahmud Kanti Bello,Katsina
+Q4670506,Abubakar Tanko Ayuba,Kebbi
+Q3510712,Adamu Aliero,Kebbi
+Q10998235,Abubakar Atiku Bagudu,Kebbi
+Q7881169,Umaru Argungu,Kebbi
+Q7026337,Nicholas Ugbane,Kogi
+Q7108462,Otaru Salihu Ohize,Kogi
+Q7543924,Smart Adeyemi,Kogi
+Q5529326,Gbemisola Ruqayyah Saraki,Kwara
+Q4695931,Ahmed Mohammed Inuwa,Kwara
+Q7518155,Simon Ajibola,Kwara
+Q4681916,Adeleke Mamora,Lagos
+Q5521330,Ganiyu Solomon,Lagos
+Q6936675,Munirudeen Adekunle Muse,Lagos
+Q4670503,Abubakar Sodangi,Nasarawa
+Q7145448,Patricia Akwashiki,Nasarawa
+Q7636116,Suleiman Adokwe,Nasarawa
+Q5208840,Dahiru Awaisu Kuta,Niger
+Q7068794,Nuhu Aliyu Labbo,Niger
+Q8064832,Zainab Abdulkadir Kure,Niger
+Q5442251,Felix Kolawole Bajomo,Ogun
+Q13140704,Iyabo Obasanjo-Bello,Ogun
+Q13140828,Ramoni Olalekan Mustapha,Ogun
+Q4936432,Bode Olajumoke,Ondo
+Q5529332,Gbenga Ogunniya,Ondo
+Q13140669,Hosea Ehinlanwo,Ondo
+Q6080812,Isiaka Adetunji Adeleke,Osun
+Q13140705,Iyiola Omisore,Osun
+Q7517631,Simeon Oduoye,Osun
+Q4756255,Andrew Babalola,Oyo
+Q6359013,Kamorudeen Adekunle Adedibu,Oyo
+Q7705525,Teslim Folarin,Oyo
+Q5623995,Gyang Dalyop Datong,Plateau
+Q6250148,John Nanzip Shagaya,Plateau
+Q7426552,Satty Davies Gogwim,Plateau
+Q5545186,George Thompson Sekibo,Rivers
+Q6514449,Lee Maeba,Rivers
+Q8022970,Wilson Asinobi Ake,Rivers
+Q4670507,Abubakar Umar Gada,Sokoto
+Q4695944,Ahmed Muhammad Maccido,Sokoto
+Q7881173,Umaru Dahiru,Sokoto
+Q4772581,Anthony George Manzo,Taraba
+Q5208841,Dahiru Bako Gassol,Taraba
+Q6213354,Joel Danlami Ikenya,Taraba
+Q4695864,Ahmed Ibrahim Lawan,Yobe
+Q4986810,Bukar Ibrahim,Yobe
+Q4680542,Adamu Garba Talba,Yobe
+Q3510720,Ahmad Rufai Sani,Zamfara
+Q5679766,Hassan Muhammed Gusau,Zamfara
+Q7399413,Sahabi Alhaji Yaú,Zamfara
