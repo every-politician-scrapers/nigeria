@@ -203,6 +203,16 @@
           "template": "short description"
         },
         {
+          "template": "redirect",
+          "redirect": "Osinbajo",
+          "links": [
+            {
+              "page": "Dolapo Osinbajo",
+              "desc": "the Nigerian lawyer, political figure, and wife of Yemi Osinbajo"
+            }
+          ]
+        },
+        {
           "date": "August 2020",
           "template": "use nigerian english"
         },
