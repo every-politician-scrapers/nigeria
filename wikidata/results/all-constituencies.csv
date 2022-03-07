@@ -1,0 +1,361 @@
+item,itemLabel,state,stateLabel
+Q59680913,Aba North/Aba South,Q320852,Abia State
+Q59680914,Arochukwu/Ohafia,Q320852,Abia State
+Q59680915,Bende,Q320852,Abia State
+Q59680916,Isiala Ngwa North/Isiala Ngwa South,Q320852,Abia State
+Q59680917,Isuikwuato/Umu-Nneochi,Q320852,Abia State
+Q59680919,Obingwa/Ugwunagbo/Osisioma,Q320852,Abia State
+Q59680921,Ukwa East/Ukwa West,Q320852,Abia State
+Q59680920,Umuahia North/Umuahia South/Ikwuano,Q320852,Abia State
+Q59680922,Demsa/Numan/Lamurde,Q337514,Adamawa State
+Q59680934,Furore/Song,Q337514,Adamawa State
+Q59680936,Gombi/Hong,Q337514,Adamawa State
+Q59680938,Guyuk/Shelleng,Q337514,Adamawa State
+Q59680939,Madagali/Michika,Q337514,Adamawa State
+Q59680940,Maiha/Mubi North/Mubi South,Q337514,Adamawa State
+Q59680935,Mayo Belwa/Ganye/Jada/Toungo,Q337514,Adamawa State
+Q59680943,Yola North/Yola South/Girei,Q337514,Adamawa State
+Q59680974,Abak/Etim Ekpo/Ika,Q424388,Akwa Ibom State
+Q59680976,Eket/Onna/Esit Eket/Ibeno,Q424388,Akwa Ibom State
+Q59680977,Etinan/Nsit Ibom/Nsit ubium,Q424388,Akwa Ibom State
+Q59680978,Ikono/Ini,Q424388,Akwa Ibom State
+Q59680979,Ikot Abasi/Mkpat Enin/Eastern Obolo,Q424388,Akwa Ibom State
+Q59680981,Ikot Ekpene/Essien Udim/Obot Akara,Q424388,Akwa Ibom State
+Q59680982,Itu/Ibiono Ibom,Q424388,Akwa Ibom State
+Q59680983,Oron/Mbo/Okobo/Udung Uko/Urue Offong/Oruko,Q424388,Akwa Ibom State
+Q59680985,Ukanafun/Oruk Anam,Q424388,Akwa Ibom State
+Q59680992,Uyo/Uruan/Nsit Atai/Ibesikpo Asutan,Q424388,Akwa Ibom State
+Q59680959,Aguata,Q117714,Anambra State
+Q59680945,Anambra East/Anambra West,Q117714,Anambra State
+Q59680961,Awka North/Awka South,Q117714,Anambra State
+Q59680964,Idemili North/Idemili South,Q117714,Anambra State
+Q59680965,Ihiala,Q117714,Anambra State
+Q59680963,Njikoka/Dunukofia/Anaocha,Q117714,Anambra State
+Q59680966,Nnewi North/Nnewi South/Ekwusigo,Q117714,Anambra State
+Q59680955,Ogbaru,Q117714,Anambra State
+Q59680946,Onitsha North/Onitsha South,Q117714,Anambra State
+Q59680969,Orumba North/Orumba South,Q117714,Anambra State
+Q59680960,Oyi/Ayamelum,Q117714,Anambra State
+Q59680994,Alkaleri/Kirfi,Q503936,Bauchi State
+Q59680995,Bauchi,Q503936,Bauchi State
+Q59680996,Bogoro/Dass/Tafawa Balewa,Q503936,Bauchi State
+Q59681000,Darazo/Gunjuwa,Q503936,Bauchi State
+Q59681008,Gamawa,Q503936,Bauchi State
+Q59681009,Jama'are/Itas-Gadau,Q503936,Bauchi State
+Q59681011,Katagum,Q503936,Bauchi State
+Q59681001,Misau/Dambam,Q503936,Bauchi State
+Q59680999,Ningi/Warji,Q503936,Bauchi State
+Q59681010,Shira/Giade,Q503936,Bauchi State
+Q59680997,Toro,Q503936,Bauchi State
+Q59681002,Zaki,Q503936,Bauchi State
+Q59681012,Brass/Nembe,Q532153,Bayelsa State
+Q59681013,Ogbia,Q532153,Bayelsa State
+Q59681015,Sagbama/Ekeremor,Q532153,Bayelsa State
+Q59681016,Southern Ijaw,Q532153,Bayelsa State
+Q59681017,Yenagoa/Kolokuna/Opokuma,Q532153,Bayelsa State
+Q59681023,Ado/Obadigbo/Okpokwu,Q429908,Benue State
+Q59681026,Apa/Agatu,Q429908,Benue State
+Q59681027,Buruku,Q429908,Benue State
+Q59681028,Gboko/Tarka,Q429908,Benue State
+Q59681029,Guma/Makurdi,Q429908,Benue State
+Q59681030,Gwer East/Gwer West,Q429908,Benue State
+Q59681031,Katsina-Ala/Ukum/Logo,Q429908,Benue State
+Q59681032,Konshisha/Vandeikya,Q429908,Benue State
+Q59681033,Kwande/Ushongo,Q429908,Benue State
+Q59681037,Oju/Obi,Q429908,Benue State
+Q59681038,Otukpo/Ohimini,Q429908,Benue State
+Q59681039,Askira-Uba/Hawul,Q130626,Borno State
+Q59681040,Bama/Ngala/Kala-Balge,Q130626,Borno State
+Q59681041,"Biu/Kwaya-Kusar, Shani/Bayo",Q130626,Borno State
+Q59681043,Damboa/Gwoza/Chibok,Q130626,Borno State
+Q59681042,Dikwa/Mafa/Konduga,Q130626,Borno State
+Q59681054,Jere,Q130626,Borno State
+Q59681044,Kaga/Gubio/Magumeri,Q130626,Borno State
+Q59681052,Kukawa/Mobbar/Abadam/Guzamali,Q130626,Borno State
+Q59681053,Maiduguri (Metropolitan),Q130626,Borno State
+Q59681046,Monguno/Nganzai/Marte,Q130626,Borno State
+Q59681056,Akamkpa/Biase,Q739676,Cross River State
+Q59681057,Boki/Ikom,Q739676,Cross River State
+Q59681059,Calabar Municipal/Odukpani,Q739676,Cross River State
+Q59681058,Calabar South/Akpabuyo/Bakassi,Q739676,Cross River State
+Q59681060,Obanliku/Obudu/Bekwarra,Q739676,Cross River State
+Q59681067,Obubra/Etung,Q739676,Cross River State
+Q59681068,Ogoja/Yala,Q739676,Cross River State
+Q59681055,Yakurr/Abi,Q739676,Cross River State
+Q59681069,Aniocha North/Aniocha South/Oshimili North & South,Q503910,Delta State
+Q59681070,Bomadi/Patani,Q503910,Delta State
+Q59681080,Burutu,Q503910,Delta State
+Q59681071,Ethiope East/Ethiope West,Q503910,Delta State
+Q59681073,Ika North East/Ika South,Q503910,Delta State
+Q59681074,Isoko North/Isoko South,Q503910,Delta State
+Q59681075,Nkokwa East/Ndokwa West/Ukwuani,Q503910,Delta State
+Q59681076,Okpe/Sapele/Uvwie,Q503910,Delta State
+Q59681081,"Ughelli North, Ughelli South/Udu",Q503910,Delta State
+Q59681082,Warri North/Warri South/Warri South West,Q503910,Delta State
+Q59681084,Abakaliki/Izzi,Q506808,Ebonyi State
+Q59681091,Afikpo North/Afikpo South,Q506808,Ebonyi State
+Q59681083,Ebonyi/Ohaukwu,Q506808,Ebonyi State
+Q59681087,Ezza North/Ishielu,Q506808,Ebonyi State
+Q59681088,Ezza South/Ikwo,Q506808,Ebonyi State
+Q59681089,Ivo-Ohaozara/Onicha,Q506808,Ebonyi State
+Q59681094,Akoko-Edo,Q682704,Edo State
+Q59681099,Egor/Ikpoba-Okha,Q682704,Edo State
+Q59681096,Esan Central/Esan South/Igueben,Q682704,Edo State
+Q59681097,Esan North East/Esan South East,Q682704,Edo State
+Q59681098,Etsako East/Etsako West/Etsako Central,Q682704,Edo State
+Q59681100,Oredo,Q682704,Edo State
+Q59681101,Orhionmwon/Uhunmwonde,Q682704,Edo State
+Q59681102,Ovia North East/Ovia South West,Q682704,Edo State
+Q59681103,Owan East/Owan West,Q682704,Edo State
+Q59681106,Ado Ekiti/Irepodun/Ifelodun,Q534917,Ekiti State
+Q59681107,Ekiti South West/Ikere/Orun/Ise,Q534917,Ekiti State
+Q59681109,Emure/Gbonyin/Ekiti East,Q534917,Ekiti State
+Q59681110,"Ido/Osi, Moba/Ilejeme",Q534917,Ekiti State
+Q59681113,Ijero/Ekiti West/Efon,Q534917,Ekiti State
+Q59681114,Ikole/Oye,Q534917,Ekiti State
+Q59681115,Aninri/Awgu/Oji River,Q3817714,Enugu State
+Q59681116,Enugu East/Isi Uzo,Q3817714,Enugu State
+Q59681117,Enugu North/Enugu South,Q3817714,Enugu State
+Q59681121,Ezeagu/Udi,Q3817714,Enugu State
+Q59681122,Igbo-Etiti/Uzo-Uwani,Q3817714,Enugu State
+Q59681125,Igbo-Eze North/Udenu,Q3817714,Enugu State
+Q59681128,Nkanu East/Nkanu West,Q3817714,Enugu State
+Q59681129,Nsukka/Igbo-Eze South,Q3817714,Enugu State
+Q59681548,Abaji/Gwagwalada/Kwali/Kuje,Q509300,Federal Capital Territory
+Q59681549,Municipal/Bwari,Q509300,Federal Capital Territory
+Q59681130,Akko,Q376241,Gombe State
+Q59681132,Balanga/Billiri,Q376241,Gombe State
+Q59681139,Dukku/Nafada,Q376241,Gombe State
+Q59681138,Gombe/Kwami/Funakaye,Q376241,Gombe State
+Q59681133,Kaltungo/Shongom,Q376241,Gombe State
+Q59681131,Yamaltu/Deba,Q376241,Gombe State
+Q59681148,Aboh Mbaise/Ngor Okpala,Q842939,Imo State
+Q59681152,Ahiazu Mbaise/Ezinihitte,Q842939,Imo State
+Q59681141,Ehime Mbano/Ihite-Uboma/Obowo,Q842939,Imo State
+Q59681144,Ideato North/Ideato South,Q842939,Imo State
+Q59681154,Ikeduru/Mbaitoli,Q842939,Imo State
+Q59681143,Isiala Mbano/Okigwe/Onuimo,Q842939,Imo State
+Q59681145,Isu/Njaba/Nkwerre/Nwangele,Q842939,Imo State
+Q59681146,Oguta/Ohaji-Egbema/Oru West,Q842939,Imo State
+Q59681147,Oru East/Orsu/Orlu,Q842939,Imo State
+Q59681155,Owerri Municipal/Owerri North/Owerri West,Q842939,Imo State
+Q59681157,Babura/Garki,Q682691,Jigawa State
+Q59681158,Birnin Kudu/Buji,Q682691,Jigawa State
+Q59681160,Birniwa Guri/Kirikasamma,Q682691,Jigawa State
+Q59681161,Dutse/Kiyawa,Q682691,Jigawa State
+Q59681165,Gumel/Maigatari/Sule Tankarkar/Gagarawa,Q682691,Jigawa State
+Q59681163,Gwaram,Q682691,Jigawa State
+Q59681169,Hadejia/Kafin Hausa,Q682691,Jigawa State
+Q59681170,Jahun/Miga,Q682691,Jigawa State
+Q59681174,Kazaure/Roni/Gwiwa/Yankwashi,Q682691,Jigawa State
+Q59681171,Mallam Madori/Kaugama,Q682691,Jigawa State
+Q59681175,Ringim/Taura,Q682691,Jigawa State
+Q59681191,Birnin Gwari/Giwa,Q878284,Kaduna State
+Q59681189,Chikun/Kajuru,Q878284,Kaduna State
+Q59681179,Igabi,Q878284,Kaduna State
+Q59681183,Ikara/Kubau,Q878284,Kaduna State
+Q59681190,Jema’a/Sanga,Q878284,Kaduna State
+Q59681188,Kachia/Kagarko,Q878284,Kaduna State
+Q59681176,Kaduna North,Q878284,Kaduna State
+Q59681194,Kaduna South,Q878284,Kaduna State
+Q59681199,Kaura,Q878284,Kaduna State
+Q59681200,Kauru,Q878284,Kaduna State
+Q59681186,Lere,Q878284,Kaduna State
+Q59681184,Makarfi/Kudan,Q878284,Kaduna State
+Q59681192,Sabon Gari,Q878284,Kaduna State
+Q59681178,Soba,Q878284,Kaduna State
+Q59681202,Zangon Kataf/Jaba,Q878284,Kaduna State
+Q59681177,Zaria,Q878284,Kaduna State
+Q59681204,Alabasu/Gaya/Ajingi,Q682571,Kano State
+Q59681206,Bebeji/Kiru,Q682571,Kano State
+Q59681207,Bichi,Q682571,Kano State
+Q59681211,Dala,Q682571,Kano State
+Q59681215,Dambatta/Makoda,Q682571,Kano State
+Q59681216,Dawakin Kudu/Warawa,Q682571,Kano State
+Q59681217,Dawakin Tofa/Tofa/Rimin Gado,Q682571,Kano State
+Q59681218,Doguwa/Tudun Wada,Q682571,Kano State
+Q59681236,Fagge,Q682571,Kano State
+Q59681220,Gezawa/Gabasawa,Q682571,Kano State
+Q59681214,Gwale,Q682571,Kano State
+Q59681221,Gwarzo/Ikabo,Q682571,Kano State
+Q59681229,Karaye/Rogo,Q682571,Kano State
+Q59681230,Kumbotso,Q682571,Kano State
+Q59681232,Kura/Madobi/Garun Mallam,Q682571,Kano State
+Q59681238,Minjibir/Ungogo,Q682571,Kano State
+Q59681222,Municipal,Q682571,Kano State
+Q59681235,Nassarawa,Q682571,Kano State
+Q59681209,Rano/Bunkure/Kibiya,Q682571,Kano State
+Q59681205,Shanono/Bagwai,Q682571,Kano State
+Q59681237,Sumaila/Takai,Q682571,Kano State
+Q59681223,Tarauni,Q682571,Kano State
+Q59681239,Tsanyawa/Kunchi,Q682571,Kano State
+Q59681240,Wudil/Garko,Q682571,Kano State
+Q59681244,Bakori/Danja,Q657821,Katsina State
+Q59681246,Batagarawa/Charanchi/Rimi,Q657821,Katsina State
+Q59681248,Batsari/Safana/Danmusa,Q657821,Katsina State
+Q59681250,Bindawa/Mani,Q657821,Katsina State
+Q59681251,Daura/Sandamu/Mai’adua,Q657821,Katsina State
+Q59681252,Dutsin-ma/Kurfi,Q657821,Katsina State
+Q59681253,Faskari/Kankara/Sabuwa,Q657821,Katsina State
+Q59681254,Funtua/Dandume,Q657821,Katsina State
+Q59681255,Ingawa/Kankia/Kusada,Q657821,Katsina State
+Q59681257,Jibia/Kaita,Q657821,Katsina State
+Q59681261,Katsina,Q657821,Katsina State
+Q59681259,Malumfashi/Kafur,Q657821,Katsina State
+Q59681263,Mashi/Dutsi,Q657821,Katsina State
+Q59681264,Matazu/Musawa,Q657821,Katsina State
+Q59681265,Zango/Baure,Q657821,Katsina State
+Q59681277,Aleiro/Gwandu/Jega,Q748523,Kebbi State
+Q59681266,Arewa/Dandi,Q748523,Kebbi State
+Q59681267,Argungu/Augie,Q748523,Kebbi State
+Q59681268,Bagudo/Suru,Q748523,Kebbi State
+Q59681276,Bunza/Birnin Kebbi/Kalgo,Q748523,Kebbi State
+Q59681281,Fakai/Sakaba/Wasagu/Danko/Zuru,Q748523,Kebbi State
+Q59681280,Koko-Besse/Maiyama,Q748523,Kebbi State
+Q59681282,Ngaski/Shanga/Yauri,Q748523,Kebbi State
+Q59681283,Adavi/Okehi,Q387745,Kogi State
+Q59681295,Ajaokuta,Q387745,Kogi State
+Q59681285,Ankpa/Omala/Olamaboro,Q387745,Kogi State
+Q59681286,Bassa/Dekina,Q387745,Kogi State
+Q59681287,Idah/Igalamela Odolu/Ibaji/Ofu,Q387745,Kogi State
+Q59681294,Ijumu/Kabba-Bunu,Q387745,Kogi State
+Q59681296,Kogi (Lokoja)/Kogi (K.K.),Q387745,Kogi State
+Q59681298,Okene/Ogori-Magogo,Q387745,Kogi State
+Q59681299,Yagba East/Yagba West/Mopamuro,Q387745,Kogi State
+Q59681300,Baruten/Kaiama,Q464953,Kwara State
+Q59681301,Edu/Moro/Pategi,Q464953,Kwara State
+Q59681302,Ekiti/Isin/Irepodun/Oke-Ero,Q464953,Kwara State
+Q59681312,Ifelodun/Offa/Oyun,Q464953,Kwara State
+Q59681303,Ilorin East/Ilorin South,Q464953,Kwara State
+Q59681311,Ilorin West/Asa,Q464953,Kwara State
+Q59681313,Agege,Q815913,Lagos
+Q59681351,Ajeromi/Ifelodun,Q815913,Lagos
+Q59681317,Alimosho,Q815913,Lagos
+Q59681350,Amuwo-Odofin,Q815913,Lagos
+Q59681329,Apapa,Q815913,Lagos
+Q59681319,Badagry,Q815913,Lagos
+Q59681321,Epe,Q815913,Lagos
+Q59681323,Eti-Osa,Q815913,Lagos
+Q59681322,Ibeju Lekki,Q815913,Lagos
+Q59681315,Ifako/Ijaiye,Q815913,Lagos
+Q59681330,Ikeja,Q815913,Lagos
+Q59681332,Ikorodu,Q815913,Lagos
+Q59681355,Kosofe,Q815913,Lagos
+Q59681334,Lagos Island I,Q815913,Lagos
+Q59681336,Lagos Island II,Q815913,Lagos
+Q59681339,Lagos Mainland,Q815913,Lagos
+Q59681341,Mushin I,Q815913,Lagos
+Q59681342,Mushin II,Q815913,Lagos
+Q59681344,Ojo,Q815913,Lagos
+Q59681352,Oshodi/Isolo I,Q815913,Lagos
+Q59681353,Oshodi/Isolo II,Q815913,Lagos
+Q59681354,Shomolu,Q815913,Lagos
+Q59681357,Surulere I,Q815913,Lagos
+Q59681358,Surulere II,Q815913,Lagos
+Q59681359,Akwanga/Nassarawa Eggon/Wamba,Q836645,Nasarawa State
+Q59681364,Awe/Doma/Keana,Q836645,Nasarawa State
+Q59681365,Keffi/Karu/Kokona,Q836645,Nasarawa State
+Q59681367,Lafia/Obi,Q836645,Nasarawa State
+Q59681369,Nassarawa/Toto,Q836645,Nasarawa State
+Q59681370,Agaie/Lapai,Q503932,Niger State
+Q59681372,Agwara/Borgu,Q503932,Niger State
+Q59681375,Bida/Gbako/Katcha,Q503932,Niger State
+Q59681377,Booso/Paikoro,Q503932,Niger State
+Q59681378,Chanchaga,Q503932,Niger State
+Q59681382,Gurara/Suleja/Tapa,Q503932,Niger State
+Q59681388,Kontagora/Wushishi/Mariga/Mashegu,Q503932,Niger State
+Q59681385,Lavun/Mokwa/Edati,Q503932,Niger State
+Q59681387,Magama/Rijau,Q503932,Niger State
+Q59681389,Shiroro/Rafi/Munya,Q503932,Niger State
+Q4666754,Abeokuta North/Obafemi- Owode/Odeda,Q836657,Ogun State
+Q59681390,Abeokuta South,Q836657,Ogun State
+Q59681391,Ado-Odo/Ota,Q836657,Ogun State
+Q59681392,Egbado North/Imeko-Afon,Q836657,Ogun State
+Q59681393,Egbado South/Ipokia,Q836657,Ogun State
+Q59681400,Ifo/Ewekoro,Q836657,Ogun State
+Q59681402,Ijebu North/Ijebu East/Ogun Waterside,Q836657,Ogun State
+Q59681404,Ijebu Ode/Odogbolu/Ijebu North East,Q836657,Ogun State
+Q59681405,Ikenne/Shagamu/Remo North,Q836657,Ogun State
+Q59681407,Akoko North East/Akoko North West,Q836654,Ondo State
+Q59681409,Akoko South East/Akoko South West,Q836654,Ondo State
+Q59681410,Akure North/Akure South,Q836654,Ondo State
+Q59681420,Eseodo/Ilaje,Q836654,Ondo State
+Q59681411,Idanre/Ifedore,Q836654,Ondo State
+Q59681413,Ileoluji/Okeigbo/Odigbo,Q836654,Ondo State
+Q59681418,Okitipupa/Irele,Q836654,Ondo State
+Q59681422,Ondo East/Ondo West,Q836654,Ondo State
+Q59681424,Owo/Ose,Q836654,Ondo State
+Q59681431,Atakunmosa East/Atakunmosa West/Ilesha East/Ilesha West,Q682721,Osun State
+Q16891868,Ayedaade/Irewole/Isokan,Q682721,Osun State
+Q59681439,Ayedire/Iwo/Ola-Oluwa,Q682721,Osun State
+Q59681430,Boluwaduro/Ifedayo/Ila,Q682721,Osun State
+Q5336720,Ede North/Ede South/Egbedore/Ejigbo,Q682721,Osun State
+Q59681438,Ife Central/Ife North/Ife South/Ife East,Q682721,Osun State
+Q59681427,Irepodun/Olorunda/Osogbo/Orolu,Q682721,Osun State
+Q59681433,Obokun/Oriade,Q682721,Osun State
+Q59681429,Odo-Otin/Ifelodun/Boripe,Q682721,Osun State
+Q59681441,Afijio/Oyo East/Oyo West/Atiba,Q503905,Oyo State
+Q59681442,Akinyele/Lagelu,Q503905,Oyo State
+Q59681443,Egbeda/Ona-Ara,Q503905,Oyo State
+Q59681466,Ibadan North,Q503905,Oyo State
+Q59681463,Ibadan North East/Ibadan South East,Q503905,Oyo State
+Q59681464,Ibadan South West/Ibadan North West,Q503905,Oyo State
+Q59681447,Ibarapa Central/Ibarapa North,Q503905,Oyo State
+Q59681449,Ibarapa East/Ido,Q503905,Oyo State
+Q59681453,Irepo/Orelope/Olorunsogo,Q503905,Oyo State
+Q59681458,Iseyin/Itesiwaju/Kajola/Iwajowa,Q503905,Oyo State
+Q59681459,Ogbomoso North/Ogbomoso South/Orire,Q503905,Oyo State
+Q59681461,Ogo-Oluwa/Surulere,Q503905,Oyo State
+Q59681462,Oluyole,Q503905,Oyo State
+Q59681450,Saki East/Saki West/Atisbo,Q503905,Oyo State
+Q59681474,Barkin Ladi/Riyom,Q503928,Plateau State
+Q59681475,Bokkos/Mangu,Q503928,Plateau State
+Q59681467,Jos North/Bassa,Q503928,Plateau State
+Q59681468,Jos South/Jos East,Q503928,Plateau State
+Q59681476,Kanke/Pankshin/Kanam,Q503928,Plateau State
+Q59681478,Langtang North/Langtang South,Q503928,Plateau State
+Q59681480,Mikang/Qua’an/Pan/Shedam,Q503928,Plateau State
+Q59681477,Wase,Q503928,Plateau State
+Q59681481,Abua-Odual/Ahaoda East,Q503923,Rivers State
+Q59681482,Ahoada West/Ogba Egbema,Q503923,Rivers State
+Q59681486,Akuku-Toru/Asari-Toru,Q503923,Rivers State
+Q59681483,Degema/Bonny,Q503923,Rivers State
+Q59681489,Eleme/Tai/Oyigbo,Q503923,Rivers State
+Q59681492,Etche/Omuma,Q503923,Rivers State
+Q59681491,Ikwerre/Umohua,Q503923,Rivers State
+Q59681490,Khana/Gokana,Q503923,Rivers State
+Q59681493,Obio Akpor,Q503923,Rivers State
+Q59681487,Okrika/Ogu-Bolo,Q503923,Rivers State
+Q59681488,Opobo/Nkoro/Andoni,Q503923,Rivers State
+Q59681495,Port Harcourt I,Q503923,Rivers State
+Q59681500,Port Harcourt II,Q503923,Rivers State
+Q59681507,Binji/Silame,Q503941,Sokoto State
+Q59681511,Dange-Shuni/Bodinga/Tureta,Q503941,Sokoto State
+Q59681502,Goronyo/Gada,Q503941,Sokoto State
+Q59681505,Illela/Gwadabawa,Q503941,Sokoto State
+Q59681501,Isa/Sabon Birni,Q503941,Sokoto State
+Q59681514,Kebbe/Tambuwal,Q503941,Sokoto State
+Q59681508,Kware/Wamakko,Q503941,Sokoto State
+Q59681509,Sokoto North/Sokoto South,Q503941,Sokoto State
+Q59681506,Tangaza/Gudu,Q503941,Sokoto State
+Q59681503,Wurno/Rabah,Q503941,Sokoto State
+Q59681513,Yabo/Shagari,Q503941,Sokoto State
+Q59681515,Bali/Gassol,Q463959,Taraba State
+Q59681518,Ibi/Wukari,Q463959,Taraba State
+Q59681519,Jalingo/Yorro/Zing,Q463959,Taraba State
+Q59681520,Karim Lamido/Lau/Ardo-Kola,Q463959,Taraba State
+Q59681517,Sardauna/Kurmi/Gashaka,Q463959,Taraba State
+Q59681516,Takum/Donga/Ussa,Q463959,Taraba State
+Q59681526,Bade/Jakusko,Q682777,Yobe State
+Q59681528,Bursari/Geidam/Yunusari,Q682777,Yobe State
+Q59681529,Damaturu/Gujba/Gulani/Tarmuwa,Q682777,Yobe State
+Q59681530,Fika/Fune,Q682777,Yobe State
+Q59681531,Machina/Nguru/Yusufari/Karasuwa,Q682777,Yobe State
+Q59681532,Nangere/Potiskm,Q682777,Yobe State
+Q59681544,Anka/Talata Mafara,Q145793,Zamfara State
+Q59681545,Bakura/Maradun,Q145793,Zamfara State
+Q59681543,Bungudu/Maru,Q145793,Zamfara State
+Q59681547,Gummi/Bukkuyum,Q145793,Zamfara State
+Q59681535,Gusau/Tsafe,Q145793,Zamfara State
+Q59681533,Kaura-Namoda/Birnin Magaji,Q145793,Zamfara State
+Q59681534,Shinkafi/Zurmi,Q145793,Zamfara State
