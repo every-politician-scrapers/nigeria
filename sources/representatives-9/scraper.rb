@@ -22,6 +22,10 @@ class OfficeholderList < OfficeholderListBase
       %w[constituency name party dates].freeze
     end
 
+    field :constituencyLabel do
+      tds[0].text.tidy
+    end
+
     field :party do
       party_link.attr('wikidata')
     end
