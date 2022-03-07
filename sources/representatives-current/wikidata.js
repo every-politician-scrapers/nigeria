@@ -6,7 +6,7 @@ module.exports = function () {
   let fromd = `"${meta.term.start}T00:00:00Z"^^xsd:dateTime`
   let until = meta.term.end ? `"${meta.term.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
-  return `SELECT DISTINCT ?item ?name ?party
+  return `SELECT DISTINCT ?item ?name ?party ?constituency
                  ?startDate ?endDate ?gender (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
@@ -67,12 +67,18 @@ module.exports = function () {
         OPTIONAL { ?sog rdfs:label ?gender FILTER(LANG(?gender)="en") }
       }
       OPTIONAL { ?item wdt:P21/rdfs:label ?gender FILTER (LANG(?gender)="en") }
+
       OPTIONAL {
         ?ps pq:P4100 ?partyItem .
         OPTIONAL { ?partyItem wdt:P1813 ?partyShortName }
         OPTIONAL { ?partyItem rdfs:label ?partyName FILTER (LANG(?partyLabel)="en") }
       }
       BIND(COALESCE(?partyShortName, ?partyName) AS ?party)
+
+      OPTIONAL {
+        ?ps pq:P768 ?constituencyItem .
+        OPTIONAL { ?constituencyItem rdfs:label ?constituency FILTER (LANG(?constituency)="en") }
+      }
 
       OPTIONAL {
         ?ps prov:wasDerivedFrom ?ref .
