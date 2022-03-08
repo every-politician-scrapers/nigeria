@@ -27,6 +27,11 @@
                   "text": "SAN",
                   "type": "internal",
                   "page": "Senior Advocate of Nigeria"
+                },
+                {
+                  "text": "human rights activist",
+                  "type": "internal",
+                  "page": "human rights activist"
                 }
               ],
               "formatting": {
@@ -36,7 +41,13 @@
               }
             },
             {
-              "text": "In April, 2018, Keyamo was appointed as the Director of Strategic Communications (Official Spokesperson) of the 2019 re-election bid of the President of Nigeria."
+              "text": "In April, 2018, Keyamo was appointed as the Director of Strategic Communications (Official Spokesperson) of the 2019 re-election bid of the President of Nigeria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Nigeria"
+                }
+              ]
             },
             {
               "text": "He was appointed minister of state for Niger Delta ministry and later minister of state for Labour and employment."
