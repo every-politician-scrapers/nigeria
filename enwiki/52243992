@@ -23,12 +23,21 @@
         {
           "sentences": [
             {
-              "text": "Pauline Kedem Tallen OFR was (born 8 January 1959 ).",
+              "text": "Pauline Kedem Tallen OFR (born 8 January 1959 ) is a Nigerian politician and the current Minister for Women Affairs Minister and Social Development.",
               "links": [
                 {
                   "text": "OFR",
                   "type": "internal",
                   "page": "Order of the Federal Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigerian"
+                },
+                {
+                  "text": "Women Affairs Minister and Social Development",
+                  "type": "internal",
+                  "page": "Federal Ministry of Women Affairs and Social Development"
                 }
               ],
               "formatting": {
@@ -38,20 +47,9 @@
               }
             },
             {
-              "text": "She is a Nigerian politician and currently serving as Women Affairs Minister.",
+              "text": "She was appointed in 2019 by President Muhammadu Buhari after turning down ambassadorial nomination in 2015 on the grounds that she was not consulted prior to the announcement of the appointment and that she would not accept the offer for equal distribution of power among the three senatorial districts of her native state of plateau because she is from same local government as Governor Simon Lalong.",
               "links": [
                 {
-                  "text": "Nigerian",
-                  "type": "internal",
-                  "page": "Nigerians"
-                }
-              ]
-            },
-            {
-              "text": "She was appointed in 2019 by President Muhammad Buhari after turning down ambassadorial nomination in 2015 on the grounds that she was not consulted prior to the announcement of the appointment and that she would not accept the offer for equal distribution of power among the three senatorial districts of her native state of plateau because she is from same local government as Governor Simon Lalong.",
-              "links": [
-                {
-                  "text": "Muhammad Buhari",
                   "type": "internal",
                   "page": "Muhammadu Buhari"
                 },
@@ -68,6 +66,11 @@
             {
               "text": "In 1999, she was appointed Minister of State for science and technology to the cabinet of former president, Olusegun Obasanjo.",
               "links": [
+                {
+                  "text": "science and technology",
+                  "type": "internal",
+                  "page": "Federal Ministry of Science and Technology"
+                },
                 {
                   "type": "internal",
                   "page": "Olusegun Obasanjo"

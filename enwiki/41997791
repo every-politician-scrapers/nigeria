@@ -2,12 +2,12 @@
   "title": "Godwin Emefiele",
   "pageID": 41997791,
   "categories": [
+    "1961 births",
+    "Living people",
     "Governors of the Central Bank of Nigeria",
     "Nigerian bankers",
-    "University of Nigeria alumni",
-    "Living people",
-    "1961 births",
-    "People from Lagos"
+    "People from Lagos",
+    "University of Nigeria alumni"
   ],
   "sections": [
     {
@@ -64,6 +64,22 @@
         {
           "name": {
             "text": "Godwin Emefiele"
+          },
+          "image": {
+            "text": "Treasury's meeting with Nigerian President Muhammadu Buhari (19918041535).jpg"
+          },
+          "caption": {
+            "text": "Godwin Emefiele (right) with U.S. Treasury Secretary Jacob J. Lew and Deputy Secretary Sarah Bloom Raskin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacob J. Lew"
+              },
+              {
+                "type": "internal",
+                "page": "Sarah Bloom Raskin"
+              }
+            ]
           },
           "office": {
             "text": "Governor of the Central Bank of Nigeria",
