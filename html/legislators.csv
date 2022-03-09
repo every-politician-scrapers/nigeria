@@ -1,20 +1,28 @@
 position,person,personID,start,end,gender,DOB,DOD,image,enwiki
+member of the Senate of Nigeria,Ibrahim Mantu,Q108443479,1999,2003,male,1947,2021,,Ibrahim Mantu
 member of the Senate of Nigeria,Joseph Olatunji Ajayi,Q10951112,1999,2003,male,,,,Joseph Olatunji Ajayi
+member of the Senate of Nigeria,Mike Ajegbo,Q111148458,1999,2003,male,,,,
 member of the Senate of Nigeria,Etura Ezekiel,Q111148699,1999,2003,,,,,
 member of the Senate of Nigeria,Aruwa Muktar Ahmed M. Perez,Q111149288,1999,2003,,,,,
-member of the Senate of Nigeria,Abdul Yandomah,Q111149676,1999,2003,,,,,
 member of the Senate of Nigeria,Suleiman Makanjuola Ajadi,Q111150041,1999,2003,,,,,
 member of the Senate of Nigeria,Lekan Balogun,Q111152093,1999,2003,,,,,
+member of the Senate of Nigeria,Abubakar Abdullahi,Q111164969,1999,2003,male,,,,
+member of the Senate of Nigeria,Danladi Bamaiyi,Q111164990,1999,2003,male,,2016-04,,
+member of the Senate of Nigeria,Salman Is'haq,Q111164999,1999,2003,male,,,,
+member of the Senate of Nigeria,Adamu Augie,Q13140380,1999,2003,female,,,,
+member of the Senate of Nigeria,Bashir Mustapha,Q13140602,1999,2003,male,,,,
 member of the Senate of Nigeria,Haruna Abubakar,Q13140666,1999,2003,male,1952-06-06,2005-02-27,,Haruna Abubakar
 member of the Senate of Nigeria,Ibiapuye Martyns-Yellowe,Q13140681,1999,2003,male,1945-11-12,2009-07-02,,Ibiapuye Martyns-Yellowe
 member of the Senate of Nigeria,Nnamdi Eriobuna,Q13140761,1999,2003,,,,,
 member of the Senate of Nigeria,Peter Olawuyi,Q13140820,1999,2003,male,,,,
 member of the Senate of Nigeria,Wahab Dosunmu,Q13140890,1999,2003,male,,2013-06-09,,Wahab Dosunmu
+member of the Senate of Nigeria,Idi Othman Guda,Q16105634,1999,2003,male,1941-08-19,2015-01-30,,Idi Othman Guda
 member of the Senate of Nigeria,Kanu Godwin Agabi,Q16150077,1999,2003,male,,,,Kanu Godwin Agabi
 member of the Senate of Nigeria,Chuba Okadigbo,Q2967578,1999,2003,male,1941-12-17,2003-09-25,,Chuba Okadigbo
 member of the Senate of Nigeria,Alex Usman Kadiri,Q30104797,1999,2003,male,,,,Alex Usman Kadiri
 member of the Senate of Nigeria,David Mark,Q459205,1999,2019,male,1948-04-18,,,David Mark
 member of the Senate of Nigeria,Abdallah Wali,Q4664673,1999,2003,male,,,,Abdallah Wali
+member of the Senate of Nigeria,Abdul Yandoma,Q4665765,1999,2003,male,,,,Abdul Yandoma
 member of the Senate of Nigeria,Adawari Pepple,Q4680928,1999,2003,male,,,,Adawari Pepple
 member of the Senate of Nigeria,Afolabi Olabimtan,Q4689299,1999,2003,male,1932-06-11,2003-08-27,,Afolabi Olabimtan
 member of the Senate of Nigeria,Aliyu Abubakar,Q4727549,1999,2003,male,1986-09-12,,,Aliyu Abubakar
@@ -27,10 +35,10 @@ member of the Senate of Nigeria,Femi Okurounmu,Q5442802,1999,2003,male,,,,Femi O
 member of the Senate of Nigeria,Gbenga Aluko,Q5529329,1999,2003,male,1963-07-20,,,Gbenga Aluko
 member of the Senate of Nigeria,Gbenga Ogunniya,Q5529332,1999,2003,male,1949-09-24,,,Gbenga Ogunniya
 member of the Senate of Nigeria,Goni Modu Bura,Q5581828,1999,2003,male,1960-01-06,,,Goni Modu Bura
+member of the Senate of Nigeria,Hyde Onuaguluchi,Q5953576,1999,2003,male,1948,,,Hyde Onuaguluchi
 member of the Senate of Nigeria,Idris Abubakar,Q5989581,1999,2003,male,1955-11-13,2002-01-01,,Idris Abubakar
 member of the Senate of Nigeria,Ifeanyi Ararume,Q5991127,1999,2003,male,1958-12-16,,,Ifeanyi Ararume
 member of the Senate of Nigeria,John Azuta-Mbata,Q6219847,1999,2003,male,1960-01,,,John Azuta-Mbata
-member of the Senate of Nigeria,John James Akpan Udo-Edehe,Q6241500,1999,2003,male,1960,,,John James Akpan Udo-Edehe
 member of the Senate of Nigeria,Khairat Abdulrazaq-Gwadabe,Q6399043,1999,2003,female,1962,,,Khairat Abdulrazaq-Gwadabe
 member of the Senate of Nigeria,Lawali Shuaibu,Q6503559,1999,2003,male,1955-04-18,,Lawal Shuaibu.png,Lawali Shuaibu
 member of the Senate of Nigeria,Lawrence Ayo,Q6503822,1999,2003,male,,,,Lawrence Ayo
@@ -43,30 +51,67 @@ member of the Senate of Nigeria,Usman Albishir,Q7902039,1999,2003,male,1945-06-1
 member of the Senate of Nigeria,Yushau Anka,Q8061881,1999,2003,male,1950-04,,,Yushau Anka
 member of the Senate of Nigeria,Ibrahim Nasiru Mantu,Q94410197,1999,2003,,1947,,,
 member of the Senate of Nigeria,Adeseye Ogunlewe,Q4682371,1999-04,2003-04,male,,,,Adeseye Ogunlewe
+member of the Senate of Nigeria,Patrick Aga,Q13140814,1999-05,2003-05,male,,,,Patrick Aga
 member of the Senate of Nigeria,Silas Janfa,Q13140849,1999-05,2003-05,male,,,,Silas Janfa
 member of the Senate of Nigeria,Tokunbo Afikuyomi,Q13140868,1999-05,2007-05,male,,,,Tokunbo Afikuyomi
 member of the Senate of Nigeria,Ike Nwachukwu,Q3381247,1999-05,2003-05,male,1941-09-01,,Gen. Ike Nwachukwu.jpg,Ike Nwachukwu
 member of the Senate of Nigeria,Iya Abubakar,Q3511417,1999-05,2007-05,male,1934-12-14,,,Iya Abubakar
 member of the Senate of Nigeria,Abdulahi Bala Adamu,Q4665773,1999-05,2003-05,male,,,,Abdulahi Bala Adamu
 member of the Senate of Nigeria,Abdulazeez Ibrahim,Q4665788,1999-05,2007-05,male,1957-11-27,2021-10-05,,Abdulazeez Ibrahim
+member of the Senate of Nigeria,Abubakar Sodangi,Q4670503,1999-05,2011-06,male,1954-01-31,,,Abubakar Sodangi
 member of the Senate of Nigeria,Adebayo Salami,Q4680074,1999-05,2003-05,male,1951-07-26,2021-01,Photo of Senator Salami.jpg,Adebayo Salami
 member of the Senate of Nigeria,Adolphus Wabara,Q4684485,1999-05,2007-05,male,1948-06-01,,,Adolphus Wabara
 member of the Senate of Nigeria,Ahmed Tijani Ahmed,Q4696044,1999-05,2003-05,male,1941-12-17,2006-06-10,,Ahmed Tijani Ahmed
+member of the Senate of Nigeria,Anyim Pius Anyim,Q4778251,1999-05,2003-05,male,1961-02-19,,,Anyim Pius Anyim
 member of the Senate of Nigeria,Brimmo Yusuf,Q4968131,1999-05,2003-05,male,,,,Brimmo Yusuf
+member of the Senate of Nigeria,Dalhatu Umaru Sangari,Q5210858,1999-05,2003-05,male,,,,Dalhatu Umaru Sangari
 member of the Senate of Nigeria,Daniel Saror,Q5218701,1999-05,2007-05,male,,,,Daniel Saror
 member of the Senate of Nigeria,David Brigidi,Q5231744,1999-05,2007-05,male,,2018-09,,David Brigidi
+member of the Senate of Nigeria,Jonathan Zwingina,Q6274897,1999-05,2007-05,male,,,,Jonathan Zwingina
 member of the Senate of Nigeria,Joseph Waku,Q6287738,1999-05,2003-05,male,,2019-02-03,,Joseph Waku
 member of the Senate of Nigeria,Melford Okilo,Q6812232,1999-05,2003-05,male,1933-11-30,2008-07-05,Melford Okilo.jpg,Melford Okilo
+member of the Senate of Nigeria,Mohammed Alkali,Q6892960,1999-05,2003-05,male,1950-01-17,,,Mohammed Alkali
+member of the Senate of Nigeria,Moji Akinfenwa,Q6895059,1999-05,2003-05,male,1930,2019-10-10,,Moji Akinfenwa
 member of the Senate of Nigeria,Nuhu Aliyu Labbo,Q7068794,1999-05,2011-05,male,1941,,,Nuhu Aliyu Labbo
+member of the Senate of Nigeria,Patrick Osakwe,Q7147437,1999-05,2011-05,male,1948-08-11,,,Patrick Osakwe
+member of the Senate of Nigeria,Saidu Kumo,Q7399996,1999-05,2003-05,male,,,,Saidu Kumo
+member of the Senate of Nigeria,Salisu Matori,Q7404851,1999-05,2003-05,male,,,,Salisu Matori
 member of the Senate of Nigeria,Sama’ila Mamman,Q7408942,1999-05,2003-05,male,,,,Samaʼila Mamman
+member of the Senate of Nigeria,Stella Omu,Q7607115,1999-05,2003-05,female,1946-12-22,,,Stella Omu
+member of the Senate of Nigeria,Sunday Fajinmi,Q7639385,1999-05,2003-05,male,1952-11,,Senator Sunday Fajinmi 2014-06-06 15-59.jpg,Sunday Fajinmi
 member of the Senate of Nigeria,Tunde Ogbeha,Q7852884,1999-05,2007-05,male,1947,,,Tunde Ogbeha
+member of the Senate of Nigeria,Fred Aghogho Brume,Q13140651,1999-05-29,2003-05-29,male,1942-09-25,2011-09-12,,Fred Aghogho Brume
 member of the Senate of Nigeria,Tupele-Ebi Diffa,Q13140874,1999-05-29,2003-05-29,male,,,,Tupele-Ebi Diffa
 member of the Senate of Nigeria,Ahmed Zuruq,Q20604108,1999-05-29,2003-05-29,male,1951-10-21,,,Ahmed Zuruq
+member of the Senate of Nigeria,Vincent Usulor,Q2526739,1999-05-29,2003-05-29,male,1948-07-15,2006-06-20,,Vincent Obasi Usulor
+member of the Senate of Nigeria,Ali Modu Sheriff,Q3510727,1999-05-29,2003-05-29,male,1956,,Ali Modu Sherrff crop 2007.jpg,Ali Modu Sheriff
+member of the Senate of Nigeria,Abubakar Girei,Q4670486,1999-05-29,2003-05-29,male,1954-03-14,,,Abubakar Girei
+member of the Senate of Nigeria,Abubakar Mahdi,Q4670492,1999-05-29,2003-05-29,male,,,,Abubakar Mahdi
+member of the Senate of Nigeria,Bello Hayatu Gwarzo,Q4884084,1999-05-29,2007-05-29,male,1960-04-14,,,Bello Hayatu Gwarzo
 member of the Senate of Nigeria,Bob Nwannunu,Q4933535,1999-05-29,2003-05-29,male,,2003-05-30,,Bob Nwannunu
+member of the Senate of Nigeria,Dalhatu Tafida,Q5210857,1999-05-29,2007-05-29,male,1940-11-24,,Dalhatu Tafida.png,Dalhatu Tafida
 member of the Senate of Nigeria,Davou Zang,Q5242118,1999-05-29,2003-06,male,,,Sen. Davou Zang.jpg,Davou Zang
+member of the Senate of Nigeria,Fidelis Okoro,Q5446766,1999-05-29,2007-05-29,male,,,,Fidelis Okoro
 member of the Senate of Nigeria,Florence Ita Giwa,Q5460658,1999-05-29,2003-06,female,1946-02-19,,,Florence Ita Giwa
+member of the Senate of Nigeria,Haruna Aziz Zeego,Q5675846,1999-05-29,2003-05-29,male,,,,Haruna Aziz Zeego
+member of the Senate of Nigeria,Ibrahim Kura Mohammed,Q5984636,1999-05-29,2003-05-29,male,,2009-05-06,,Ibrahim Kura Mohammed
+member of the Senate of Nigeria,Ibrahim Kuta,Q5984638,1999-05-29,2007-05-29,male,1942-10-01,2008-03-01,,Ibrahim Kuta
+member of the Senate of Nigeria,Ibrahim Muhammed Kirikasama,Q5984682,1999-05-29,2007-05-29,male,1952-02,,Ibrahim Mohammed Kirikasama.png,Ibrahim Muhammed Kirikasama
+member of the Senate of Nigeria,Isa Mohammed,Q6075725,1999-05-29,2007-05-29,male,1948,2007-05-05,,Isa Mohammed Bagudu
+member of the Senate of Nigeria,Jim Ifeanyichukwu Nwobodo,Q6197222,1999-05-29,2003-05-29,male,1940-05-09,,,Jim Nwobodo
+member of the Senate of Nigeria,John James Akpan Udo-Edehe,Q6241500,1999-05-29,2003-05-29,male,1960,,,John James Akpan Udo-Edehe
 member of the Senate of Nigeria,Maina Maaji Lawan,Q6736241,1999-05-29,2003-05-29,male,1954-07-12,,,Maina Maaji Lawan
+member of the Senate of Nigeria,Maitama Bello Yusuf,Q6737104,1999-05-29,2015-05-29,male,1947-04-22,,,Bello Maitama Yusuf
+member of the Senate of Nigeria,Matthew Mbu Junior,Q6790933,1999-05-29,2003-05-29,male,,,,Matthew Mbu Junior
+member of the Senate of Nigeria,Mohammed Aruwa,Q6892988,1999-05-29,2007-05-29,male,1948,2018-12-09,Mohammed Aruwa.png,Mohammed Aruwa
 member of the Senate of Nigeria,Mohammed Tukur Liman,Q6893384,1999-05-29,2003-05-29,male,,,,Mohammed Tukur Liman
+member of the Senate of Nigeria,Oserheimen Osunbor,Q7106495,1999-05-29,2007-05-29,male,1951-10-05,,Prof. Oserheimen Osunbor.jpg,Oserheimen Osunbor
+member of the Senate of Nigeria,Roland Owie,Q7360373,1999-05-29,2003-05-29,male,1945-08-28,,,Roland Owie
+member of the Senate of Nigeria,Sylvanus Ngele,Q7660727,1999-05-29,2003-05-29,male,,,,Sylvanus Ngele
+member of the Senate of Nigeria,Umar Usman Dukku,Q7881142,1999-05-29,2003-05-29,male,,,,Umar Usman Dukku
+member of the Senate of Nigeria,Victor Oyofo,Q7926217,1999-05-29,2007-05-29,male,,,Senator Victor Oyofo (cropped).jpg,Victor Oyofo
+member of the Senate of Nigeria,Mas’ud El-Jibril,Q6785804,2000,2003,male,,,,Masʽud El-Jibril
+member of the Senate of Nigeria,Ben-Collins Ndu,Q4885148,2001-03,2003-05,male,1961-11-06,,,Ben-Collins Ndu
 member of the Senate of Nigeria,Ike Ekweremadu,Q13140687,2003-05,,male,1962-05-12,,Huriwa2gk-is-565.png,Ike Ekweremadu
 member of the Senate of Nigeria,Jibril Aminu,Q6301957,2003-05-29,2011-05,male,1939-08,,,Jibril Aminu
 member of the Senate of Nigeria,Ibrahim Mantu,Q108443479,2003-06-03,2007-06-05,male,1947,2021,,Ibrahim Mantu
@@ -125,35 +170,25 @@ member of the Senate of Nigeria,Akinlabi Olasunkanmi,Q4701060,2003-06-03,2007-06
 member of the Senate of Nigeria,Arthur Nzeribe,Q4799853,2003-06-03,2007-06-05,male,1938-11-02,,,Arthur Nzeribe
 member of the Senate of Nigeria,Badamasi Maccido,Q4840567,2003-06-03,2007-06-05,male,1961,2006-10-29,,Badamasi Maccido
 member of the Senate of Nigeria,Bassey Ewa-Henshaw,Q4868127,2003-06-03,2007-06-05,male,1943-05-04,,,Bassey Ewa-Henshaw
-member of the Senate of Nigeria,Bello Hayatu Gwarzo,Q4884084,2003-06-03,2007-06-05,male,1960-04-14,,,Bello Hayatu Gwarzo
-member of the Senate of Nigeria,Dalhatu Tafida,Q5210857,2003-06-03,2007-06-05,male,1940-11-24,,Dalhatu Tafida.png,Dalhatu Tafida
 member of the Senate of Nigeria,Effiong Dickson Bob,Q5347498,2003-06-03,2007-06-05,male,1959-10-01,,,Effiong Dickson Bob
 member of the Senate of Nigeria,Felix Ibru,Q5442241,2003-06-03,2007-06-05,male,1935-12-07,2016-03-12,,Felix Ibru
-member of the Senate of Nigeria,Fidelis Okoro,Q5446766,2003-06-03,2007-06-05,male,,,,Fidelis Okoro
 member of the Senate of Nigeria,Gbemisola Ruqayyah Saraki,Q5529326,2003-06-03,2007-06-05,female,1965,,,Gbemisola Ruqayyah Saraki
 member of the Senate of Nigeria,Gbenga Ogunniya,Q5529332,2003-06-03,2007-06-05,male,1949-09-24,,,Gbenga Ogunniya
 member of the Senate of Nigeria,Gregory Ngaji,Q5607086,2003-06-03,2007-06-05,male,1946-11-17,,,Gregory Ngaji
 member of the Senate of Nigeria,Ibikunle Amosun,Q5984059,2003-06-03,2007-06-05,male,1958-01-25,,Senator Kunle.jpg,Ibikunle Amosun
-member of the Senate of Nigeria,Ibrahim Kuta,Q5984638,2003-06-03,2007-06-05,male,1942-10-01,2008-03-01,,Ibrahim Kuta
-member of the Senate of Nigeria,Ibrahim Muhammed Kirikasama,Q5984682,2003-06-03,2007-06-05,male,1952-02,,Ibrahim Mohammed Kirikasama.png,Ibrahim Muhammed Kirikasama
 member of the Senate of Nigeria,Ifeanyi Ararume,Q5991127,2003-06-03,2007-06-05,male,1958-12-16,,,Ifeanyi Ararume
-member of the Senate of Nigeria,Isa Mohammed,Q6075725,2003-06-03,2007-06-05,male,1948,2007-05-05,,Isa Mohammed Bagudu
 member of the Senate of Nigeria,Isaiah Balat,Q6078472,2003-06-03,2007-06-05,male,1952-10-23,2014-02-18,,Isaiah Balat
 member of the Senate of Nigeria,James Manager,Q6138857,2003-06-03,2007-06-05,male,1960,,,James Manager
 member of the Senate of Nigeria,John Azuta-Mbata,Q6219847,2003-06-03,2007-06-05,male,1960-01,,,John Azuta-Mbata
-member of the Senate of Nigeria,Jonathan Zwingina,Q6274897,2003-06-03,2007-06-05,male,,,,Jonathan Zwingina
 member of the Senate of Nigeria,Julius Ucha,Q6310120,2003-06-03,2007-06-05,male,1958-10-19,,,Julius Ucha
 member of the Senate of Nigeria,Ken Nnamani,Q6388239,2003-06-03,2007-06-05,male,1948-11-02,,,Ken Nnamani
 member of the Senate of Nigeria,Lawali Shuaibu,Q6503559,2003-06-03,2007-06-05,male,1955-04-18,,Lawal Shuaibu.png,Lawali Shuaibu
 member of the Senate of Nigeria,Lee Maeba,Q6514449,2003-06-03,2007-06-05,male,1966-02,,,Lee Maeba
 member of the Senate of Nigeria,Mahmud Kanti Bello,Q6734487,2003-06-03,2007-06-05,male,1945-01-14,2017-08-29,,Mahmud Kanti Bello
 member of the Senate of Nigeria,Mamman Bello Ali,Q6745774,2003-06-03,2007-06-05,male,1958,2009-01-27,Senator Mamman B- Ali 2014-01-21 00-09.jpg,Mamman Bello Ali
-member of the Senate of Nigeria,Mohammed Aruwa,Q6892988,2003-06-03,2007-06-05,male,1948,2018-12-09,Mohammed Aruwa.png,Mohammed Aruwa
 member of the Senate of Nigeria,Mohammed Daggash,Q6893057,2003-06-03,2007-06-05,male,1960-12-22,,Daggash at council meeting.jpg,Mohammed Daggash
 member of the Senate of Nigeria,Mohammed Sani Sami,Q6893322,2003-06-03,2007-06-05,male,,,,Mohammed Sani Sami
 member of the Senate of Nigeria,Omar Hambagda,Q7089709,2003-06-03,2007-06-05,male,1949-07-28,2016-05-30,,Omar Hambagda
-member of the Senate of Nigeria,Oserheimen Osunbor,Q7106495,2003-06-03,2007-06-05,male,1951-10-05,,Prof. Oserheimen Osunbor.jpg,Oserheimen Osunbor
-member of the Senate of Nigeria,Patrick Osakwe,Q7147437,2003-06-03,2007-06-05,male,1948-08-11,,,Patrick Osakwe
 member of the Senate of Nigeria,Saidu Dansadau,Q7399992,2003-06-03,2007-06-05,male,1953-06-20,,,Saidu Dansadau
 member of the Senate of Nigeria,Simon Ajibola,Q7518155,2003-06-03,2007-06-05,male,,,Simeon Ajibola.jpg,Simon Ajibola
 member of the Senate of Nigeria,Tawar Umbi Wada,Q7689220,2003-06-03,2007-06-05,male,1957-01-27,2010-03-31,,Tawar Umbi Wada
@@ -161,7 +196,6 @@ member of the Senate of Nigeria,Teslim Folarin,Q7705525,2003-06-03,2007-06-05,ma
 member of the Senate of Nigeria,Udoma Udo Udoma,Q7877282,2003-06-03,2007-06-05,male,1954-02-26,,,Udoma Udo Udoma
 member of the Senate of Nigeria,Umaru Dahiru,Q7881173,2003-06-03,2007-06-05,male,1952-06-12,,,Umaru Dahiru
 member of the Senate of Nigeria,Usman Albishir,Q7902039,2003-06-03,2007-06-05,male,1945-06-15,2012-07-02,Late Senator Usman Albishir.gif,Usman Albishir
-member of the Senate of Nigeria,Victor Oyofo,Q7926217,2003-06-03,2007-06-05,male,,,Senator Victor Oyofo (cropped).jpg,Victor Oyofo
 member of the Senate of Nigeria,Yushau Anka,Q8061881,2003-06-03,2007-06-05,male,1950-04,,,Yushau Anka
 member of the Senate of Nigeria,Bala Mohammed,Q4849691,2007-04-08,2010-04-08,male,1958-10-05,,Kauranbauchi.jpg,Bala Mohammed
 member of the Senate of Nigeria,Isiaka Adetunji Adeleke,Q6080812,2007-05,2011-05,male,1955-01-15,2017-04-23,,Isiaka Adeleke
@@ -211,7 +245,6 @@ member of the Senate of Nigeria,Anyimchukwu Ude,Q4778249,2007-06-05,2011-06-06,m
 member of the Senate of Nigeria,Audu Idris Umar,Q4820221,2007-06-05,2011-06-06,male,1959-12-28,,,Audu Idris Umar
 member of the Senate of Nigeria,Ayogu Eze,Q4831565,2007-06-05,2011-06-06,male,1958-11-23,,,Ayogu Eze
 member of the Senate of Nigeria,Bassey Ewa-Henshaw,Q4868127,2007-06-05,2011-06-06,male,1943-05-04,,,Bassey Ewa-Henshaw
-member of the Senate of Nigeria,Bello Hayatu Gwarzo,Q4884084,2007-06-05,2011-06-06,male,1960-04-14,,,Bello Hayatu Gwarzo
 member of the Senate of Nigeria,Bode Olajumoke,Q4936432,2007-06-05,2011-06-06,male,1944-07-01,,,Bode Olajumoke
 member of the Senate of Nigeria,Bukar Ibrahim,Q4986810,2007-06-05,2011-06-06,male,1950-10,,,Bukar Ibrahim
 member of the Senate of Nigeria,Caleb Zagi,Q5019332,2007-06-05,2011-06-06,male,1960-10,,,Caleb Zagi
@@ -256,7 +289,6 @@ member of the Senate of Nigeria,Omar Hambagda,Q7089709,2007-06-05,2011-06-06,mal
 member of the Senate of Nigeria,Osita Izunaso,Q7106879,2007-06-05,2011-06-06,male,1966-10-30,,,Osita Izunaso
 member of the Senate of Nigeria,Otaru Salihu Ohize,Q7108462,2007-06-05,2011-06-06,male,1953-02-05,2016-10-30,,Otaru Salihu Ohize
 member of the Senate of Nigeria,Patricia Akwashiki,Q7145448,2007-06-05,2011-06-06,female,1953-11-02,,,Patricia Akwashiki
-member of the Senate of Nigeria,Patrick Osakwe,Q7147437,2007-06-05,2011-06-06,male,1948-08-11,,,Patrick Osakwe
 member of the Senate of Nigeria,Sa'idu Ahmed Alkali,Q7395446,2007-06-05,2011-06-06,male,1969-02-12,,,Sa'idu Ahmed Alkali
 member of the Senate of Nigeria,Sahabi Alhaji Yaú,Q7399413,2007-06-05,2011-06-06,male,1956-07-16,,,Sahabi Alhaji Yaú
 member of the Senate of Nigeria,Satty Davies Gogwim,Q7426552,2007-06-05,2011-06-06,male,1949-07-27,,,Satty Davies Gogwim
@@ -274,6 +306,7 @@ member of the Senate of Nigeria,Umaru Dahiru,Q7881173,2007-06-05,2011-06-06,male
 member of the Senate of Nigeria,Wilson Asinobi Ake,Q8022970,2007-06-05,2011-06-06,male,1955-09-21,,,Wilson Asinobi Ake
 member of the Senate of Nigeria,Yisa Braimoh,Q8053833,2007-06-05,2011-06-06,male,1942-08-12,,,Yisa Braimoh
 member of the Senate of Nigeria,Zainab Abdulkadir Kure,Q8064832,2007-06-05,2011-06-06,female,1959-11-24,,,Zainab Abdulkadir Kure
+member of the Senate of Nigeria,Bello Hayatu Gwarzo,Q4884084,2008-12-08,2015-05-29,male,1960-04-14,,,Bello Hayatu Gwarzo
 member of the Senate of Nigeria,Ita Enang,Q10987178,2011-06-06,2015-06-04,male,1962-08-23,,,Ita Enang
 member of the Senate of Nigeria,Abubakar Atiku Bagudu,Q10998235,2011-06-06,2015-06-04,male,1961-12-26,,,Abubakar Atiku Bagudu
 member of the Senate of Nigeria,Magery Okadigbo,Q111148451,2011-06-06,2015-06-04,,,,,
@@ -329,7 +362,6 @@ member of the Senate of Nigeria,Babayo Garba Gamawa,Q4837564,2011-06-06,2015-06-
 member of the Senate of Nigeria,Barnabas Andyar Gemade,Q4861327,2011-06-06,2015-06-04,male,1948-09-04,,Gemade.jpg,Barnabas Andyar Gemade
 member of the Senate of Nigeria,Basheer Garba Mohammed,Q4866793,2011-06-06,2015-06-04,male,1966-10-16,,,Basheer Garba Mohammed
 member of the Senate of Nigeria,Bassey Otu,Q4868129,2011-06-06,2015-06-04,male,1959-10-18,,Sen otu.jpg,Bassey Otu
-member of the Senate of Nigeria,Bello Hayatu Gwarzo,Q4884084,2011-06-06,2015-06-04,male,1960-04-14,,,Bello Hayatu Gwarzo
 member of the Senate of Nigeria,Bello Mohammed Tukur,Q4884086,2011-06-06,2015-06-04,male,,,,Bello Mohammed Tukur
 member of the Senate of Nigeria,Benedict Ayade,Q4887251,2011-06-06,2015-06-04,male,1969-03-02,,Ben-ayade-1.jpg,Benedict Ayade
 member of the Senate of Nigeria,Bindo Jibrilla,Q4914035,2011-06-06,2015-06-04,male,1963-06-16,,,Bindo Jibrilla
@@ -802,7 +834,6 @@ member of the House of Representatives of Nigeria,Farouk Lawan,Q5436177,1999,200
 member of the House of Representatives of Nigeria,Gabriel Suswam,Q5515869,1999,2003,male,1964-11-15,,,Gabriel Suswam
 member of the House of Representatives of Nigeria,Gbemisola Ruqayyah Saraki,Q5529326,1999,2003,female,1965,,,Gbemisola Ruqayyah Saraki
 member of the House of Representatives of Nigeria,Ghali Umar Na'Abba,Q5555270,1999,2003,male,1964,,,Ghali Umar Na'Abba
-member of the House of Representatives of Nigeria,Haruna Aziz Zeego,Q5675846,1999,2003,male,,,,Haruna Aziz Zeego
 member of the House of Representatives of Nigeria,Ibrahim Bio,Q5984495,1999,2003,male,1957-04,,,Ibrahim Bio
 member of the House of Representatives of Nigeria,Chukwuemeka Nwajiuba,Q66901800,1999,2003,male,1967,,,Chukwuemeka Nwajiuba
 member of the House of Representatives of Nigeria,Lynda Chuba-Ikpeazu,Q6708540,1999,2003,female,1966-06-22,,,Lynda Chuba-Ikpeazu
