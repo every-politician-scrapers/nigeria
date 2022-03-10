@@ -1,167 +1,20 @@
 {
-  "title": "Zainab Ahmed",
-  "pageID": 55518610,
-  "categories": [
-    "Federal ministers of Nigeria",
-    "People from Kaduna State",
-    "Olabisi Onabanjo University alumni",
-    "Ahmadu Bello University alumni",
-    "Living people",
-    "Politicians from Kaduna State",
-    "21st-century Nigerian women politicians",
-    "Women government ministers of Nigeria",
-    "1960 births",
-    "Female finance ministers",
-    "Finance ministers of Nigeria"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Zainab Shamsuna Ahmed (born 16 June 1960) is a Nigerian accountant who has been serving as Minister of Finance, Budget and National Planning since 2019.",
-              "formatting": {
-                "bold": [
-                  "Zainab Shamsuna Ahmed"
-                ]
-              }
-            },
-            {
-              "text": "At the time, President Muhammadu Buhari brought the two ministries under her as one, making her the de facto Minister of Economy.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Muhammadu Buhari"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "An accountant by profession with a Bachelor of Science degree in accounting from ABU Zaria and a Master's in Business Administration (MBA), Ahmed was appointed as Finance Minister upon the resignation of the previous Minister of Finance Kemi Adeosun on 14 September 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kemi Adeosun"
-                }
-              ]
-            },
-            {
-              "text": "In 2015, she was appointed as the Minister of State for Budget and National Planning by President Buhari."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "December 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "description": "Nigerian accountant",
-          "template": "short description"
-        },
-        {
-          "text": "the U.S prosecutor, Zainab Ahmad",
-          "template": "distinguish"
-        },
-        {
-          "year": "1960",
-          "month": "06",
-          "day": "16",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Zainab Shamsuna Ahmed"
-          },
-          "image": {
-            "text": "Zainab Ahmed - 2016.jpg"
-          },
-          "caption": {
-            "text": "Hon Minister"
-          },
-          "office1": {
-            "text": "Minister of Finance, Budget and National Planning"
-          },
-          "term_start1": {
-            "text": "21 August 2019"
-          },
-          "appointer1": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Finance"
-          },
-          "term_start2": {
-            "text": "2018",
-            "number": 2018
-          },
-          "term_end2": {
-            "text": "2019",
-            "number": 2019
-          },
-          "predecessor2": {
-            "text": "Kemi Adeosun"
-          },
-          "education": {
-            "text": "Ahmadu Bello University Olabisi Onabanjo University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ahmadu Bello University"
-              },
-              {
-                "type": "internal",
-                "page": "Olabisi Onabanjo University"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of State for Budget and National Planning"
-          },
-          "term_start3": {
-            "text": "2015",
-            "number": 2015
-          },
-          "term_end3": {
-            "text": "2018",
-            "number": 2018
-          },
-          "birth_date": {
-            "text": "June 16, 1960"
-          },
-          "birth_place": {
-            "text": "Kaduna State",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaduna State"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Accountant, politician"
-          },
-          "party": {
-            "text": "All Progressive Congress"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Zainab Shamsuna Ahmed",
+  "image": "Zainab Ahmed - 2016.jpg",
+  "caption": "Hon Minister",
+  "office1": "Minister of Finance, Budget and National Planning",
+  "term_start1": "21 August 2019",
+  "appointer1": "Muhammadu Buhari",
+  "office2": "Minister of Finance",
+  "term_start2": "2018",
+  "term_end2": "2019",
+  "predecessor2": "Kemi Adeosun",
+  "education": "Ahmadu Bello University Olabisi Onabanjo University",
+  "office3": "Minister of State for Budget and National Planning",
+  "term_start3": "2015",
+  "term_end3": "2018",
+  "birth_date": "June 16, 1960",
+  "birth_place": "Kaduna State",
+  "occupation": "Accountant, politician",
+  "party": "All Progressive Congress"
 }

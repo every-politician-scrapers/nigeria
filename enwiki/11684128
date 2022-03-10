@@ -1,227 +1,28 @@
 {
-  "title": "Timipre Sylva",
-  "pageID": 11684128,
-  "categories": [
-    "Living people",
-    "1964 births",
-    "Governors of Bayelsa State",
-    "University of Port Harcourt alumni",
-    "Peoples Democratic Party state governors of Nigeria",
-    "Nigerian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Timipre Marlin Sylva (born July 7, 1964) is a former Governor of Bayelsa State, Nigeria, and the current Nigeria Minister of State for Petroleum Resources.",
-              "links": [
-                {
-                  "text": "Governor",
-                  "type": "internal",
-                  "page": "List of Governors of Bayelsa State"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bayelsa State"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nigeria"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Timipre Marlin Sylva"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Former Governor of Bayelsa state",
-          "template": "short description"
-        },
-        {
-          "year": "1964",
-          "month": "7",
-          "day": "7",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Timipre Sylva"
-          },
-          "image": {
-            "text": "Timipre Sylva.jpg"
-          },
-          "width": {
-            "text": "150px"
-          },
-          "office": {
-            "text": "Minister of State for Petroleum Resources",
-            "links": [
-              {
-                "text": "Minister of State for Petroleum Resources",
-                "type": "internal",
-                "page": "Federal Ministry of Petroleum Resources (Nigeria)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "21 August 2019"
-          },
-          "predecessor": {
-            "text": "Emmanuel Ibe Kachikwu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Emmanuel Ibe Kachikwu"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Governor of Bayelsa State",
-            "links": [
-              {
-                "text": "Governor of Bayelsa State",
-                "type": "internal",
-                "page": "List of Governors of Bayelsa State"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 May 2008"
-          },
-          "term_end2": {
-            "text": "27 January 2012"
-          },
-          "predecessor2": {
-            "text": "Werinipre Seibarugo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Werinipre Seibarugo"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Nestor Binabo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nestor Binabo"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Governor of Bayelsa State",
-            "links": [
-              {
-                "text": "Governor of Bayelsa State",
-                "type": "internal",
-                "page": "List of Governors of Bayelsa State"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "29 May 2007"
-          },
-          "term_end3": {
-            "text": "16 April 2008"
-          },
-          "predecessor3": {
-            "text": "Goodluck Jonathan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goodluck Jonathan"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Werinipre Seibarugo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Werinipre Seibarugo"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Special Assistant to Minister of State for Petroleum Resources"
-          },
-          "term_start4": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end4": {
-            "text": "2007",
-            "number": 2007
-          },
-          "birth_date": {
-            "text": "July 7, 1964"
-          },
-          "birth_place": {
-            "text": "Okpoama-Brass, Brass LGA, Bayelsa, Nigeria",
-            "links": [
-              {
-                "text": "Brass LGA",
-                "type": "internal",
-                "page": "Brass, Nigeria"
-              },
-              {
-                "type": "internal",
-                "page": "Bayelsa"
-              },
-              {
-                "type": "internal",
-                "page": "Nigeria"
-              }
-            ]
-          },
-          "party": {
-            "text": "All Progressive Congress (APC)",
-            "links": [
-              {
-                "text": "All Progressive Congress",
-                "type": "internal",
-                "page": "All Progressive Congress (Nigeria)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Alanyingi Sylva"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "education": {
-            "text": "University of Port Harcourt and UBIS University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Port Harcourt"
-              },
-              {
-                "type": "internal",
-                "page": "UBIS University"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Public Servant"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Timipre Sylva",
+  "image": "Timipre Sylva.jpg",
+  "width": "150px",
+  "office": "Minister of State for Petroleum Resources",
+  "term_start": "21 August 2019",
+  "predecessor": "Emmanuel Ibe Kachikwu",
+  "office2": "Governor of Bayelsa State",
+  "term_start2": "27 May 2008",
+  "term_end2": "27 January 2012",
+  "predecessor2": "Werinipre Seibarugo",
+  "successor2": "Nestor Binabo",
+  "office3": "Governor of Bayelsa State",
+  "term_start3": "29 May 2007",
+  "term_end3": "16 April 2008",
+  "predecessor3": "Goodluck Jonathan",
+  "successor3": "Werinipre Seibarugo",
+  "office4": "Special Assistant to Minister of State for Petroleum Resources",
+  "term_start4": "2004",
+  "term_end4": "2007",
+  "birth_date": "July 7, 1964",
+  "birth_place": "Okpoama-Brass, Brass LGA, Bayelsa, Nigeria",
+  "party": "All Progressive Congress (APC)",
+  "spouse": "Alanyingi Sylva",
+  "children": "3",
+  "education": "University of Port Harcourt and UBIS University",
+  "occupation": "Public Servant"
 }

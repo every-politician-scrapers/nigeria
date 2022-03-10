@@ -1,221 +1,29 @@
 {
-  "title": "Lucky Irabor",
-  "pageID": 66507087,
-  "categories": [
-    "Living people",
-    "Nigerian generals",
-    "Obafemi Awolowo University alumni",
-    "University of Ghana alumni",
-    "Multinational Joint Task Force Commanders",
-    "1965 births"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Lucky Eluonye Onyenuchea Irabor (born October 5, 1965) is a Nigerian Army General and the current Chief of Defence Staff of Nigeria.",
-              "links": [
-                {
-                  "text": "Army General",
-                  "type": "internal",
-                  "page": "Army general"
-                },
-                {
-                  "text": "Chief of Defence Staff of Nigeria",
-                  "type": "internal",
-                  "page": "Chief of the Defence Staff (Nigeria)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Lucky Eluonye Onyenuchea Irabor"
-                ]
-              }
-            },
-            {
-              "text": "He was appointed by Muhammadu Buhari on January 26, 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Muhammadu Buhari"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chief of Defence Staff",
-          "template": "short description"
-        },
-        {
-          "year": "1965",
-          "month": "10",
-          "day": "5",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Lucky Irabor"
-          },
-          "image": {
-            "text": "Gen_Lucky_Irabor_portrait.jpg"
-          },
-          "birth_date": {
-            "text": "October 5, 1965"
-          },
-          "birth_place": {
-            "text": "Agbor, Delta State, Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Agbor"
-              },
-              {
-                "type": "internal",
-                "page": "Delta State"
-              },
-              {
-                "type": "internal",
-                "page": "Nigeria"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chief of Defence Staff",
-            "links": [
-              {
-                "text": "Chief of Defence Staff",
-                "type": "internal",
-                "page": "Chief of the Defence Staff (Nigeria)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "January 26, 2021"
-          },
-          "predecessor1": {
-            "text": "Abayomi Olonisakin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abayomi Olonisakin"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Commander of TRADOC",
-            "links": [
-              {
-                "text": "TRADOC",
-                "type": "internal",
-                "page": "Training and Doctrine Command (Nigeria)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "July 2020"
-          },
-          "term_end2": {
-            "text": "January 2021"
-          },
-          "predecessor2": {
-            "text": "A. Tarfa"
-          },
-          "successor2": {
-            "text": "Mobolaji Koleoso"
-          },
-          "office3": {
-            "text": "Commander of the Multinational Joint Task Force",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Multinational Joint Task Force"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "May 2017"
-          },
-          "term_end3": {
-            "text": "August 2018"
-          },
-          "predecessor3": {
-            "text": "Lamidi Adeosun"
-          },
-          "successor3": {
-            "text": "Chikezie Ude"
-          },
-          "office4": {
-            "text": "Commander of Operation Lafiya Dole"
-          },
-          "term_start4": {
-            "text": "March 2016"
-          },
-          "term_end4": {
-            "text": "May 2017"
-          },
-          "predecessor4": {
-            "text": "Hassan Umaru"
-          },
-          "successor4": {
-            "text": "Ibrahim Attahiru",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ibrahim Attahiru"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1983 - present"
-          },
-          "rank": {
-            "text": "General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "General"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "🇳🇬 Nigeria",
-            "links": [
-              {
-                "text": "Nigeria",
-                "type": "internal",
-                "page": "nigeria"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Flag of the Nigerian Army Headquarters.svg Nigerian Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nigerian Army"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Lucky Irabor",
+  "image": "Gen_Lucky_Irabor_portrait.jpg",
+  "birth_date": "October 5, 1965",
+  "birth_place": "Agbor, Delta State, Nigeria",
+  "office1": "Chief of Defence Staff",
+  "term_start1": "January 26, 2021",
+  "predecessor1": "Abayomi Olonisakin",
+  "office2": "Commander of TRADOC",
+  "term_start2": "July 2020",
+  "term_end2": "January 2021",
+  "predecessor2": "A. Tarfa",
+  "successor2": "Mobolaji Koleoso",
+  "office3": "Commander of the Multinational Joint Task Force",
+  "term_start3": "May 2017",
+  "term_end3": "August 2018",
+  "predecessor3": "Lamidi Adeosun",
+  "successor3": "Chikezie Ude",
+  "office4": "Commander of Operation Lafiya Dole",
+  "term_start4": "March 2016",
+  "term_end4": "May 2017",
+  "predecessor4": "Hassan Umaru",
+  "successor4": "Ibrahim Attahiru",
+  "serviceyears": "1983 - present",
+  "rank": "General",
+  "allegiance": "🇳🇬 Nigeria",
+  "branch": "Flag of the Nigerian Army Headquarters.svg Nigerian Army",
+  "president1": "Muhammadu Buhari"
 }

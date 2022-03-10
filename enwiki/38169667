@@ -1,183 +1,21 @@
 {
-  "title": "Hadi Sirika",
-  "pageID": 38169667,
-  "categories": [
-    "Nigerian politicians",
-    "Living people",
-    "1964 births",
-    "Nigerian polo players"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Hadi Abubakar Sirika is the current Minister for Aviation of the Federal Republic of Nigeria.",
-              "links": [
-                {
-                  "text": "Federal Republic of Nigeria",
-                  "type": "internal",
-                  "page": "Nigeria"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Hadi Abubakar Sirika"
-                ]
-              }
-            },
-            {
-              "text": "He is a former Member House of Representative, and assumed the Senator of the Federal Republic of Nigeria in 2011, where he represents Katsina North Senatorial District under the platform of Congress for Progressive Change.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Senator"
-                },
-                {
-                  "type": "internal",
-                  "page": "Congress for Progressive Change"
-                }
-              ]
-            },
-            {
-              "text": "Sirika held the position of (Vice-Chairman) of the Millennium Development Goals (MDGs) Committee set by the Nigerian Senate.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nigerian Senate"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Nigerian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1964",
-          "month": "3",
-          "day": "2",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Hadi Abubakar Sirika"
-          },
-          "image": {
-            "text": "HadiSirika.jpg"
-          },
-          "office": {
-            "text": "Minister of Aviation"
-          },
-          "president": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 August 2019"
-          },
-          "predecessor": {
-            "text": "Osita Chidoka",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Osita Chidoka"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Senator of the Federal Republic",
-            "links": [
-              {
-                "text": "Senator of the Federal Republic",
-                "type": "internal",
-                "page": "Senate of Nigeria"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "January 2012"
-          },
-          "term_end1": {
-            "text": "June 2015"
-          },
-          "predecessor1": {
-            "text": "Mahmud Kanti Bello",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mahmud Kanti Bello"
-              }
-            ]
-          },
-          "constituency1": {
-            "text": "Katsina North"
-          },
-          "successor1": {
-            "text": "Mustapha Bukar"
-          },
-          "birth_date": {
-            "text": "March 2, 1964"
-          },
-          "birth_place": {
-            "text": "Dutsi",
-            "links": [
-              {
-                "text": "Dutsi",
-                "type": "internal",
-                "page": "Dutsi, Nigeria"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Nigerian"
-          },
-          "party": {
-            "text": "All Progressives Congress (APC)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "All Progressives Congress"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "website": {
-            "text": "http://senatorhadisirika.com/"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Honourable",
+  "name": "Hadi Abubakar Sirika",
+  "image": "HadiSirika.jpg",
+  "office": "Minister of Aviation",
+  "president": "Muhammadu Buhari",
+  "term_start": "22 August 2019",
+  "predecessor": "Osita Chidoka",
+  "office1": "Senator of the Federal Republic",
+  "term_start1": "January 2012",
+  "term_end1": "June 2015",
+  "predecessor1": "Mahmud Kanti Bello",
+  "constituency1": "Katsina North",
+  "successor1": "Mustapha Bukar",
+  "birth_date": "March 2, 1964",
+  "birth_place": "Dutsi",
+  "nationality": "Nigerian",
+  "party": "All Progressives Congress (APC)",
+  "profession": "Politician",
+  "website": "http://senatorhadisirika.com/"
 }

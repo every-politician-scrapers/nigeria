@@ -1,116 +1,15 @@
 {
-  "title": "Sharon Ikeazor",
-  "pageID": 61460778,
-  "categories": [
-    "Women government ministers of Nigeria",
-    "1961 births",
-    "Living people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sharon Ikeazor (born August 28, 1961) is a Nigerian lawyer, politician and management consultant.",
-              "formatting": {
-                "bold": [
-                  "Sharon Ikeazor"
-                ]
-              }
-            },
-            {
-              "text": "She is the former executive secretary of Pension Transitional Arrangement Directorate."
-            },
-            {
-              "text": "On August 2019, Sharon was appointed the Minister of State for Environment."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Nigerian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1961",
-          "month": "8",
-          "day": "28",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sharon Ikeazor"
-          },
-          "office": {
-            "text": "Minister of State Environment"
-          },
-          "image": {
-            "text": "Sharon Ikeazor.jpeg"
-          },
-          "termstart": {
-            "text": "August 21, 2019"
-          },
-          "predecessor": {
-            "text": "Ibrahim Usman Jibril",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ibrahim Usman Jibril"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Godolphin School Ahmadu Bello University University of Benin Nigerian Law School",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Godolphin School"
-              },
-              {
-                "type": "internal",
-                "page": "Ahmadu Bello University"
-              },
-              {
-                "text": "University of Benin",
-                "type": "internal",
-                "page": "University of Benin (Nigeria)"
-              },
-              {
-                "type": "internal",
-                "page": "Nigerian Law School"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "August 28, 1961"
-          },
-          "birth_name": {
-            "text": "Sharon Olive Ikeazor"
-          },
-          "caption": {
-            "text": "Sharon Ikeazor"
-          },
-          "office1": {
-            "text": "Executive Secretary Pension Transitional Arrangement Directorate"
-          },
-          "termstart1": {
-            "text": "September 26, 2016"
-          },
-          "termend1": {
-            "text": "August 20, 2019"
-          },
-          "predecessor1": {
-            "text": "Nellie Mayshak"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sharon Ikeazor",
+  "office": "Minister of State Environment",
+  "image": "Sharon Ikeazor.jpeg",
+  "termstart": "August 21, 2019",
+  "predecessor": "Ibrahim Usman Jibril",
+  "alma_mater": "Godolphin School Ahmadu Bello University University of Benin Nigerian Law School",
+  "birth_date": "August 28, 1961",
+  "birth_name": "Sharon Olive Ikeazor",
+  "caption": "Sharon Ikeazor",
+  "office1": "Executive Secretary Pension Transitional Arrangement Directorate",
+  "termstart1": "September 26, 2016",
+  "termend1": "August 20, 2019",
+  "predecessor1": "Nellie Mayshak"
 }

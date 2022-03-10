@@ -1,173 +1,18 @@
 {
-  "title": "Osagie Ehanire",
-  "pageID": 60398656,
-  "categories": [
-    "1946 births",
-    "Nigerian anesthesiologists",
-    "Living people",
-    "Health ministers of Nigeria",
-    "Nigerian surgeons",
-    "People from Warri",
-    "Nigerian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Osagie Emmanuel Ehanire (born 4 November 1945) is a Nigerian medical doctor and politician.",
-              "links": [
-                {
-                  "text": "Nigerian",
-                  "type": "internal",
-                  "page": "Nigerians"
-                },
-                {
-                  "text": "medical doctor",
-                  "type": "internal",
-                  "page": "medical doctor"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Osagie Emmanuel Ehanire"
-                ]
-              }
-            },
-            {
-              "text": "He was appointed as the Minister Health in the President Muhammadu Buhari administration in November 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Muhammadu Buhari"
-                }
-              ]
-            },
-            {
-              "text": "Following the submission of the ministerial nominees to the Senate by the Presidency in July 2019 and subsequent screening, He was appointed as the Minister of Health in August 2019."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Nigerian medical doctor and politician",
-          "template": "short description"
-        },
-        {
-          "date": "March 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1946",
-          "month": "11",
-          "day": "04",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Dr."
-          },
-          "name": {
-            "text": "Osagie Ehanire"
-          },
-          "office": {
-            "text": "Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Federal Ministry of Health (Nigeria)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "2019",
-            "number": 2019
-          },
-          "predecessor": {
-            "text": "Isaac Adewole",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Isaac Adewole"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of State for Health"
-          },
-          "term_start2": {
-            "text": "2015",
-            "number": 2015
-          },
-          "term_end2": {
-            "text": "2019",
-            "number": 2019
-          },
-          "predecessor2": {
-            "text": "Khaliru Alhassan"
-          },
-          "successor2": {
-            "text": "Adeleke Mamora",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adeleke Mamora"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Osagie Emmanuel Ehanire"
-          },
-          "birth_date": {
-            "text": "November 4, 1946"
-          },
-          "nationality": {
-            "text": "Nigerian",
-            "links": [
-              {
-                "text": "Nigerian",
-                "type": "internal",
-                "page": "Nigerians"
-              }
-            ]
-          },
-          "party": {
-            "text": "All Progressives Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "All Progressives Congress"
-              }
-            ]
-          },
-          "education": {
-            "text": "Ludwig Maximilian University of Munich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ludwig Maximilian University of Munich"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Surgeon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Surgeon"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Dr.",
+  "name": "Osagie Ehanire",
+  "office": "Minister of Health",
+  "term_start": "2019",
+  "predecessor": "Isaac Adewole",
+  "office2": "Minister of State for Health",
+  "term_start2": "2015",
+  "term_end2": "2019",
+  "predecessor2": "Khaliru Alhassan",
+  "successor2": "Adeleke Mamora",
+  "birth_name": "Osagie Emmanuel Ehanire",
+  "birth_date": "November 4, 1946",
+  "nationality": "Nigerian",
+  "party": "All Progressives Congress",
+  "education": "Ludwig Maximilian University of Munich",
+  "occupation": "Surgeon"
 }
