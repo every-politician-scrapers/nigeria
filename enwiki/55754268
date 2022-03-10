@@ -1,167 +1,20 @@
 {
-  "title": "Isa Ali Pantami",
-  "pageID": 55754268,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "Nigerian Muslims",
-    "Alumni of Robert Gordon University",
-    "Abubakar Tafawa Balewa University alumni",
-    "Ahmadu Bello University alumni",
-    "Politicians from Gombe State"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Isa Ali Ibrahim (born 20 October 1972), commonly known as Isa Ali Pantami, is an Islamic cleric who is currently serving as Minister of Communications and Digital Economy in Nigeria.",
-              "formatting": {
-                "bold": [
-                  "Isa Ali Ibrahim",
-                  "Isa Ali Pantami"
-                ]
-              }
-            },
-            {
-              "text": "He was the Director General of the National Information Technology Development Agency (NITDA) of Nigeria from 26 September 2016 to 20 August 2019 when he was nominated as minister and sworn into office on 21 August 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Information Technology Development Agency"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nigeria"
-                }
-              ]
-            },
-            {
-              "text": "Pantami is among seven Readers (Associate Professors) promoted to Professor by the Governing Council of Federal University of Technology Owerri (FUTO) at its 186th meeting held on Friday, August 20, 2021."
-            },
-            {
-              "text": "However, this promotion continues to generate controversy, and has been strongly questioned by some intellectuals on allegations that it did not follow the extant due process in professorship appointments in Nigeria academia."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Nigerian minister/Islamic cleric",
-          "template": "short description"
-        },
-        {
-          "date": "July 2013",
-          "template": "use british english"
-        },
-        {
-          "date": "April 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1972",
-          "month": "10",
-          "day": "20",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Isa Ali Pantami"
-          },
-          "honorific-suffix": {
-            "text": "FNCS, FBCS, FIIM, MCPN"
-          },
-          "image": {
-            "text": "Pantami.jpg"
-          },
-          "office": {
-            "text": "Minister of Communications and Digital Economy"
-          },
-          "termstart": {
-            "text": "21 August 2019"
-          },
-          "predecessor": {
-            "text": "Barrister Adebayo Shittu"
-          },
-          "office1": {
-            "text": "Director General of the NITDA",
-            "links": [
-              {
-                "text": "NITDA",
-                "type": "internal",
-                "page": "National Information Technology Development Agency"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 September 2016"
-          },
-          "term_end1": {
-            "text": "20 August 2019"
-          },
-          "predecessor1": {
-            "text": "Mr. Peter Jack"
-          },
-          "successor1": {
-            "text": "Inuwa Kashifu Abdullahi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Inuwa Kashifu Abdullahi"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 20, 1972"
-          },
-          "birth_place": {
-            "text": "Gombe State, Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gombe State"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Isa Ali Ibrahim"
-          },
-          "nationality": {
-            "text": "Nigerian"
-          },
-          "relations": {
-            "text": "Married"
-          },
-          "residence": {
-            "text": "Abuja",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abuja"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Abubakar Tafawa Balewa University (BTech, MSc)\n\nRobert Gordon University (PhD)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abubakar Tafawa Balewa University"
-              },
-              {
-                "type": "internal",
-                "page": "Robert Gordon University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Isa Ali Pantami",
+  "honorific-suffix": "FNCS, FBCS, FIIM, MCPN",
+  "image": "Pantami.jpg",
+  "office": "Minister of Communications and Digital Economy",
+  "termstart": "21 August 2019",
+  "predecessor": "Barrister Adebayo Shittu",
+  "office1": "Director General of the NITDA",
+  "term_start1": "26 September 2016",
+  "term_end1": "20 August 2019",
+  "predecessor1": "Mr. Peter Jack",
+  "successor1": "Inuwa Kashifu Abdullahi",
+  "birth_date": "October 20, 1972",
+  "birth_place": "Gombe State, Nigeria",
+  "birthname": "Isa Ali Ibrahim",
+  "nationality": "Nigerian",
+  "relations": "Married",
+  "residence": "Abuja",
+  "alma_mater": "Abubakar Tafawa Balewa University (BTech, MSc)\n\nRobert Gordon University (PhD)"
 }

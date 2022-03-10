@@ -1,271 +1,29 @@
 {
-  "title": "Godswill Akpabio",
-  "pageID": 25644588,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "People from Akwa Ibom State",
-    "Nigerian Roman Catholics",
-    "Peoples Democratic Party state governors of Nigeria",
-    "Governors of Akwa Ibom State",
-    "University of Calabar alumni",
-    "Nigerian Law School alumni",
-    "Akwa Ibom State politicians",
-    "Members of the Senate (Nigeria)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Chief Godswill Obot Akpabio, CON (born 9 December 1962), is a Nigerian lawyer and politician.",
-              "links": [
-                {
-                  "text": "CON",
-                  "type": "internal",
-                  "page": "Order of the Niger"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Godswill Obot Akpabio"
-                ]
-              }
-            },
-            {
-              "text": "He is the current Minister of Niger Delta, a former Senator of the Federal Republic of Nigeria and the Senate's Minority Leader.",
-              "links": [
-                {
-                  "text": "Senator of the Federal Republic of Nigeria",
-                  "type": "internal",
-                  "page": "Senate of Nigeria"
-                }
-              ]
-            },
-            {
-              "text": "He also served as Governor of Akwa Ibom State of Nigeria from May 29, 2007 to May 29, 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor"
-                },
-                {
-                  "type": "internal",
-                  "page": "Akwa Ibom State"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nigeria"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Nigerian lawyer and politician",
-          "template": "short description"
-        },
-        {
-          "date": "July 2013",
-          "template": "use british english"
-        },
-        {
-          "date": "July 2013",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1962",
-          "month": "12",
-          "day": "09",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Chief Obot Akpabio",
-            "Madam Lucy Obot Akpabio (nee Inyangetor)"
-          ],
-          "template": "unbulleted list"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Godswill Obot Akpabio"
-          },
-          "image": {
-            "text": "Godswill Obot Akpabio (2012).jpg"
-          },
-          "caption": {
-            "text": "Portrait of Akpabio"
-          },
-          "office1": {
-            "text": "Minister of Niger Delta",
-            "links": [
-              {
-                "text": "Minister of Niger Delta",
-                "type": "internal",
-                "page": "Ministry of Niger Delta Affairs"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "21 August 2019"
-          },
-          "predecessor1": {
-            "text": "Usani Uguru Usani",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Usani Uguru Usani"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Senator of the Federal Republic of Nigeria for Akwa Ibom North-West Senatorial District",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Akwa Ibom North-West Senatorial District"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "9 June 2015"
-          },
-          "term_end2": {
-            "text": "9 June 2019"
-          },
-          "predecessor2": {
-            "text": "Aloysius Akpan Etok",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aloysius Akpan Etok"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Chris Ekpenyong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Ekpenyong"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Senate Minority Leader"
-          },
-          "term_start3": {
-            "text": "28 July 2015"
-          },
-          "term_end3": {
-            "text": "7 August 2018"
-          },
-          "predecessor3": {
-            "text": "George Akume",
-            "links": [
-              {
-                "type": "internal",
-                "page": "George Akume"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Abiodun Olujimi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abiodun Olujimi"
-              }
-            ]
-          },
-          "office4": {
-            "text": "3rd Governor of Akwa Ibom State of the Fourth Republic",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of Akwa Ibom State"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "29 May 2007"
-          },
-          "term_end4": {
-            "text": "29 May 2015"
-          },
-          "predecessor4": {
-            "text": "Obong Victor Attah",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Obong Victor Attah"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Udom Gabriel Emmanuel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Udom Gabriel Emmanuel"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "December 9, 1962"
-          },
-          "birth_place": {
-            "text": "Ukana, Ikot Ntuen, Essien Udim, Akwa Ibom State, Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Essien Udim"
-              },
-              {
-                "type": "internal",
-                "page": "Akwa Ibom State"
-              },
-              {
-                "type": "internal",
-                "page": "Nigeria"
-              }
-            ]
-          },
-          "party": {
-            "text": "All Progressive Congress(APC)",
-            "links": [
-              {
-                "text": "All Progressive Congress(APC)",
-                "type": "internal",
-                "page": "All Progressives Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ekaette Unoma Akpabio"
-          },
-          "alma_mater": {
-            "text": "University of Calabar",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Calabar"
-              }
-            ]
-          },
-          "parents": {
-            "text": "Chief Obot Akpabio\n\nMadam Lucy Obot Akpabio (nee Inyangetor)"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Godswill Obot Akpabio",
+  "image": "Godswill Obot Akpabio (2012).jpg",
+  "caption": "Portrait of Akpabio",
+  "office1": "Minister of Niger Delta",
+  "term_start1": "21 August 2019",
+  "predecessor1": "Usani Uguru Usani",
+  "office2": "Senator of the Federal Republic of Nigeria for Akwa Ibom North-West Senatorial District",
+  "term_start2": "9 June 2015",
+  "term_end2": "9 June 2019",
+  "predecessor2": "Aloysius Akpan Etok",
+  "successor2": "Chris Ekpenyong",
+  "office3": "Senate Minority Leader",
+  "term_start3": "28 July 2015",
+  "term_end3": "7 August 2018",
+  "predecessor3": "George Akume",
+  "successor3": "Abiodun Olujimi",
+  "office4": "3rd Governor of Akwa Ibom State of the Fourth Republic",
+  "term_start4": "29 May 2007",
+  "term_end4": "29 May 2015",
+  "predecessor4": "Obong Victor Attah",
+  "successor4": "Udom Gabriel Emmanuel",
+  "birth_date": "December 9, 1962",
+  "birth_place": "Ukana, Ikot Ntuen, Essien Udim, Akwa Ibom State, Nigeria",
+  "party": "All Progressive Congress(APC)",
+  "spouse": "Ekaette Unoma Akpabio",
+  "alma_mater": "University of Calabar",
+  "parents": "Chief Obot Akpabio\n\nMadam Lucy Obot Akpabio (nee Inyangetor)"
 }

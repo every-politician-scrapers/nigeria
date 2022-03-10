@@ -1,198 +1,21 @@
 {
-  "title": "Rauf Aregbesola",
-  "pageID": 29763441,
-  "categories": [
-    "1957 births",
-    "Living people",
-    "Nigerian Muslims",
-    "Yoruba politicians",
-    "Governors of Osun State",
-    "The Polytechnic, Ibadan alumni",
-    "Federal ministers of Nigeria",
-    "People from Osun"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ogbeni Rauf Adesoji Aregbesola (born 25 May 1957) is the current Minister of the Federal Ministry of Interior of Nigeria.",
-              "links": [
-                {
-                  "text": "Federal Ministry of Interior",
-                  "type": "internal",
-                  "page": "Federal Ministry of Interior (Nigeria)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nigeria"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ogbeni Rauf Adesoji Aregbesola"
-                ]
-              }
-            },
-            {
-              "text": "Before that he was the fourth civilian governor of Osun State.",
-              "links": [
-                {
-                  "text": "fourth civilian governor",
-                  "type": "internal",
-                  "page": "List of Governors of Osun State"
-                },
-                {
-                  "type": "internal",
-                  "page": "Osun State"
-                }
-              ]
-            },
-            {
-              "text": "He is a native of Ilesa, Osun.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ilesa"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Nigerian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1957",
-          "month": "05",
-          "day": "25",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Rauf Aregbesola.jpg"
-          },
-          "alt": {
-            "text": "Governor of the State of Osun, Ogbeni Rauf Aregbesola raises both hands in victory sign during a project inspection tour across the state in September, 2017"
-          },
-          "name": {
-            "text": "Ogbeni Rauf Aregbesola"
-          },
-          "office1": {
-            "text": "Federal Minister of Interior",
-            "links": [
-              {
-                "text": "Interior",
-                "type": "internal",
-                "page": "Ministry of Interior (Nigeria)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "August 2019"
-          },
-          "appointer": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Abdulrahman Bello Dambazau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Abdulrahman Bello Dambazau"
-              }
-            ]
-          },
-          "office2": {
-            "text": "8th Governor of Osun State",
-            "links": [
-              {
-                "text": "8th Governor of Osun State",
-                "type": "internal",
-                "page": "List of Governors of Osun State"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "27 November 2010"
-          },
-          "term_end2": {
-            "text": "27 November 2018"
-          },
-          "predecessor2": {
-            "text": "Olagunsoye Oyinlola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Olagunsoye Oyinlola"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Adegboyega Oyetola",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adegboyega Oyetola"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 25, 1957"
-          },
-          "nationality": {
-            "text": "Nigerian"
-          },
-          "party": {
-            "text": "All Progressives Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "All Progressives Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Sherifat Aregbesola"
-          },
-          "alma_mater": {
-            "text": "The Polytechnic, Ibadan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Polytechnic, Ibadan"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Engineering Technologist",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Engineering Technologist"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Rauf Aregbesola.jpg",
+  "alt": "Governor of the State of Osun, Ogbeni Rauf Aregbesola raises both hands in victory sign during a project inspection tour across the state in September, 2017",
+  "name": "Ogbeni Rauf Aregbesola",
+  "office1": "Federal Minister of Interior",
+  "term_start1": "August 2019",
+  "appointer": "Muhammadu Buhari",
+  "predecessor1": "Abdulrahman Bello Dambazau",
+  "office2": "8th Governor of Osun State",
+  "term_start2": "27 November 2010",
+  "term_end2": "27 November 2018",
+  "predecessor2": "Olagunsoye Oyinlola",
+  "successor2": "Adegboyega Oyetola",
+  "birth_date": "May 25, 1957",
+  "nationality": "Nigerian",
+  "party": "All Progressives Congress",
+  "spouse": "Sherifat Aregbesola",
+  "alma_mater": "The Polytechnic, Ibadan",
+  "occupation": "Engineering Technologist",
+  "profession": "Politician"
 }

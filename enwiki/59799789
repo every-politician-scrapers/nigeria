@@ -1,218 +1,26 @@
 {
-  "title": "Ogbonnaya Onu",
-  "pageID": 59799789,
-  "categories": [
-    "Living people",
-    "Governors of Abia State",
-    "Lists of state governors of Nigeria",
-    "University of Lagos alumni",
-    "University of California, Berkeley alumni",
-    "1951 births",
-    "People from Ebonyi State",
-    "Writers from Ebonyi State",
-    "Chemical engineers",
-    "Nigerian chemical engineers",
-    "Chemical engineering academics"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ogbonnaya Onu (born December 1, 1951) is a Nigerian politician, author and engineer.",
-              "formatting": {
-                "bold": [
-                  "Ogbonnaya Onu"
-                ]
-              }
-            },
-            {
-              "text": "He was the first civilian governor of Abia State and the immediate past Minister of Science and Technology, Federal Republic of Nigeria.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Abia State"
-                }
-              ]
-            },
-            {
-              "text": "",
-              "links": [
-                {
-                  "text": "",
-                  "type": "external",
-                  "site": "https://ejesgist.com/breaking-buhari-appoints-igbo-man-as-secretary-to-government-of-federation-sgf.html"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "May 2021",
-          "template": "use mdy dates"
-        },
-        {
-          "description": "Nigerian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1951",
-          "month": "12",
-          "day": "01",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "Dr."
-          },
-          "name": {
-            "text": "Ogbonnaya Onu"
-          },
-          "honorific_suffix": {
-            "text": "FNSE, FNSChE, FAEng"
-          },
-          "image": {
-            "text": "Ogbonnaya Onu - 2018 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Ogbonnaya Onu in 2018"
-          },
-          "office": {
-            "text": "Secretary to the Government of the Federation",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary to the Government of the Federation"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "June 14, 2019"
-          },
-          "office1": {
-            "text": "Minister of Science and Technology",
-            "links": [
-              {
-                "text": "Science and Technology",
-                "type": "internal",
-                "page": "Federal Ministry of Science and Technology"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "November 11, 2015"
-          },
-          "appointer1": {
-            "text": "Muhammadu Buhari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Muhammadu Buhari"
-              }
-            ]
-          },
-          "order2": {
-            "text": "1st Executive Governor"
-          },
-          "office2": {
-            "text": "Abia State"
-          },
-          "term_start2": {
-            "text": "January 1992"
-          },
-          "term_end2": {
-            "text": "November 1993"
-          },
-          "predecessor2": {
-            "text": "Frank Ajobena (military)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Ajobena"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Chinyere Ike Nwosu (military)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chinyere Ike Nwosu"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Ogbonnaya Onu"
-          },
-          "birth_date": {
-            "text": "December 1, 1951"
-          },
-          "birth_place": {
-            "text": "Ohaozara, Ebonyi State",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ohaozara"
-              },
-              {
-                "type": "internal",
-                "page": "Ebonyi State"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Nigerian",
-            "links": [
-              {
-                "text": "Nigerian",
-                "type": "internal",
-                "page": "Nigerians"
-              }
-            ]
-          },
-          "party": {
-            "text": "All Progressives Congress",
-            "links": [
-              {
-                "type": "internal",
-                "page": "All Progressives Congress"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nigeria"
-              }
-            ]
-          },
-          "education": {
-            "text": "University of Lagos University of California, Berkeley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Lagos"
-              },
-              {
-                "type": "internal",
-                "page": "University of California, Berkeley"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Politician, engineer"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "Dr.",
+  "name": "Ogbonnaya Onu",
+  "honorific_suffix": "FNSE, FNSChE, FAEng",
+  "image": "Ogbonnaya Onu - 2018 (cropped).jpg",
+  "caption": "Ogbonnaya Onu in 2018",
+  "office": "Minister of Science, Technology and Innovation",
+  "term_start": "June 14, 2019",
+  "office1": "Minister of Science, Technology and Innovation",
+  "term_start1": "November 11, 2015",
+  "appointer1": "Muhammadu Buhari",
+  "order2": "1st Executive Governor",
+  "office2": "Abia State",
+  "term_start2": "January 1992",
+  "term_end2": "November 1993",
+  "predecessor2": "Frank Ajobena (military)",
+  "successor2": "Chinyere Ike Nwosu (military)",
+  "birth_name": "Ogbonnaya Onu",
+  "birth_date": "December 1, 1951",
+  "birth_place": "Ohaozara, Ebonyi State",
+  "nationality": "Nigerian",
+  "party": "All Progressives Congress",
+  "residence": "Nigeria",
+  "education": "University of Lagos University of California, Berkeley",
+  "profession": "Politician, engineer"
 }

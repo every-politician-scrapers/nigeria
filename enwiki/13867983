@@ -1,239 +1,32 @@
 {
-  "title": "Femi Gbajabiamila",
-  "pageID": 13867983,
-  "categories": [
-    "1962 births",
-    "Speakers of the House of Representatives (Nigeria)",
-    "Members of the House of Representatives (Nigeria)",
-    "Nigerian lawyers",
-    "Yoruba politicians",
-    "Living people",
-    "Action Congress of Nigeria politicians",
-    "People from Lagos",
-    "People educated at King William's College",
-    "Atlanta's John Marshall Law School alumni",
-    "University of Lagos alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Olufemi Hakeem Gbajabiamila (born 25 June 1962), is a Nigerian lawyer, All Progressives Congress Leader, and Speaker of Nigeria's 9th House of Representatives.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "All Progressives Congress"
-                },
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Nigeria)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Olufemi Hakeem Gbajabiamila"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Member of the House of Representatives of Nigeria",
-          "template": "short description"
-        },
-        {
-          "year": "1962",
-          "month": "06",
-          "day": "25",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Femi Gbajabiamila"
-          },
-          "image": {
-            "text": "Femi_Gbajabiamila_portrait_2019.png"
-          },
-          "honorific-prefix": {
-            "text": "The Honourable Rep.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the House of Representatives of Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "House of Representatives of Nigeria"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2003",
-            "number": 2003
-          },
-          "term_end5": {
-            "text": "2007",
-            "number": 2007
-          },
-          "office4": {
-            "text": "Minority Leader of the House of Representatives of Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "House of Representatives of Nigeria"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "June 2007"
-          },
-          "term_end4": {
-            "text": "June 2011"
-          },
-          "predecessor4": {
-            "text": "Ahmed Salik"
-          },
-          "office3": {
-            "text": "Minority Leader of the House of Representatives of Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "House of Representatives of Nigeria"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "June 2011"
-          },
-          "term_end3": {
-            "text": "June 2015"
-          },
-          "successor3": {
-            "text": "Ogor Okuweh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ogor Okuweh"
-              }
-            ]
-          },
-          "office2": {
-            "text": "House Leader of the House of Representatives of Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "House of Representatives of Nigeria"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "June 2015"
-          },
-          "term_end2": {
-            "text": "12 June 2019"
-          },
-          "predecessor2": {
-            "text": "Ogor Okuweh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ogor Okuweh"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Speaker of the House of Representatives of Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the House of Representatives of Nigeria"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 June 2019"
-          },
-          "predecessor1": {
-            "text": "Yakubu Dogara",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yakubu Dogara"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 25, 1962"
-          },
-          "birth_place": {
-            "text": "Lagos State, Nigeria",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lagos State"
-              },
-              {
-                "type": "internal",
-                "page": "Nigeria"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Nigerian"
-          },
-          "party": {
-            "text": "All Progressive Congress (APC)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "All Progressive Congress"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Salamatu Gbajabiamila"
-          },
-          "residence": {
-            "text": "Lagos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lagos"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Lagos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Lagos"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Legislature"
-          },
-          "website": {
-            "text": "http://femigbajabiamila.com"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Femi Gbajabiamila",
+  "image": "Femi_Gbajabiamila_portrait_2019.png",
+  "honorific-prefix": "The Honourable Rep.",
+  "office5": "Member of the House of Representatives of Nigeria",
+  "term_start5": "2003",
+  "term_end5": "2007",
+  "office4": "Minority Leader of the House of Representatives of Nigeria",
+  "term_start4": "June 2007",
+  "term_end4": "June 2011",
+  "predecessor4": "Ahmed Salik",
+  "office3": "Minority Leader of the House of Representatives of Nigeria",
+  "term_start3": "June 2011",
+  "term_end3": "June 2015",
+  "successor3": "Ogor Okuweh",
+  "office2": "House Leader of the House of Representatives of Nigeria",
+  "term_start2": "June 2015",
+  "term_end2": "12 June 2019",
+  "predecessor2": "Ogor Okuweh",
+  "office1": "Speaker of the House of Representatives of Nigeria",
+  "term_start1": "12 June 2019",
+  "predecessor1": "Yakubu Dogara",
+  "birth_date": "June 25, 1962",
+  "birth_place": "Lagos State, Nigeria",
+  "nationality": "Nigerian",
+  "party": "All Progressive Congress (APC)",
+  "spouse": "Salamatu Gbajabiamila",
+  "residence": "Lagos",
+  "alma_mater": "University of Lagos",
+  "occupation": "Legislature",
+  "website": "http://femigbajabiamila.com"
 }
