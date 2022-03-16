@@ -1,73 +1,73 @@
 id,name,relationship,relative,relativename
-Q104705,Umaru Musa Yar'Adua,father,Q75863533,Musa Yar'Adua
-Q104705,Umaru Musa Yar'Adua,sibling,Q3509379,Shehu Musa Yar'Adua
-Q104705,Umaru Musa Yar'Adua,spouse,Q7853663,Turai Yar'Adua
-Q111162943,Murtala Shehu Yar'adua,father,Q3509379,Shehu Musa Yar'Adua
-Q111164990,Danladi Bamaiyi,relative,Q28407590,Ishaya Bamaiyi
-Q111199628,Jude Ngaji,father,Q5607086,Gregory Ngaji
-Q13140624,Daisy Danjuma,child,Q107038323,Yuki Omenai
-Q13140624,Daisy Danjuma,spouse,Q7782290,Theophilus Danjuma
-Q13140704,Iyabo Obasanjo-Bello,stepparent,Q469880,Stella Obasanjo
-Q16189427,Olajumoke Okoya-Thomas,father,Q16097264,Molade Okoya-Thomas
-Q18354468,Ezenwo Nyesom Wike,spouse,Q20065322,Eberechi Wike
-Q18719262,Abdullahi Umar Ganduje,spouse,Q105746240,Hafsat Ganduje
-Q19730927,Yemi Osinbajo,child,Q107038023,Damilola Osinbajo
-Q19730927,Yemi Osinbajo,spouse,Q94638715,Dolapo Osinbajo
-Q19958158,Victor Okezie Ikpeazu,spouse,Q23884177,Nkechi Ikpeazu
-Q20090072,Aisha Buhari,spouse,Q361567,Muhammadu Buhari
-Q202006,Olusegun Obasanjo,child,Q13140704,Iyabo Obasanjo-Bello
-Q202006,Olusegun Obasanjo,spouse,Q469880,Stella Obasanjo
-Q20982220,Udom Gabriel Emmanuel,spouse,Q101635665,Martha Udom
-Q21467394,Geoffrey Onyeama,father,Q1065681,Charles Onyeama
-Q22295109,Yahaya Adoza Bello,spouse,Q43087508,Amina Oyiza Bello
-Q22678155,Viola Onwuliri,spouse,Q35828655,Celestine Onwuliri
-Q22704987,Fatimat Olufunke Raji-Rasaki,spouse,Q7286136,Raji Rasaki
-Q24565884,Darius Ishaku,spouse,Q74267575,Anna Darius Ishaku
-Q25753711,Abubakar Kyari,father,Q4663653,Abba Kyari
-Q289350,Ngozi Okonjo-Iweala,child,Q1328771,Uzodinma Iweala
-Q289350,Ngozi Okonjo-Iweala,father,Q107237557,Chukwuka Okonjo
-Q2967578,Chuba Okadigbo,spouse,Q93342274,Margery Chuba-Okadigbo
-Q30643909,Obinna Chidoka,sibling,Q54913558,Osita Chidoka
-Q30673985,Ned Nwoko,spouse,Q26216128,Regina Daniels
-Q32946601,Ademola Adeleke,father,Q55808166,Raji Ayoola Adeleke
-Q3510695,Diezani Alison-Madueke,spouse,Q4732798,Allison Madueke
-Q3510785,Nenadi Usman,spouse,Q111077585,Sa’ad Usman
-Q3510872,Bola Ahmed Tinubu,spouse,Q7088857,Oluremi Tinubu
-Q361567,Muhammadu Buhari,child,Q107037830,Zahra Buhari
-Q361567,Muhammadu Buhari,child,Q107037859,Fatima Buhari
-Q361567,Muhammadu Buhari,child,Q107037889,Halima Buhari Sheriff
-Q361567,Muhammadu Buhari,spouse,Q20090072,Aisha Buhari
-Q379547,James Ibori,sibling,Q111170659,Christine Ibie-Ibori
-Q379547,James Ibori,spouse,Q111170755,Nkoyo Ibori
-Q42588916,Aisha Abubakar,father,Q27063049,Alhaji Abubakar Alhaji
-Q4680074,Adebayo Salami,child,Q19282080,Femi Adebayo
-Q469880,Stella Obasanjo,relative,Q13140704,Iyabo Obasanjo-Bello
-Q469880,Stella Obasanjo,spouse,Q202006,Olusegun Obasanjo
-Q4986999,Bukola Saraki,father,Q4670498,Abubakar Olusola Saraki
-Q5214942,Danbaba Suntai,spouse,Q101465224,Hauwa Suntai
-Q5460658,Florence Ita Giwa,spouse,Q5253580,Dele Giwa
-Q54913558,Osita Chidoka,sibling,Q30643909,Obinna Chidoka
-Q5529326,Gbemisola Ruqayyah Saraki,sibling,Q97483734,Olushola Bukola Saraki
-Q5529329,Gbenga Aluko,child,Q10905,Eniola Aluko
-Q5529329,Gbenga Aluko,child,Q572260,Sone Aluko
-Q5529329,Gbenga Aluko,father,Q51911401,Sam Aluko
-Q5607086,Gregory Ngaji,child,Q111199628,Jude Ngaji
-Q57380,Goodluck Jonathan,spouse,Q7144934,Patience Jonathan
-Q6080812,Isiaka Adetunji Adeleke,father,Q55808166,Raji Ayoola Adeleke
-Q62356,Babatunde Fashola,spouse,Q19891940,Abimbola Fashola
-Q6301957,Jibril Aminu,child,Q66846662,Aminu Bello
-Q6380660,Kayode Fayemi,spouse,Q17305590,Bisi Adeleye-Fayemi
-Q6386808,Kema Chikwe,child,Q6958125,Naeto C
-Q6399043,Khairat Abdulrazaq-Gwadabe,spouse,Q6503563,Lawan Gwadabe
-Q7088857,Oluremi Tinubu,spouse,Q3510872,Bola Ahmed Tinubu
-Q7088869,Olusola Adeyeye,spouse,Q51858251,Mojisola Adeyeye
-Q7144934,Patience Jonathan,spouse,Q57380,Goodluck Jonathan
-Q7370548,Rotimi Amaechi,spouse,Q16148792,Judith Amaechi
-Q755878,Atiku Abubakar,spouse,Q30323739,Amina Titi Atiku-Abubakar
-Q7607111,Oduah Stella,spouse,Q20640873,Chris Ogiemwonyi
-Q7782290,Theophilus Danjuma,child,Q107038298,Ishaya Danjuma
-Q7782290,Theophilus Danjuma,spouse,Q107038365,Grace Danjuma
-Q7782290,Theophilus Danjuma,spouse,Q13140624,Daisy Danjuma
-Q7786963,Thomas Aguiyi-Ironsi,father,Q379888,Johnson Aguiyi-Ironsi
-Q7853663,Turai Yar'Adua,spouse,Q104705,Umaru Musa Yar'Adua
-Q7926217,Victor Oyofo,spouse,Q66132656,Oyinkansola Oyofo
+Q104705,Umaru Musa Yar'Adua,father,Q75863533,
+Q104705,Umaru Musa Yar'Adua,sibling,Q3509379,
+Q104705,Umaru Musa Yar'Adua,spouse,Q7853663,
+Q111162943,Murtala Shehu Yar'adua,father,Q3509379,
+Q111164990,Danladi Bamaiyi,relative,Q28407590,
+Q111199628,Jude Ngaji,father,Q5607086,
+Q13140624,Daisy Danjuma,child,Q107038323,
+Q13140624,Daisy Danjuma,spouse,Q7782290,
+Q13140704,Iyabo Obasanjo-Bello,stepparent,Q469880,
+Q16189427,Olajumoke Okoya-Thomas,father,Q16097264,
+Q18354468,Ezenwo Nyesom Wike,spouse,Q20065322,
+Q18719262,Abdullahi Umar Ganduje,spouse,Q105746240,
+Q19730927,Yemi Osinbajo,child,Q107038023,
+Q19730927,Yemi Osinbajo,spouse,Q94638715,
+Q19958158,Victor Okezie Ikpeazu,spouse,Q23884177,
+Q20090072,Aisha Buhari,spouse,Q361567,
+Q202006,Olusegun Obasanjo,child,Q13140704,
+Q202006,Olusegun Obasanjo,spouse,Q469880,
+Q20982220,Udom Gabriel Emmanuel,spouse,Q101635665,
+Q21467394,Geoffrey Onyeama,father,Q1065681,
+Q22295109,Yahaya Adoza Bello,spouse,Q43087508,
+Q22678155,Viola Onwuliri,spouse,Q35828655,
+Q22704987,Fatimat Olufunke Raji-Rasaki,spouse,Q7286136,
+Q24565884,Darius Ishaku,spouse,Q74267575,
+Q25753711,Abubakar Kyari,father,Q4663653,
+Q289350,Ngozi Okonjo-Iweala,child,Q1328771,
+Q289350,Ngozi Okonjo-Iweala,father,Q107237557,
+Q2967578,Chuba Okadigbo,spouse,Q93342274,
+Q30643909,Obinna Chidoka,sibling,Q54913558,
+Q30673985,Ned Nwoko,spouse,Q26216128,
+Q32946601,Ademola Adeleke,father,Q55808166,
+Q3510695,Diezani Alison-Madueke,spouse,Q4732798,
+Q3510785,Nenadi Usman,spouse,Q111077585,
+Q3510872,Bola Ahmed Tinubu,spouse,Q7088857,
+Q361567,Muhammadu Buhari,child,Q107037830,
+Q361567,Muhammadu Buhari,child,Q107037859,
+Q361567,Muhammadu Buhari,child,Q107037889,
+Q361567,Muhammadu Buhari,spouse,Q20090072,
+Q379547,James Ibori,sibling,Q111170659,
+Q379547,James Ibori,spouse,Q111170755,
+Q42588916,Aisha Abubakar,father,Q27063049,
+Q4680074,Adebayo Salami,child,Q19282080,
+Q469880,Stella Obasanjo,relative,Q13140704,
+Q469880,Stella Obasanjo,spouse,Q202006,
+Q4986999,Bukola Saraki,father,Q4670498,
+Q5214942,Danbaba Suntai,spouse,Q101465224,
+Q5460658,Florence Ita Giwa,spouse,Q5253580,
+Q54913558,Osita Chidoka,sibling,Q30643909,
+Q5529326,Gbemisola Ruqayyah Saraki,sibling,Q97483734,
+Q5529329,Gbenga Aluko,child,Q10905,
+Q5529329,Gbenga Aluko,child,Q572260,
+Q5529329,Gbenga Aluko,father,Q51911401,
+Q5607086,Gregory Ngaji,child,Q111199628,
+Q57380,Goodluck Jonathan,spouse,Q7144934,
+Q6080812,Isiaka Adetunji Adeleke,father,Q55808166,
+Q62356,Babatunde Fashola,spouse,Q19891940,
+Q6301957,Jibril Aminu,child,Q66846662,
+Q6380660,Kayode Fayemi,spouse,Q17305590,
+Q6386808,Kema Chikwe,child,Q6958125,
+Q6399043,Khairat Abdulrazaq-Gwadabe,spouse,Q6503563,
+Q7088857,Oluremi Tinubu,spouse,Q3510872,
+Q7088869,Olusola Adeyeye,spouse,Q51858251,
+Q7144934,Patience Jonathan,spouse,Q57380,
+Q7370548,Rotimi Amaechi,spouse,Q16148792,
+Q755878,Atiku Abubakar,spouse,Q30323739,
+Q7607111,Oduah Stella,spouse,Q20640873,
+Q7782290,Theophilus Danjuma,child,Q107038298,
+Q7782290,Theophilus Danjuma,spouse,Q107038365,
+Q7782290,Theophilus Danjuma,spouse,Q13140624,
+Q7786963,Thomas Aguiyi-Ironsi,father,Q379888,
+Q7853663,Turai Yar'Adua,spouse,Q104705,
+Q7926217,Victor Oyofo,spouse,Q66132656,
