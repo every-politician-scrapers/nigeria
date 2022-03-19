@@ -30,7 +30,6 @@
 ->,Abubakar Yahaya Kusada,APC,Ingawa/Kankia/Kusada->Kankia/Ingawa/Kusada,Q104530957-FC29973D-DDF8-45FA-9F9E-79CA9EE95D28->NULL
 ->,Adaramodu Adeyemi Raphael,APC,NULL->Ekiti South West/Ikere/Ise/Orun,Q104530981-602C19D3-E55B-40C5-B13B-480AEDCF1FE2->NULL
 ->,Adebayo Olusegun Balogun,APC,NULL->Ibeju-Lekki,Q104531081-19F926D0-3643-45CB-8B79-51BF46B7ABA2->NULL
-+++,Adedayo Omolafe,PDP,Akure North/South,
 ->,Adedeji Stanley Olajide,PDP,NULL->Ibadan North West/South West,Q111141444-D4FD6F9F-A1D3-4F01-9D09-003A3A29D2E4->NULL
 ->,Adejoro Adeogun,APC,Akoko South East/Akoko South West->Akoko South East/South West,Q111141446-50BAAA4A-764E-4DA4-9739-BA0A03CA5941->NULL
 ->,Adelegbe Emmanuel Oluwatimehin,APC,Owo/Ose,Q111141640-265431EF-8E45-4D7E-9613-18B97D0C6FBE->NULL
@@ -38,6 +37,7 @@
 ->,Adewunmi Oriyomi Onanuga,PDP->APC,Ikenne/Shagamu/Remo North,Q96003761-DF095A53-2298-454A-8BD0-7D1356BD5AE3->NULL
 ->,Adeyemi Taofeek Alli,APC,Mushin I,Q111141449-504AD777-E987-409C-B762-6B343F05ED80->NULL
 ->,Ado Sani Kiri,APC,Ringim/Taura,Q111141450-70DB9D3D-F312-4624-A671-E43311165B94->NULL
++++,Agah Avia Musa,PDP,Bassa/Jos North,
 ->,Agbedi Yeitiemone Frederick,PDP,Sagbama/Ekeremor,Q79234960-B924EB51-68A8-4A33-A202-0B1791F51BFE->NULL
 ->,Ahmadu Usman Jaha,APC,Damboa/Gwoza/Chibok,Q111141452-7829342D-5D32-4E4B-A738-2EFD144363D1->NULL
 ->,Ahmed Bakura Muhammad,APC->PDP,Bakura/Maradun,Q111141454-8DEAA358-3C9D-4B11-A0B9-5499B07C6F8D->NULL
@@ -143,7 +143,6 @@
 ->,Hafiz M kawu Ibrahim,APC,Tarauni,Q111141517-DE365847-A31B-4515-8C87-2A9B8FF9DA66->NULL
 ->,Hamisu Ibrahim,APC,Ikara/Kubau,Q111141518-2B5CF74D-DC01-46B2-A86E-4C1A4A20E9DE->NULL
 ->,Hamza Dalhatu,APC,Batagarawa/Charanchi/Rimi->Rimi/Charanchi/Batagarawa,Q111141519-8EF6A999-4218-44F7-8911-DB7A1F6CAE22->NULL
-+++,Haruna Ibrahim Maitala,APC,Bassa/Jos North,
 ->,Haruna Isa Dederi,APC,Karaye/Rogo,Q111141520-A3AF11DB-36AD-4112-B96D-6D88C941DC19->NULL
 ->,Haruna Mshelia,APC,Askira-Uba/Hawul,Q111141522-B20B619F-F1D2-45E8-9206-2F67D8D3E4AB->NULL
 ->,Hassan Abdullahi,APC,Bassa/Dekina->Dekina/Bassa,Q111141523-326DDDED-F9A1-41EF-A2F4-325A679DD09B->NULL
@@ -180,7 +179,7 @@
 ->,Johnson Egwakhide Oghuma,APC,NULL->Etsako East/West/Central,Q96384703-2927DBE4-5284-48AC-8AC2-E7E4F77D32DF->NULL
 ->,Joseph Asuku Bello,APC,Adavi/Okehi,Q111141550-53A6170A-0E91-45E6-BC73-19B5C85E0654->NULL
 ->,Jude Ikponmwosa Ise-idehen,PDP,Egor/Ikpoba-Okha->Egor/Ikpoba-okha,Q111141551-2BEF529A-5B00-4C0C-8F42-495EB1FFC1D4->NULL
-->,Jude Ngaji->Jarigbe Agom Jarigbe,APC->PDP,Ogoja/Yala,Q111199628-B70FAB88-D2DF-464F-BFC3-1E4CE8C944F0->NULL
+->,Jude Ngaji->Ogbeche Ngaji Jude,APC,Ogoja/Yala,Q111199628-B70FAB88-D2DF-464F-BFC3-1E4CE8C944F0->NULL
 ->,Julius Gbabojor Pondi,PDP,Burutu,Q26896971-E5898721-2368-4974-AD3B-C57D502B9C95->NULL
 ->,Julius Omozuanvbo Ihonvbere,APC,Owan East/Owan West->Owan West/East,Q16187120-942DB28E-5052-47C9-971A-7BA54DC8B463->NULL
 ->,Kabir Tukura Ibrahim,APC,Fakai/Sakaba/Wasagu/Danko/Zuru->Zuru/Fakai/Sakaba/D/Wasagu,Q90325412-59738B40-7389-4F20-9131-147C7D6C3489->NULL
@@ -216,6 +215,7 @@
 ->,Mark Terseer Gbillah,PDP,Gwer East/Gwer West,Q35538405-7598DE54-A289-42C5-AC5E-CA559A738819->NULL
 ->,Martins George Oke,PDP,Igbo-Etiti/Uzo-Uwani,Q111141584-63B39D35-A903-4DF1-9EA5-177F953AEB2A->NULL
 ---,Mayokun Lawson-Alade,,Akure North/Akure South,Q111199552-48826811-4b5e-675f-43cb-67a48d52b966
++++,Mayokun Olanrewaju Alade,APC,Akure North/South,
 ->,Micah Yohanna Jiba,PDP,Municipal/Bwari->Abuja Municipal /Bwari,Q111141585-5E15E157-9805-4BB7-9956-AB468BFF7B4E->NULL
 ->,Michael Okon Enyong,PDP,Uyo/Uruan/Nsit Atai/Ibesikpo Asutan->Uyo/Uruan/Nsit Ata/Ibeskip Asutan,Q50219654-76289BF4-FD1A-4CB7-AFF7-C9650DE1CF92->NULL
 ---,Miriam Onuoha,APC,Isiala Mbano/Okigwe/Onuimo,Q102187913-EE61EED1-4793-4D85-9085-69D332749946
