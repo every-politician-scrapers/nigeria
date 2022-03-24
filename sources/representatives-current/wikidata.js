@@ -6,7 +6,7 @@ module.exports = function () {
   let fromd = `"${meta.term.start}T00:00:00Z"^^xsd:dateTime`
   let until = meta.term.end ? `"${meta.term.end}T00:00:00Z"^^xsd:dateTime` : "NOW()"
 
-  return `SELECT DISTINCT ?item ?name ?party ?constituency
+  return `SELECT DISTINCT ?item ?name ?party ?area
                  ?startDate ?endDate ?gender (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
       SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
@@ -76,8 +76,8 @@ module.exports = function () {
       BIND(COALESCE(?partyShortName, ?partyName) AS ?party)
 
       OPTIONAL {
-        ?ps pq:P768 ?constituencyItem .
-        OPTIONAL { ?constituencyItem rdfs:label ?constituency FILTER (LANG(?constituency)="en") }
+        ?ps pq:P768 ?areaItem .
+        OPTIONAL { ?areaItem rdfs:label ?area FILTER (LANG(?area)="en") }
       }
 
       OPTIONAL {
