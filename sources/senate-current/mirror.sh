@@ -8,4 +8,4 @@ then
   curl $CURLOPTS -o official.json $(jq -r .source meta.json)
 fi
 
-cd -
+cd ~-
