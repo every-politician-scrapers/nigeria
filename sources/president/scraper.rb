@@ -10,12 +10,12 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'party'
+    'Portrait'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[no img name elections start end].freeze
+      %w[no img name start end].freeze
     end
   end
 end
