@@ -1,4 +1,5 @@
 {
+  "honorific_prefix": "Kauran Bauchi",
   "name": "Bala Mohammed",
   "image": "Kauranbauchi.jpg",
   "office1": "Governor of Bauchi State",
@@ -16,7 +17,8 @@
   "predecessor3": "Abubakar Maikafi",
   "successor3": "Adamu Gumba",
   "birth_date": "October 5, 1958",
-  "birth_place": "Alkaleri, Northern Region, British Nigeria (now Alkaleri, Nigeria)",
+  "birth_place": "Alkaleri, Bauchi State, Nigeria",
   "party": "People's Democratic Party",
-  "honorific_prefix": "Kauran Bauchi"
+  "education": "Bachelor of Arts degree",
+  "alma_mater": "University of Maiduguri"
 }
