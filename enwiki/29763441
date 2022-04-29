@@ -3,7 +3,6 @@
   "name": "Ogbeni Rauf Aregbesola",
   "office1": "Federal Minister of Interior",
   "term_start1": "August 2019",
-  "appointer": "Muhammadu Buhari",
   "predecessor1": "Abdulrahman Bello Dambazau",
   "office2": "8th Governor of Osun State",
   "term_start2": "27 November 2010",
@@ -16,5 +15,6 @@
   "spouse": "Sherifat Aregbesola",
   "alma_mater": "The Polytechnic, Ibadan",
   "occupation": "Engineering Technologist",
-  "profession": "Politician"
+  "profession": "Politician",
+  "appointer1": "Muhammadu Buhari"
 }
