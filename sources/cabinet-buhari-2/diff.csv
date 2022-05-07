@@ -26,14 +26,16 @@
 ->,Q19561129,Lai Mohammed,Minister of Information and Culture,2015-11-01->2019-08-21,
 ->,Q18355928,Uchechukwu Sampson Ogah,"Minister of State, Mines and Steel Development->Minister of State for Mines and Steel Development",2019-08-21,
 ->,Q13655513,Ogbonnaya Onu,"Minister of Science and Technology->Minister of Science, Technology and Innovation",2019-06-14->2019-08-21,
-->,Q111079726->NULL,Muazu Sambo->Mu'azu Sambo,Minister of State for Works and Housing,2021-12-24,
-->,Q109661629->NULL,Abubakar D. Aliyu->Abubakar Aliyu,Minister of State for Works and Housing,2019-08-21,2021-09-01
-->,Q109661629->NULL,Abubakar D. Aliyu->Abubakar Aliyu,Minister of Power,2021-09-01,
-->,Q109252006->NULL,Muhammad Mahmood Abubakar->Mohammad Mahmood Abubakar,Minister of Environment,2019-08-21,NULL->2021-09-10
-->,Q109252006->NULL,Muhammad Mahmood Abubakar->Mohammad Mahmood Abubakar,Minister of Agriculture and Rural Development,2021-09-01,
+->,Q111079726,Muazu Sambo->Mu'azu Sambo,Minister of State for Works and Housing,2021-12-24,
+->,Q109661629,Abubakar D. Aliyu->Abubakar Aliyu,Minister of State for Works and Housing,2019-08-21,2021-09-01
+->,Q109661629,Abubakar D. Aliyu->Abubakar Aliyu,Minister of Power,2021-09-01,
+->,Q109252006,Muhammad Mahmood Abubakar->Mohammad Mahmood Abubakar,Minister of Environment,2019-08-21,NULL->2021-09-10
+->,Q109252006,Muhammad Mahmood Abubakar->Mohammad Mahmood Abubakar,Minister of Agriculture and Rural Development,2021-09-01,
 ->,Q107491747,Omotayo Alasoadura->Tayo Alasoadura,Minister of State for Niger Delta Affairs,2019-09-24,
 ->,Q107491747,Omotayo Alasoadura->Tayo Alasoadura,Minister of State for Labour and Employment,2019-08-21,2019-09-24
-->,Q107453260->NULL,Clement Agba,Minister of Budget and National Planning->Minister of State for Budget and National Planning,2021-08-21->2019-08-21,
+->,Q107453260,Clement Agba,Minister of Budget and National Planning->Minister of State for Budget and National Planning,2021-08-21->2019-08-21,
 ->,Q101693651,Zubairu Dada,Minister of State for Foreign Affairs of Nigeria->Minister of State for Foreign Affairs,2021-08-21->2019-08-21,
+->,Q101245550,Mohammed Hassan Abdullahi,"Minister of State for Science, Technology and Innovation",2019-08-21,NULL->2022-04-06
 ---,Q361567,Muhammadu Buhari,President of Nigeria,2015-05-29,
 +++,Q361567,Muhammadu Buhari,President,2019-05-29,
++++,Q101245550,Mohammed Hassan Abdullahi,Minister of Environment,2022-04-06,
