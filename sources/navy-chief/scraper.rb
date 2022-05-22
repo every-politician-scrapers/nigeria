@@ -10,24 +10,20 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Officer'
+    'Portrait'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[name _ dates].freeze
+      %w[no img name start end].freeze
     end
 
-    def item_link
+    def name_node
       name_cell.css('a').first
     end
 
-    def item
-      item_link.attr('wikidata')
-    end
-
-    def itemLabel
-      item_link.text
+    def ignore_before
+      1999
     end
   end
 end

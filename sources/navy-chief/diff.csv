@@ -1,20 +1,11 @@
-@@,itemlabel,item,startdate,enddate
-+++,F.W. Skutil,,1956,1958
-+++,Alexander Kennedy,,1958,1964
-->,Joseph Edet Akinwale Wey->J.E.A. Wey,Q3509444,1964,1973
-+++,N.B. Soroh,,1973,1975
-+++,M.A Adelanwa,,1975,1980
-->,Akintunde Aduwo->A.A. Aduwo,Q4701090,1980,1983
-->,Augustus Aikhomu->A.A. Aikhomu,Q3294849,1984,1986
-+++,D.P.E Omotsola,,1992,1993
-->,Allison Madueke->A.A. Madueke,Q4732798,1993,1994
-->,Mike Akhigbe->O.M Akhigbe,Q3296213,1994,1998
-+++,J. Ayinla,,1998,1999
-->,Victor Karipiri Ombu->V.K. Ombu,Q111078549,1999,2001
-->,Samuel Olajide Afolayan->S.O. Afolayan,Q111078550,2001,2005
-->,Ganiyu Tunde Adegboyega Adekeye->G.T.A. Adekeye,Q111078551,2005,2008
-->,Ishaya Ibrahim->I.I. Ibrahim,Q26251264,2008,2010
-->,Ola Ibrahim->O.S. Ibrahim,Q16186714,2010,2012
-->,Dele Joseph Ezeoba->D.J. Ezeoba,Q18685677,2012,2013
-->,Usman Oyibe Jibrin->U.O. Jibrin,Q21062617,2013,2015
-->,Ibok Ekwe Ibas->Ibok-Ete Ekwe Ibas ,Q20740980,2015-07,2021-01
+@@,item,itemlabel,startdate,enddate
+---,Q111078549,Victor Karipiri Ombu,1999,2001
++++,,Victor Ombu,1999-05-29,2001-04-24
+->,Q111078550,Samuel Olajide Afolayan,2001->2001-04-24,2005->2005-07-20
+->,Q111078551,Ganiyu Tunde Adegboyega Adekeye,2005->2005-07-20,2008->2008-08-20
+->,Q26251264,Ishaya Ibrahim->Ishaya Iko Ibrahim,2008->2008-08-20,2010->2010-09-08
+->,Q16186714,Ola Ibrahim->Ola Sa'ad Ibrahim,2010->2010-09-08,2012->2012-10-04
+->,Q18685677,Dele Joseph Ezeoba,2012->2012-10-04,2013->2014-01-16
+->,Q21062617,Usman Oyibe Jibrin,2013->2014-01-16,2015->2015-07-13
+->,Q20740980,Ibok Ekwe Ibas->Ibok-Ete Ekwe Ibas,2015-07->2015-07-13,2021-01->2021-01-26
+->,Q105083954,Awwal Zubairu Gambo,2021-01->2021-01-26,
