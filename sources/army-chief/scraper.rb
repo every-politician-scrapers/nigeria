@@ -10,12 +10,16 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Picture'
+    'Portrait'
   end
 
   class Officeholder < OfficeholderBase
     def columns
       %w[no img name start end].freeze
+    end
+
+    def name_node
+      name_cell.css('a').first
     end
   end
 end
