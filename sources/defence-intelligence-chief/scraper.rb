@@ -22,9 +22,6 @@ class OfficeholderList < OfficeholderListBase
       name_cell.css('a').last
     end
 
-    def ignore_before
-      1999
-    end
   end
 end
 
