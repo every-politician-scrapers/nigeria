@@ -1,11 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,Edwin Speed->Sir Edwin Speed,Q29441623,1914,1918
-->,Ralph Molyneux Combe->Sir Ralph Combe,Q14945612,1918,1929
-->,John Verity->Sir John Verity,Q30602211,1946,1954
-->,Stafford Foster-Sutton->Stafford Sutton,Q56063661,1955,1958
-->,Darnley Alexander->Darnley Arthur Alexander,Q19975764,1975,1979
-->,Mohammed Uwais->Muhammad Lawal Uwais,Q6893387,1995,2006
-->,A. I. Katsina-Alu->Aloysius Iyorgyer Katsina-Alu,Q1645250,2009,2011
-->,Aloma Mariam Mukhtar,Q4734320,2012-07-16->2012,2014
-->,Walter Samuel Nkanu Onnoghen,Q16733797,2017-03-06->2017,2019-01-25->2019
-->,Ibrahim Tanko Muhammad,Q19958154,2019-01-25->2019,
+@@,item,itemlabel,startdate,enddate
+->,Q4734320,Aloma Mariam Mukhtar,2012-07-16->2012,2014
+->,Q16733797,Walter Samuel Nkanu Onnoghen,2017-03-06->2017,2019-01-25->2019
+->,Q19958154,Ibrahim Tanko Muhammad,2019-01-25->2019,
