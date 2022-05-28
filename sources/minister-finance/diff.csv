@@ -1,14 +1,12 @@
-@@,itemlabel,item,startdate,enddate
-->,Festus Okotie-Eboh,Q5445884,1957->1960,1966-01-15->1966
-->,Alhaji Abubakar Alhaji->Abubakar Alhaji,Q27063049,1990,1991->1993
-->,Adamu Ciroma,Q3914988,1999-06->1999,2003-05->2003
-+++,Ngozi Okonjo-Iweala,Q289350,2003,2006
----,Ngozi Okonjo-Iweala,Q289350,2003-07-15,2006-06-21
-->,Nenadi Usman,Q3510785,2006-07->2006,2007-05->2007
-->,Shamsuddeen Usman,Q7487781,2007-06->2007,2008-12->2009
-->,Mansur Muhtar->Mansur Mukhtar,Q6751897,2008-12-17->2009,2010-03-17->2010
-->,Olusegun Olutoyin Aganga,Q7088859,2010-04-06->2010,2011-06
-+++,Ngozi Okonjo-Iweala,Q289350,2011-07,2015-05
----,Ngozi Okonjo-Iweala,Q289350,2011-08-17,2015-05-29
-->,Kemi Adeosun,Q21500792,2015-11-11,2018-09-14->2018-09
-->,Zainab Ahmed,Q42559242,2018-09-14->2018-09,
+@@,item,itemlabel,startdate,enddate
+->,Q3914988,Adamu Ciroma,1999-06->1999,2003-05->2003
++++,Q289350,Ngozi Okonjo-Iweala,2003,2006
+---,Q289350,Ngozi Okonjo-Iweala,2003-07-15,2006-06-21
+->,Q3510785,Nenadi Usman,2006-07->2006,2007-05->2007
+->,Q7487781,Shamsuddeen Usman,2007-06->2007,2008-12->2009
+->,Q6751897,Mansur Mukhtar,2008-12-17->2009,2010-03-17->2010
+->,Q7088859,Olusegun Olutoyin Aganga,2010-04-06->2010,2011-06
++++,Q289350,Ngozi Okonjo-Iweala,2011-07,2015-05
+---,Q289350,Ngozi Okonjo-Iweala,2011-08-17,2015-05-29
+->,Q21500792,Kemi Adeosun,2015-11-11,2018-09-14->2018-09
+->,Q42559242,Zainab Ahmed,2018-09-14->2018-09,
