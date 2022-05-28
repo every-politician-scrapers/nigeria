@@ -17,7 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[name dates].freeze
     end
-
   end
 end
 
