@@ -18,7 +18,7 @@ class OfficeholderList < OfficeholderListBase
       %w[name dates].freeze
     end
 
-    def item_node
+    def name_node
       name_cell.css('a').last
     end
   end
