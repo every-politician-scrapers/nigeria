@@ -18,16 +18,8 @@ class OfficeholderList < OfficeholderListBase
       %w[name dates].freeze
     end
 
-    def item_link
+    def name_node
       name_cell.css('a').last
-    end
-
-    def item
-      item_link.attr('wikidata')
-    end
-
-    def itemLabel
-      item_link.text
     end
   end
 end
