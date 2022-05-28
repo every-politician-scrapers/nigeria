@@ -17,6 +17,11 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[name dates].freeze
     end
+
+    def raw_combo_date
+      years = super
+      years =~  /^\d{4}$/ ? "#{years} - #{years}" : years
+    end
   end
 end
 
