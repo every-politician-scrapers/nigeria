@@ -10,12 +10,16 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Image'
+    'Portrait'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[image name president start end].freeze
+      %w[no image name start end].freeze
+    end
+
+    def empty?
+      tds[0].text.include?('Vacant')
     end
   end
 end
