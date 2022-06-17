@@ -10,7 +10,7 @@ class String
   end
 end
 
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def wikidata_csv_options
     { converters: [->(val, field) { field.header == :itemlabel ? val.to_s.titlecase : val }] }
   end
