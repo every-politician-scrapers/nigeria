@@ -8,7 +8,7 @@ class MemberList
   class Member
     def name
       Name.new(
-        full: stripped_name, 
+        full: stripped_name,
         prefixes: %w[Engr Amb Sen Arc Dr Prince Major General Dame]
       ).short
     end
@@ -17,14 +17,18 @@ class MemberList
       position_and_name.first.split(/ and (?=Minister)/).map(&:tidy)
     end
 
+    def empty?
+      name.to_s.empty?
+    end
+
     private
 
     def position_and_name
-      tds[1].text.tidy.split(/[-–] /)
+      tds[1].text.tidy.split(/[-–][[:space:]]*/)
     end
 
     def stripped_name
-      position_and_name[1].sub(/\(.*/, '')
+      position_and_name[1].to_s.sub(/\(.*/, '')
     end
 
     def tds
@@ -33,6 +37,10 @@ class MemberList
   end
 
   class Members
+    def member_items
+      super.reject(&:empty?)
+    end
+
     def member_container
       noko.css('.content-inner table').xpath('.//tr[td]')
     end
