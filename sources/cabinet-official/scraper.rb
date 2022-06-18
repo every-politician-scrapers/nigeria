@@ -24,7 +24,7 @@ class MemberList
     private
 
     def position_and_name
-      tds[1].text.tidy.split(/[-–][[:space:]]*/)
+      tds[1].text.tidy.split(/[[:space:]]+[-–][[:space:]]*/)
     end
 
     def stripped_name
