@@ -1,12 +1,7 @@
 @@,item,itemlabel,startdate,enddate
-->,Q3914988,Adamu Ciroma,1999-06->1999,2003-05->2003
 +++,Q289350,Ngozi Okonjo-Iweala,2003,2006
 ---,Q289350,Ngozi Okonjo-Iweala,2003-07-15,2006-06-21
-->,Q3510785,Nenadi Usman,2006-07->2006,2007-05->2007
-->,Q7487781,Shamsuddeen Usman,2007-06->2007,2008-12->2009
-->,Q6751897,Mansur Mukhtar,2008-12-17->2009,2010-03-17->2010
-->,Q7088859,Olusegun Olutoyin Aganga,2010-04-06->2010,2011-06
+->,Q7487781,Shamsuddeen Usman,2007-06,2008-12->2009
+->,Q6751897,Mansur Mukhtar,2008-12-17->2009,2010-03-17
 +++,Q289350,Ngozi Okonjo-Iweala,2011-07,2015-05
 ---,Q289350,Ngozi Okonjo-Iweala,2011-08-17,2015-05-29
-->,Q21500792,Kemi Adeosun,2015-11-11,2018-09-14->2018-09
-->,Q42559242,Zainab Ahmed,2018-09-14->2018-09,
