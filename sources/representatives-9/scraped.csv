@@ -3,9 +3,11 @@ Q35536670,Ossy Prestige,2019-06-11,2021-02-06,Aba North/Aba South,Q4729271,APGA
 ,Chimaobi Ebisike,2021-04-21,,Aba North/Aba South,Q1551163,PDP
 Q35539294,Uko Nkole,2019-06-11,,Arochukwu/Ohafia,Q1551163,PDP
 Q107062536,Benjamin Kalu,2019-06-11,,Bende,Q4729266,APC
-,Darlington Nwokocha,2019-06-11,,Isiala Ngwa North/Isiala Ngwa South,Q1551163,PDP
+,Darlington Nwokocha,2019-06-11,2022-05,Isiala Ngwa North/Isiala Ngwa South,Q1551163,PDP
+,Darlington Nwokocha,2022-06-02,,Isiala Ngwa North/Isiala Ngwa South,Q6467449,LP
 Q29514826,Nkeiruka Onyejeocha,2019-06-11,,Isuikwuato/Umunneochi,Q4729266,APC
-,Solomon Adaelu,2019-06-11,,Obingwa/Ugwunagbo/Osisioma,Q1551163,PDP
+,Solomon Adaelu,2019-06-11,2022-05,Obingwa/Ugwunagbo/Osisioma,Q1551163,PDP
+,Solomon Adaelu,2022-05,,Obingwa/Ugwunagbo/Osisioma,Q4729271,APGA
 ,Uzoma Nkem-Abonta,2019-06-11,,Ukwa East/West,Q1551163,PDP
 ,Samuel Onuigbo,2019-06-11,2020-12-17,Umuahia North/Umuahia South/Ikwuano,Q1551163,PDP
 ,Samuel Onuigbo,2020-12-17,,Umuahia North/Umuahia South/Ikwuano,Q4729266,APC
@@ -82,7 +84,8 @@ Q16194615,John Dyegh,2021-12-13,,Gboko/Tarka,Q1551163,PDP
 ,Mark Gbillah,2019-06-11,,Gwer East/Gwer West,Q1551163,PDP
 ,Richard Gbande,2019-06-11,,Katsina-Ala/Ukum/Logo,Q1551163,PDP
 ,Herman Hembe,2019-06-11,2020-12-08,Konshisha/Vandeikya,Q4729271,APGA
-,Herman Hembe,2020-12-08,,Konshisha/Vandeikya,Q4729266,APC
+,Herman Hembe,2020-12-08,2022-05-26,Konshisha/Vandeikya,Q4729266,APC
+,Herman Hembe,2022-06,,Konshisha/Vandeikya,Q6467449,LP
 ,Robert Tyough,2019-06-11,,Kwande/Ushongo,Q1551163,PDP
 ,David Agada Ogewu,2019-09-24,2019-10-18,Oju/Obi,Q4729271,APGA
 ,Samson Okwu,2019-11-19,,Oju/Obi,Q1551163,PDP
@@ -129,7 +132,7 @@ Q110043380,Iduma Igariwey,2019-06-11,,Afikpo North/Afikpo South,Q1551163,PDP
 ,Livinus Makwe,2019-06-11,,Ivo/Ohaozara/Onicha,Q1551163,PDP
 ,Kabiru Adjoto,2019-06-11,2019-06-21,Akoko-Edo,Q4729266,APC
 ,Peter Ohiozojeh Akpatason,2019-07-03,,Akoko-Edo,Q4729266,APC
-,Jude Ise-Idehen,2019-06-11,,Egor/Ikpoba-Okha,Q1551163,PDP
+,Jude Ise-Idehen,2019-06-11,2022-06-01,Egor/Ikpoba-Okha,Q1551163,PDP
 Q35536375,Joe Edionwele,2019-06-11,,Esan Central/Esan South/Igueben,Q1551163,PDP
 ,Sergius Ogun,2019-06-11,,Esan North East/Esan South East,Q1551163,PDP
 Q96384703,Johnson Oghuma,2019-06-11,,Etsako East/Etsako West Etsako Central,Q4729266,APC
@@ -175,7 +178,8 @@ Q102187913,Miriam Onuoha,2020-01-29,,Isiala Mbano/Okigwe/Onuimo,Q4729266,APC
 Q28030538,Ugonna Ozurigbo,2019-06-03,2022-04-23,Isu/Njaba/Nkwerre/Nwangele,Q4729266,APC
 Q28030538,Ugonna Ozurigbo,2022-04-23,,Isu/Njaba/Nkwerre/Nwangele,Q1551163,PDP
 ,Uju Kingsley Chima,2019-06-11,2020-02-13,Oguta/Ohaji/Egbema/Oru West,Q1786089,AA
-,Uju Kingsley Chima,2020-02-13,,Oguta/Ohaji/Egbema/Oru West,Q4729266,APC
+,Uju Kingsley Chima,2020-02-13,2022-05,Oguta/Ohaji/Egbema/Oru West,Q4729266,APC
+,Uju Kingsley Chima,2022-05,,Oguta/Ohaji/Egbema/Oru West,Q1551163,PDP
 ,Jerry Alagbaoso,2019-06-11,2019-11-01,Oru East/Orsu/Orlu,Q1551163,PDP
 ,Jerry Alagbaoso,2020-01-30,,Oru East/Orsu/Orlu,Q1551163,PDP
 ,Ikenna Elezieanya,2019-06-11,,Owerri Municipal/Owerri North/Owerri West,Q1551163,PDP
@@ -250,20 +254,24 @@ Q105445777,Kabiru Alhassan Rurum,2022-05,,Rano/Bunkure/Kibiya,Q1786089,NNPP
 ,Amiruddin Tukur,2019-07-25,,Bakori/Danja,Q4729266,APC
 ,Hamza Dalhatu Batagarawa,2019-06-11,,Batagarawa/Charanchi/Rimi,Q4729266,APC
 ,Ahmed Dayyabu Safana,2019-06-11,,Batsari/Safana/Danmusa,Q4729266,APC
-,Aminu Ashiru Mani,2019-06-11,,Bindawa/Mani,Q4729266,APC
+,Aminu Ashiru Mani,2019-06-11,2022-06,Bindawa/Mani,Q4729266,APC
+,Aminu Ashiru Mani,2022-06,,Bindawa/Mani,Q1786089,NNPP
 ,Fatahu Muhammad,2019-06-11,,Daura/Sandamu/Mai’adua,Q4729266,APC
-,Armaya'u Abdulkadir,2019-06-11,,Dutsin-Ma/Kurfi,Q4729266,APC
+,Armaya'u Abdulkadir,2019-06-11,2022-05,Dutsin-Ma/Kurfi,Q4729266,APC
+,Armaya'u Abdulkadir,2022-05,,Dutsin-Ma/Kurfi,Q1786089,NNPP
 ,Murtala Isah Kankara,2019-06-11,,Faskari/Kankara/Sabuwa,Q4729266,APC
 ,Mohammed Muntari Dandutse,2019-06-11,,Funtua/Dandume,Q4729266,APC
 ,Sada Soli,2019-06-11,,Jibia/Kaita,Q4729266,APC
 ,Salisu Iro Isansi,2019-06-11,,Katsina,Q4729266,APC
 ,Abubakar Yahaya Kusada,2019-06-11,,Ingawa/Kankia/Kusada,Q4729266,APC
-,Babangida Ibrahim,2019-06-11,,Malumfashi/Kafur,Q4729266,APC
+,Babangida Ibrahim,2019-06-11,2022-06-04,Malumfashi/Kafur,Q4729266,APC
+,Babangida Ibrahim,2022-06-04,,Malumfashi/Kafur,Q1786089,NNPP
 ,Mansur Aliyu Mashi,2019-06-11,,Mashi/Dutsi,Q4729266,APC
 ,Ahmed Usman Liman,2019-06-11,,Matazu/Musawa,Q4729266,APC
 ,Nasiru Sani,2019-06-11,,Zango/Baure,Q4729266,APC
 ,Muhammad Umar Jega,2019-06-11,,Aleiro/Gwandu/Jega,Q4729266,APC
-,Umar Abdullahi Kamba,2019-06-11,,Arewa/Dandi,Q4729266,APC
+,Umar Abdullahi Kamba,2019-06-11,2022-05-27,Arewa/Dandi,Q4729266,APC
+,Umar Abdullahi Kamba,2022-06,,Arewa/Dandi,Q1551163,PDP
 ,Basher Isah,2019-06-11,,Argungu/Augie,Q4729266,APC
 ,Bello Kaoje,2019-06-11,,Bagudo/Suru,Q4729266,APC
 ,Muhammad Bello Yakubu,2019-06-11,2022-03-31,Bunza/Birnin Kebbi/Kalgo,Q4729266,APC
@@ -317,8 +325,10 @@ Q5442793,Femi Gbajabiamila,2019-06-11,,Surulere I,Q4729266,APC
 ,Abdulkarim Usman,2019-06-11,,Akwanga/Nasarawa/Eggon/Wamba,Q1551163,PDP
 ,Abubakar Nalaraba,2019-06-11,,Awe/Doma/Keana,Q4729266,APC
 ,Gaza Jonathan Gbefwi,2019-06-11,2021-07-07,Keffi/Karu/Kokona,Q1551163,PDP
-,Gaza Jonathan Gbefwi,2021-07-07,,Keffi/Karu/Kokona,Q4729266,APC
-,Abubakar Sarki Dahiru,2019-06-11,,Lafia/Obi,Q4729266,APC
+,Gaza Jonathan Gbefwi,2021-07-07,2022-06,Keffi/Karu/Kokona,Q4729266,APC
+,Gaza Jonathan Gbefwi,2022-06,,Keffi/Karu/Kokona,Q7550561,SDP
+,Abubakar Sarki Dahiru,2019-06-11,2022-06-10,Lafia/Obi,Q4729266,APC
+,Abubakar Sarki Dahiru,2022-06-25,,Lafia/Obi,Q7550561,SDP
 ,Abdulmumin Muhammed Ari,2019-06-11,,Nassarawa/Toto,Q4729266,APC
 ,Abdullahi Mamudu,2019-06-11,,Agaie/Lapai,Q4729266,APC
 ,Ja'afaru Mohammed,2019-06-11,,Agwara/Borgu,Q4729266,APC
@@ -378,7 +388,8 @@ Q19667180,Akinola Adekunle Alabi,2019-06-11,,Egbeda/Ona-Ara,Q4729266,APC
 ,Ajibola Muraina,2022-04-30,,Ibarapa Central/Ibarapa North,Q4729266,APC
 ,Oluyemi Adewale Taiwo,2019-06-11,,Ibarapa East/Ido,Q1551163,PDP
 ,Olumide Ojerinde,2019-06-11,,Irepo/Olurunsogo/Orelope,Q4729266,APC
-Q56678163,Shina Peller,2019-06-11,,Iseyin/Kajola/Iwajowa/Itesiwaju,Q4729266,APC
+Q56678163,Shina Peller,2019-06-11,2022-06-17,Iseyin/Kajola/Iwajowa/Itesiwaju,Q4729266,APC
+Q56678163,Shina Peller,2022-06-21,,Iseyin/Kajola/Iwajowa/Itesiwaju,Q4672709,A
 ,Jacob Ajao Adejumo,2019-06-11,2019-11-09,Ogbomoso North/Ogbomoso South/Orire,,""
 ,Jacob Ajao Adejumo,2019-11-09,2022-05-23,Ogbomoso North/Ogbomoso South/Orire,Q4729266,APC
 ,Jacob Ajao Adejumo,2022-05,,Ogbomoso North/Ogbomoso South/Orire,Q7550561,SDP
@@ -413,7 +424,8 @@ Q23409635,Chinyere Igwe,2019-06-11,,Port Harcourt II,Q1551163,PDP
 ,Shehu Balarabe Kakale,2019-11-26,,Dange-Shuni/Bodinga/Tureta,Q1551163,PDP
 Q24565203,Musa Sarkin-Adar,2019-06-11,2019,Goronyo/Gada,Q4729266,APC
 Q24565203,Musa Sarkin-Adar,2019-06-13,,Goronyo/Gada,Q4729266,APC
-Q4666128,Abdullahi Salame,2019-06-11,,Illela/Gwadabawa,Q4729266,APC
+Q4666128,Abdullahi Salame,2019-06-11,2022-06,Illela/Gwadabawa,Q4729266,APC
+Q4666128,Abdullahi Salame,2022-06,,Illela/Gwadabawa,Q1551163,PDP
 ,Mohammed Saidu Bargaja,2019-06-11,2019,Isa/Sabon Birni,Q1551163,PDP
 ,Mohammed Saidu Bargaja,2020-02-04,,Isa/Sabon Birni,Q1551163,PDP
 ,Bala Kokani,2019-06-11,,Kebbe/Tambuwal,Q4729266,APC
@@ -444,12 +456,16 @@ Q18129932,Khadija Bukar Abba Ibrahim,2019-06-11,,Damaturu/Gujba/Gulani/Tarmuwa,Q
 ,Ahmed Bakura Muhammad,2019-06-11,2021-07-06,Bakura/Maradun,Q1551163,PDP
 ,Ahmed Bakura Muhammad,2021-07-06,,Bakura/Maradun,Q4729266,APC
 ,Shehu Ahmed,2019-06-11,2021-07-06,Bungudu/Maru,Q1551163,PDP
-,Shehu Ahmed,2021-07-06,,Bungudu/Maru,Q4729266,APC
+,Shehu Ahmed,2021-07-06,2022-05,Bungudu/Maru,Q4729266,APC
+,Shehu Ahmed,2022-05,,Bungudu/Maru,Q1551163,PDP
 ,Sulaiman Abubakar Gumi,2019-06-11,2021-07-06,Gunmi/Bukkuyum,Q1551163,PDP
-,Sulaiman Abubakar Gumi,2021-07-06,,Gunmi/Bukkuyum,Q4729266,APC
+,Sulaiman Abubakar Gumi,2021-07-06,2022-05,Gunmi/Bukkuyum,Q4729266,APC
+,Sulaiman Abubakar Gumi,2022-05,,Gunmi/Bukkuyum,Q1551163,PDP
 ,Kabiru Amadu,2019-06-11,2021-06-29,Gusau/Tsafe,Q1551163,PDP
-,Kabiru Amadu,2021-07-14,,Gusau/Tsafe,Q4729266,APC
+,Kabiru Amadu,2021-07-14,2022-05,Gusau/Tsafe,Q4729266,APC
+,Kabiru Amadu,2022-05,,Gusau/Tsafe,Q1551163,PDP
 ,Sani Umar Dan-Galadima,2019-06-11,2021-06-30,Kaura Namoda/Birnin Magaji,Q1551163,PDP
-,Sani Umar Dan-Galadima,2021-06-30,,Kaura Namoda/Birnin Magaji,Q4729266,APC
+,Sani Umar Dan-Galadima,2021-06-30,2022-05,Kaura Namoda/Birnin Magaji,Q4729266,APC
+,Sani Umar Dan-Galadima,2022-05,,Kaura Namoda/Birnin Magaji,Q1551163,PDP
 ,Bello Hassan Shinkafi,2019-06-11,2021-07-06,Shinkafi/Zurmi,Q1551163,PDP
 ,Bello Hassan Shinkafi,2021-07-06,,Shinkafi/Zurmi,Q4729266,APC
