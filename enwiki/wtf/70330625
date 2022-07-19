@@ -1,0 +1,225 @@
+{
+  "title": "Onyeka Ibezim",
+  "pageID": 70330625,
+  "categories": [
+    "Living people",
+    "People from Anambra State",
+    "Anambra State politicians",
+    "All Progressives Grand Alliance politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gilbert Onyekachukwu Ibezim (born Mbaukwu, Awka South, Nigeria) is a Nigerian politician and medical doctor who is the current Deputy Governor of Anambra State since 17 March 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Awka South"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gilbert Onyekachukwu Ibezim"
+                ]
+              }
+            },
+            {
+              "text": "Ibezim won the 2021 Anambra State gubernatorial elections alongside his running mate Charles Soludo on the platform of the All Progressives Grand Alliance (APGA).",
+              "links": [
+                {
+                  "text": "2021 Anambra State gubernatorial elections",
+                  "type": "internal",
+                  "page": "2021 Anambra State gubernatorial election"
+                },
+                {
+                  "text": "Charles Soludo",
+                  "type": "internal",
+                  "page": "Charles Chukwuma Soludo"
+                },
+                {
+                  "text": "All Progressives Grand Alliance (APGA)",
+                  "type": "internal",
+                  "page": "All Progressives Grand Alliance"
+                }
+              ]
+            },
+            {
+              "text": "Ibezim is also a brother to the Anglican bishop of the Diocese on the Niger, Alexander Ibezim.",
+              "links": [
+                {
+                  "text": "Anglican bishop",
+                  "type": "internal",
+                  "page": "Anglican ministry"
+                },
+                {
+                  "text": "Diocese on the Niger",
+                  "type": "internal",
+                  "page": "Anglican Diocese on the Niger"
+                },
+                {
+                  "text": "Alexander Ibezim",
+                  "type": "internal",
+                  "page": "Alexander Chibuzo Ibezim"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Onyeka Ibezim"
+          },
+          "office": {
+            "text": "Deputy Governor of Anambra State"
+          },
+          "predecessor": {
+            "text": "Nkem Okeke",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nkem Okeke"
+              }
+            ]
+          },
+          "state": {
+            "text": "Anambra State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anambra State"
+              }
+            ]
+          },
+          "party": {
+            "text": "All Progressives Grand Alliance",
+            "links": [
+              {
+                "type": "internal",
+                "page": "All Progressives Grand Alliance"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "17 March 2022"
+          },
+          "office2": {
+            "text": "Special Adviser to the Governor on Youth Empowerment and Executive Director of Anambra State AIDS Control Agency"
+          },
+          "office1": {
+            "text": "Special Adviser to the Governor on Traditional Medicine and Herbal practices"
+          },
+          "termend1": {
+            "text": "17 March 2022"
+          },
+          "termstart1": {
+            "text": "17 March 2018"
+          },
+          "governor": {
+            "text": "Charles Soludo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charles Soludo"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Mbaukwu, Awka South",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Awka South"
+              }
+            ]
+          },
+          "termend2": {
+            "text": "17 March 2018"
+          },
+          "termstart2": {
+            "text": "2014",
+            "number": 2014
+          },
+          "occupation": {
+            "text": "Doctor\nPolitician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Dr Ibezim's Choice As Deputy Guber Candidate, Another Apga Master-stroke",
+          "url": "https://www.thenigerianvoice.com/news/299929/dr-ibezims-choice-as-deputy-guber-candidate-another-apga-m.html",
+          "access-date": "2022-03-17",
+          "website": "Nigerian Voice",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-12-01",
+          "title": "Court dismisses suit seeking Soludo's, deputy's disqualifications as APGA candidate",
+          "url": "https://tribuneonlineng.com/court-dismisses-suit-seeking-soludos-deputys-disqualifications-as-apga-candidate/",
+          "access-date": "2022-03-17",
+          "website": "Tribune Online",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-03-17",
+          "title": "Obiano leaves Soludo's inauguration venue as dignitaries scramble for entrance",
+          "url": "https://punchng.com/just-in-obiano-leaves-soludos-inauguration-venue-as-dignitaries-scramble-for-entrance/",
+          "access-date": "2022-03-17",
+          "website": "Punch Newspapers",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "How Prof. Soludo Discovered Dr Ibezim, His Running Mate In The Nov 6 Anambra Gubernatorial Election",
+          "url": "https://www.absradiotv.com/2021/07/03/how-prof-soludo-discovered-dr-ibezim-his-running-mate-in-the-nov-6-anambra-gubernatorial-election/",
+          "access-date": "2022-03-17",
+          "website": "Heartbeat Of The East",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-11-10",
+          "title": "Biography Of The Incoming Anambra Deputy Governor, Gilbert Ibezim",
+          "url": "https://www.naijanews.com/2021/11/10/biography-of-the-incoming-anambra-deputy-governor-gilbert-ibezim/",
+          "access-date": "2022-03-17",
+          "website": "Nigeria News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

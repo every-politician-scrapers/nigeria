@@ -1,0 +1,387 @@
+{
+  "title": "Lucky Irabor",
+  "pageID": 66507087,
+  "categories": [
+    "Living people",
+    "Nigerian generals",
+    "Obafemi Awolowo University alumni",
+    "University of Ghana alumni",
+    "Multinational Joint Task Force Commanders",
+    "1965 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lucky Eluonye Onyenuchea Irabor (born 5 October 1965) is a Nigerian Army General and the current Chief of Defence Staff of Nigeria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nigerian Army"
+                },
+                {
+                  "text": "General",
+                  "type": "internal",
+                  "page": "General (Nigeria)"
+                },
+                {
+                  "text": "Chief of Defence Staff of Nigeria",
+                  "type": "internal",
+                  "page": "Chief of the Defence Staff (Nigeria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lucky Eluonye Onyenuchea Irabor"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed by Muhammadu Buhari on 26 January 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Muhammadu Buhari"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chief of Defence Staff of Nigeria",
+          "template": "short description"
+        },
+        {
+          "year": "1965",
+          "month": "10",
+          "day": "5",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lucky Irabor"
+          },
+          "honorific_prefix": {
+            "text": "General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General (Nigeria)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 5, 1965"
+          },
+          "birth_place": {
+            "text": "Agbor, Delta State, Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agbor"
+              },
+              {
+                "type": "internal",
+                "page": "Delta State"
+              },
+              {
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chief of Defence Staff",
+            "links": [
+              {
+                "text": "Chief of Defence Staff",
+                "type": "internal",
+                "page": "Chief of the Defence Staff (Nigeria)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 January 2021"
+          },
+          "predecessor1": {
+            "text": "Abayomi Olonisakin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abayomi Olonisakin"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Commander of TRADOC",
+            "links": [
+              {
+                "text": "TRADOC",
+                "type": "internal",
+                "page": "Training and Doctrine Command (Nigeria)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "July 2020"
+          },
+          "term_end2": {
+            "text": "January 2021"
+          },
+          "predecessor2": {
+            "text": "A. Tarfa"
+          },
+          "successor2": {
+            "text": "Mobolaji Koleoso"
+          },
+          "office3": {
+            "text": "Commander of the Multinational Joint Task Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Multinational Joint Task Force"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "May 2017"
+          },
+          "term_end3": {
+            "text": "August 2018"
+          },
+          "predecessor3": {
+            "text": "Lamidi Adeosun"
+          },
+          "successor3": {
+            "text": "Chikezie Ude"
+          },
+          "office4": {
+            "text": "Commander of Operation Lafiya Dole"
+          },
+          "term_start4": {
+            "text": "March 2016"
+          },
+          "term_end4": {
+            "text": "May 2017"
+          },
+          "predecessor4": {
+            "text": "Hassan Umaru"
+          },
+          "successor4": {
+            "text": "Ibrahim Attahiru",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibrahim Attahiru"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1983 - present"
+          },
+          "rank": {
+            "text": "Nigeria-Army-OF-9.svg General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General (Nigeria)"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇳🇬 Nigeria",
+            "links": [
+              {
+                "text": "Nigeria",
+                "type": "internal",
+                "page": "nigeria"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Flag of the Nigerian Army Headquarters.svg Nigerian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigerian Army"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Muhammadu Buhari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muhammadu Buhari"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Profile of the New Chief of Defence Staff, General Lucky Irabor",
+          "url": "https://prnigeria.com/2021/01/26/cds-general-leo-irabor/",
+          "website": "PR Nigeria",
+          "access-date": "27 January 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-03-05",
+          "title": "Breaking: Buhari decorates new Service Chiefs",
+          "url": "https://www.vanguardngr.com/2021/03/breaking-buhari-decorates-new-service-chiefs/",
+          "access-date": "2021-03-05",
+          "website": "Vanguard News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-01-26",
+          "title": "BREAKING: Meet new Service Chiefs {{!}} The Nation Nigeria",
+          "url": "https://thenationonlineng.net/breaking-meet-new-service-chiefs/",
+          "access-date": "2021-01-26",
+          "website": "Latest Nigeria News, Nigerian Newspapers, Politics",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Buhari appoints new service chiefs",
+          "url": "https://dailytrust.com/buhari-appoints-new-service-chiefs",
+          "access-date": "2021-01-26",
+          "website": "Daily Trust",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "UPDATED: President Buhari Replaces Service Chiefs {{!}} Channels Television",
+          "url": "https://www.channelstv.com/2021/01/26/buhari-replaces-service-chiefs/amp/",
+          "access-date": "2021-01-26",
+          "website": "www.channelstv.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Irabor was born on 5 October 1965 in Aliokpu Agbor, Ika South Local Government Area of Delta State, Nigeria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Delta State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ]
+            },
+            {
+              "text": "He gained admission into the Nigerian Defence Academy (NDA) Kaduna as a member of the 34 Regular Course in 1983 and was commissioned Second Lieutenant on 28 June 1986 into the Signals Corps of the Nigerian Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nigerian Defence Academy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigerian Army"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Irabor attended military and civil courses both locally and abroad."
+            },
+            {
+              "text": "He attended Armed Forces Command and Staff College, Jaji (AFCSC) for his Junior Staff Course in 1995 and Ghana Armed Forces Staff College, Teshi, Accra, Ghana for Senior Staff Course in 2000/2001 amongst others.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Armed Forces Command and Staff College, Jaji"
+                }
+              ]
+            },
+            {
+              "text": "He equally attended the National Defence College in Bangladesh in 2010 and Harvard Kennedy Schools of Government and Executive Education, the USA in 2012 and 2017 respectively."
+            },
+            {
+              "text": "Irabor obtained a bachelor's degree in Engineering from Obafemi Awolowo University and holds two Masters Degrees from University of Ghana and Bangladesh University of Professionals, Dhaka.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Obafemi Awolowo University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Ghana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bangladesh University of Professionals"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-01-26",
+          "title": "What to know about Lucky Irabor, Nigeria's new Chief of Defence Staff",
+          "url": "https://www.premiumtimesng.com/news/headlines/438904-what-to-know-about-lucky-irabor-nigerias-new-chief-of-defence-staff.html",
+          "access-date": "2022-03-13",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.arise.tv/meet-nigerias-new-service-chiefs/",
+          "title": "Nigeria: Meet Nigeria's New Service Chiefs",
+          "last": "Arise TV",
+          "first": "Arise TV",
+          "date": "2021-01-27",
+          "work": "Arise TV (Abuja)",
+          "access-date": "2021-01-27",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "chiefs of defence staff staff (cds) nigeria"
+        },
+        {
+          "template": "nigeria-mil-bio-stub"
+        }
+      ]
+    }
+  ]
+}

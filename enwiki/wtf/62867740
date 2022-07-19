@@ -1,0 +1,129 @@
+{
+  "title": "Ahmed Rufai Abubakar",
+  "pageID": 62867740,
+  "categories": [
+    "Nigerian diplomats",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ahmed Rufai Abubakar is a Nigerian diplomat, and the current director general of Nigeria's -  National Intelligence Agency.",
+              "links": [
+                {
+                  "text": "National Intelligence Agency",
+                  "type": "internal",
+                  "page": "National Intelligence Agency (Nigeria)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ahmed Rufai Abubakar"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "January 2020",
+          "template": "blp sources"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ahmed Rufai Abubakar"
+          },
+          "office1": {
+            "text": "Director General, National Intelligence Agency",
+            "links": [
+              {
+                "text": "National Intelligence Agency",
+                "type": "internal",
+                "page": "National Intelligence Agency (Nigeria)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2018",
+            "number": 2018
+          },
+          "predecessor1": {
+            "text": "Ayo Oke",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ayo Oke"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Bayero University, Kano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bayero University, Kano"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.pmnewsnigeria.com/2019/08/31/nia-dg-rufai-loses-sister-buhari-sends-condolence-team/",
+          "title": "NIA DG Rufai loses sister, Buhari sends condolence team",
+          "date": "2019-08-31",
+          "website": "P.M. News",
+          "language": "en-US",
+          "access-date": "2020-01-19",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://gongnews.net/tag/dr-ahmed-rufai-abubakar-director-general-of-the-national-intelligence-agency-nia/",
+          "title": "Dr Ahmed Rufai Abubakar Director-General of the National Intelligence Agency (NIA) Archives",
+          "website": "GongNews",
+          "language": "en-GB",
+          "access-date": "2020-01-19",
+          "archive-url": "https://web.archive.org/web/20191126022027/http://gongnews.net/tag/dr-ahmed-rufai-abubakar-director-general-of-the-national-intelligence-agency-nia/",
+          "archive-date": "2019-11-26",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nta.ng/,%20https://www.nta.ng/news/20180110-breaking-president-buhari-appoints-substantive-dg-nia-ahmed-rufai-abubakar/",
+          "title": "BREAKING: President Buhari Appoints Substantive DG NIA, Ahmed Rufai Abubakar {{!}} NTA.ng - Breaking News, Nigeria, Africa, Worldwide",
+          "language": "en-US",
+          "access-date": "2020-01-19",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nigeria-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

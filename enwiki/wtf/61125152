@@ -1,0 +1,104 @@
+{
+  "title": "Cecilia Ezeilo",
+  "pageID": 61125152,
+  "categories": [
+    "Enugu State politicians",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lolo Cecilia Ezeilo is a Nigerian politician, lawyer, philanthropist and television presenter, who has served as Deputy Governor of Enugu State since 2015.",
+              "links": [
+                {
+                  "text": "Nigerian",
+                  "type": "internal",
+                  "page": "Nigerian people"
+                },
+                {
+                  "type": "internal",
+                  "page": "Enugu State"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lolo Cecilia Ezeilo"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was first elected to the Enugu State Assembly in 2011, representing the constituency of Ezeagu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ezeagu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-07-30",
+          "title": "Ugwuanyi signs revised 2020 budget of N146b into law",
+          "url": "https://guardian.ng/news/ugwuanyi-signs-revised-2020-budget-of-n146b-into-law/",
+          "access-date": "2022-02-22",
+          "website": "The Guardian Nigeria News - Nigeria and World News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Enugu govt wants FG to settle disputed border with Ebonyi - P.M. News",
+          "url": "https://pmnewsnigeria.com/2015/06/25/enugu-govt-wants-fg-to-settle-disputed-border-with-ebonyi/",
+          "access-date": "2022-03-01",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2015-05-29",
+          "title": "Ezeilo makes history as first female deputy governor",
+          "url": "https://www.vanguardngr.com/2015/05/ezeilo-makes-history-as-first-female-deputy-governor/",
+          "access-date": "2022-03-04",
+          "website": "Vanguard News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Moses Ekpo",
+  "pageID": 53985735,
+  "categories": [
+    "Akwa Ibom State politicians",
+    "Peoples Democratic Party (Nigeria) politicians",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moses Frank Ekpo (born in Akwa Ibom State) is a Nigerian politician and the Deputy Governor of Akwa Ibom State.",
+              "links": [
+                {
+                  "text": "Nigerian",
+                  "type": "internal",
+                  "page": "Nigerians"
+                },
+                {
+                  "text": "Deputy Governor",
+                  "type": "internal",
+                  "page": "Deputy governor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Akwa Ibom State"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Moses Frank Ekpo"
+                ]
+              }
+            },
+            {
+              "text": "He is popularly known as \"Uncle Mo\"."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-10-19",
+          "title": "Moses Ekpo: Debonair, doughty, dedicated",
+          "url": "https://guardian.ng/opinion/moses-ekpo-debonair-doughty-dedicated/",
+          "access-date": "2022-02-22",
+          "website": "The Guardian Nigeria News - Nigeria and World News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://leadership.ng/2017/05/02/security-beefed-up-in-aibom-cross-river-warring-communities/",
+          "title": "Security Beefed up in A/Ibom Cross-river Warring communities {{!}} Leadership Newspapers",
+          "last": "Odey",
+          "first": "Kreazetofa",
+          "access-date": "2017-05-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thisdaylive.com/index.php/2017/04/25/enlists-stakeholders-collaboration-to-fight-terrorism/",
+          "title": "Enlists Stakeholders’ Collaboration to Fight Terrorism",
+          "last": "Editor",
+          "first": "Online",
+          "date": "2017-04-25",
+          "work": "THISDAYLIVE",
+          "access-date": "2017-05-07",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://guardian.ng/news/nsa-group-seek-collaboration-to-tackle-money-laundering-terrorism/",
+          "title": "NSA, group seek collaboration to tackle money laundering, terrorism",
+          "access-date": "2017-05-07",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://thenationonlineng.net/fertilisers-akwa-ibom-farmers/",
+          "title": "Fertilisers for Akwa Ibom farmers - The Nation Nigeria",
+          "date": "2017-04-21",
+          "work": "The Nation Nigeria",
+          "access-date": "2017-05-07",
+          "language": "en-US",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "'Akwa Ibom committed to resolution of boundary crisis' {{!}} The Nation",
+          "url": "https://thenationonlineng.net/akwa-ibom-committed-to-resolution-of-boundary-crisis/amp/",
+          "access-date": "2022-02-25",
+          "website": "thenationonlineng.net",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nigeria-bio-stub"
+        }
+      ]
+    }
+  ]
+}

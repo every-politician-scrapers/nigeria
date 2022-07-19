@@ -1,0 +1,145 @@
+{
+  "title": "Eric Kelechi Igwe",
+  "pageID": 61124992,
+  "categories": [
+    "Nigerian politicians",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eric Kelechi Igwe is a Nigerian lawyer and politician who is serving as the deputy governor of Ebonyi State.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ebonyi State"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eric Kelechi Igwe"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On March 8, 2022, Igwe and his governor Dave Umahi were sacked as Governor and Deputy Governor of Ebonyi State respectively by the Federal High Court in Abuja for defecting to the All Progressives Congress while in office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dave Umahi"
+                },
+                {
+                  "text": "Federal High Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abuja"
+                },
+                {
+                  "text": "defecting",
+                  "type": "internal",
+                  "page": "party switching"
+                },
+                {
+                  "type": "internal",
+                  "page": "All Progressives Congress"
+                }
+              ]
+            },
+            {
+              "text": "The court said that the popular votes given to Umahi belonged to the People's Democratic Party and by defecting from the party the office seizes to be theirs.",
+              "links": [
+                {
+                  "text": "People's Democratic Party",
+                  "type": "internal",
+                  "page": "People's Democratic Party (Nigeria)"
+                }
+              ]
+            },
+            {
+              "text": "The court immediately ordered the PDP to submit the name of their gubernatorial candidate to INEC or for a fresh gubernatorial election to be conducted in Ebonyi State."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Deputy Governor of Ebonyi State",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-04-01",
+          "title": "[JUST IN] Defection: Appeal Court dismisses suit against Umahi, deputy",
+          "url": "https://punchng.com/just-in-defection-appeal-court-dismisses-suit-against-umahi-deputy/",
+          "access-date": "2022-04-02",
+          "website": "Punch Newspapers",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-04-02",
+          "title": "Appeal Court dismisses suit seeking to sack Umahi",
+          "url": "https://guardian.ng/news/appeal-court-dismisses-suit-seeking-to-sack-umahi/",
+          "access-date": "2022-04-02",
+          "website": "The Guardian Nigeria News - Nigeria and World News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://punchng.com/breaking-court-sacks-umahi-deputy-over-defection-to-apc/",
+          "title": "BREAKING: Court sacks Umahi, deputy over defection to APC",
+          "first": "Noah",
+          "last": "Banjo",
+          "date": "8 March 2022",
+          "website": "The Punch",
+          "access-date": "8 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thecable.ng/breaking-court-sacks-umahi-deputy-over-defection-to-apc/",
+          "title": "BREAKING: Court sacks Umahi, deputy over defection to APC",
+          "first": "Bolanle",
+          "last": "Olabimtan",
+          "date": "8 March 2022",
+          "website": "TheCable",
+          "access-date": "8 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "nigeria-bio-stub"
+        }
+      ]
+    }
+  ]
+}

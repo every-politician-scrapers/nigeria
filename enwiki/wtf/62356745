@@ -1,0 +1,98 @@
+{
+  "title": "Olamilekan Adegbite",
+  "pageID": 62356745,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Government ministers of Nigeria"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Olamilekan Adegbite is the Nigerian minister of Mines and Steel Development.",
+              "links": [
+                {
+                  "text": "Nigerian",
+                  "type": "internal",
+                  "page": "Nigerians"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Olamilekan Adegbite"
+                ]
+              }
+            },
+            {
+              "text": "Adegbite was formerly the Commissioner for Works and Infrastructure in Ogun State under the Ibikunle Amosun regime.",
+              "links": [
+                {
+                  "text": "Ogun",
+                  "type": "internal",
+                  "page": "Ogun State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ibikunle Amosun"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://punchng.com/full-list-of-ministers-and-their-portfolios/",
+          "title": "ICYMI: Full list of ministers and their portfolios",
+          "website": "Punch Newspapers",
+          "language": "en-US",
+          "access-date": "2019-11-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/pidgin/tori-49424672",
+          "title": "Buhari, Akpabio, Fashola and oda ministers wey collect 'big' position",
+          "date": "2019-08-21",
+          "access-date": "2019-11-15",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-02-21",
+          "title": "Establishing mining clusters will create jobs, wealth, says mines minister",
+          "url": "https://guardian.ng/news/establishing-mining-clusters-will-create-jobs-wealth-says-mines-minister/",
+          "access-date": "2022-02-22",
+          "website": "The Guardian Nigeria News - Nigeria and World News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

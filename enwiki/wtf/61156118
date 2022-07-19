@@ -1,0 +1,162 @@
+{
+  "title": "Manasseh Daniel Jatau",
+  "pageID": 61156118,
+  "categories": [
+    "Living people",
+    "1955 births",
+    "People from Gombe State",
+    "Nigerian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Manassah Daniel Jatau (born 29 December 1955 in Balanga, Nigeria) is the deputy governor of Gombe state.",
+              "links": [
+                {
+                  "text": "Balanga",
+                  "type": "internal",
+                  "page": "Balanga, Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                },
+                {
+                  "text": "deputy governor",
+                  "type": "internal",
+                  "page": "deputy governor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gombe state"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Manassah Daniel Jatau"
+                ]
+              }
+            },
+            {
+              "text": "He was elected Deputy Governor alongside Governor Muhammad Inuwa Yahaya during the 2019 general elections of Nigeria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muhammad Inuwa Yahaya"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.dailytrust.com.ng/gombe-govship-inuwa-yahaya-picks-dr-manassah-as-running-mate.html",
+          "title": "Gombe gov’ship: Inuwa Yahaya picks Dr Manassah as running mate",
+          "last": "Yaya",
+          "first": "Haruna Gimba",
+          "last2": "Gombe",
+          "date": "2018-11-22",
+          "website": "Daily Trust",
+          "language": "en-GB",
+          "access-date": "2019-06-27",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://punchng.com/it-is-no-more-business-as-usual-says-new-gombe-gov/",
+          "title": "It is no more business as usual, says new Gombe Gov",
+          "website": "Punch Newspapers",
+          "language": "en-US",
+          "access-date": "2019-06-27",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Manasseh Daniel Jatau Archives",
+          "url": "https://www.today.ng/topic/manasseh-daniel-jatau",
+          "access-date": "2022-03-01",
+          "website": "TODAY",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.legit.ng/1243461-sadiq-kurba-emerges-gombe-assembly-speaker.html",
+          "title": "Just in: Sadiq Kurba elected new speaker of Gombe Assembly",
+          "last": "Omotayo",
+          "first": "Joseph",
+          "date": "2019-06-14",
+          "website": "Legit.ng - Nigeria news.",
+          "language": "en",
+          "access-date": "2019-06-27",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dailytrust.com.ng/gombe-nysc-appeals-for-permanent-orientation-camp.html",
+          "title": "Gombe NYSC appeals for permanent Orientation Camp",
+          "last": "Yaya",
+          "first": "Haruna Gimba",
+          "last2": "Gombe",
+          "date": "2019-06-20",
+          "website": "Daily Trust",
+          "language": "en-GB",
+          "access-date": "2019-06-27",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Gombe State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gombe State"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

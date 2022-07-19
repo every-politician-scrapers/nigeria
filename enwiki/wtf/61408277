@@ -1,0 +1,125 @@
+{
+  "title": "Suleiman Adamu Kazaure",
+  "pageID": 61408277,
+  "categories": [
+    "Nigerian government officials",
+    "1963 births",
+    "Living people",
+    "Place of birth missing (living people)",
+    "Date of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Suleiman Husseini Adamu, known as Suleiman Adamu Kazaure, is the Nigerian Minister of Water Resources under president Muhammadu Buhari's administration.",
+              "links": [
+                {
+                  "text": "Nigerian",
+                  "type": "internal",
+                  "page": "Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muhammadu Buhari"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Suleiman Husseini Adamu",
+                  "Suleiman Adamu Kazaure"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2019",
+          "template": "more citations needed"
+        },
+        {
+          "date": "November 2021",
+          "template": "when"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-12-22",
+          "title": "FG secures $700m World Bank loan for water projects",
+          "url": "https://guardian.ng/news/fg-secures-700m-world-bank-loan-for-water-projects/",
+          "access-date": "2022-02-22",
+          "website": "The Guardian Nigeria News - Nigeria and World News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nigeria.gov.ng/index.php/2016-04-06-08-40-29/executive/109-federal-ministry-of-water-resources",
+          "title": "Federal Ministry of Water Resources",
+          "website": "www.nigeria.gov.ng",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20170811165529/http://www.nigeria.gov.ng/index.php/2016-04-06-08-40-29/executive/109-federal-ministry-of-water-resources",
+          "archive-date": "2017-08-11}} |undefined",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Politics of Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politics of Nigeria"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "Biography",
+            "Nigeria",
+            "Politics",
+            "Society"
+          ],
+          "template": "portal bar"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

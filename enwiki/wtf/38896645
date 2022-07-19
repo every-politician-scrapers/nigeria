@@ -1,0 +1,165 @@
+{
+  "title": "Baba Tela",
+  "pageID": 38896645,
+  "categories": [
+    "Living people",
+    "21st-century Nigerian politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Baba Tela is the Deputy Governor of Bauchi State.",
+              "formatting": {
+                "bold": [
+                  "Baba Tela"
+                ]
+              }
+            },
+            {
+              "text": "He is a former member of the Senate of the National Assembly of Nigeria.",
+              "links": [
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Senate (Nigeria)"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "Nigerian National Assembly"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ]
+            },
+            {
+              "text": "He is also a former Chairman of Nigerian Maritime Administration and Safety Agency, NIMASA."
+            },
+            {
+              "text": "He is a Non-Executive Independent Director of Zenith Bank plc, He is the Chairman of the Finance and General Purpose Committee of the Bank; Member of Board Credit Committee of the Bank and Member Board of Directors Zenith Bank Gambia."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a Senator of the Federal Republic of Nigeria between 2002 and 2003, and was further re-elected for a second tenure from 2003 to 2007."
+            },
+            {
+              "text": "At the Senate, he was the Chairman Senate Committee on Communications, served on several other Committees, including Water Resources; Cooperation and Integration in Africa and NEPAD and Committee on Special Duties."
+            },
+            {
+              "text": "He also served as a Member of the Governing Council of the Federal University of Technology, Minna and Director, Coates Brothers (W.A.) Limited, among others."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2011, Tela contested for the Governor of Bauchi State under the defunct ACN.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bauchi State"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He commenced his working career as Financial Analyst with Masenterp Nigeria Ltd. In late 1983, and worked in various capacities and organizations until he became Special Assistant to the President on economy in 2001, a position he held until his election as Senator in 2002."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Alhaji Tela obtained a Bachelor of Science degree in Business Administration from the Ahmadu Bello University, Zaria in 1982.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmadu Bello University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He had attended various courses and seminars on banking, finance and administration."
+            },
+            {
+              "text": "In December 2013, Senator Baba Tela Tela formally returned to his former party, the PDP."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tela, a Muslim, is married and the father of twelve children."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-09-26",
+          "title": "PDP ‘ll sweep polls in 2023 – Sen Tela",
+          "url": "https://www.vanguardngr.com/2021/09/pdp-ll-sweep-polls-in-2023-sen-tela/",
+          "access-date": "2022-02-22",
+          "website": "Vanguard News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "106.341-klm Kano-Maiduguri Road inaugurated {{!}} The Nation",
+          "url": "https://thenationonlineng.net/106-341-klm-kano-maiduguri-road-inaugurated/amp/",
+          "access-date": "2022-02-26",
+          "website": "thenationonlineng.net",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.vanguardngr.com/2011/04/gov-yuguda-gets-fresh-mandate/",
+          "title": "Gov Yuguda gets fresh mandate as Bauchi gov",
+          "date": "April 30, 2011",
+          "work": "Vanguard",
+          "publisher": "Vanguard Media",
+          "accessdate": "23 March 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

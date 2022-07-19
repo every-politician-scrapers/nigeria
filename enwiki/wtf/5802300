@@ -1,0 +1,302 @@
+{
+  "title": "Kema Chikwe",
+  "pageID": 5802300,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Aviation ministers of Nigeria",
+    "Igbo politicians",
+    "National Working Committee people",
+    "University of Nigeria alumni",
+    "Women government ministers of Nigeria"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kemafo Nonyerem \"Kema\" Chikwe is a former Nigerian Federal Minister of Aviation.",
+              "links": [
+                {
+                  "text": "Nigerian",
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kemafo Nonyerem \"Kema\" Chikwe"
+                ]
+              }
+            },
+            {
+              "text": "She currently holds the position of National Women Leader of the Nigerian political party PDP."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Chikwe started school at the age of five at Aba in what is now Abia State.",
+              "links": [
+                {
+                  "text": "Aba",
+                  "type": "internal",
+                  "page": "Aba, Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abia State"
+                }
+              ]
+            },
+            {
+              "text": "She majored in French at the Advanced Teachers’ College, Owerri.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Owerri"
+                }
+              ]
+            },
+            {
+              "text": "She then attended Queen's College of the City University of New York where she obtain degrees in French.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "City University of New York"
+                }
+              ]
+            },
+            {
+              "text": "She obtained a doctorate from the University of Nigeria, Nsukka, in curriculum education.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Nigeria"
+                }
+              ]
+            },
+            {
+              "text": "Chikwe became a radio journalist, editor and a publisher."
+            },
+            {
+              "text": "She was chief executive and publisher, Prime Time Limited, publishers of Ash magazine."
+            },
+            {
+              "text": "She has published three books, edited a number of publications and contributed to several books."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She became involved in a number of non-governmental organisations, first entering politics in the second republic."
+            },
+            {
+              "text": "Her sympathies were for the National Party of Nigeria, NPN."
+            },
+            {
+              "text": "She later cast her political lot with the NRC, UNCP and now PDP."
+            },
+            {
+              "text": "She was appointed Minister of Transport, and then of Aviation by President Olusegun Obasanjo, holding office until May 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Olusegun Obasanjo"
+                }
+              ]
+            },
+            {
+              "text": "She later went on to run for the Governor of Imo state."
+            },
+            {
+              "text": "In 2009 she became the Nigerian ambassador to Ireland."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is also the mother of Nigerian rapper Naeto C.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Naeto C"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kemafo Nonyerem Chikwe"
+          },
+          "image": {
+            "text": "Kema chikwe.jpg"
+          },
+          "imagesize": {
+            "text": "150px"
+          },
+          "caption": {
+            "text": "Kema Chikwe at an Igbo new yam festival, Dublin, Ireland.",
+            "links": [
+              {
+                "text": "Igbo",
+                "type": "internal",
+                "page": "Igbo people"
+              },
+              {
+                "text": "yam",
+                "type": "internal",
+                "page": "Yam (vegetable)"
+              },
+              {
+                "type": "internal",
+                "page": "Dublin"
+              },
+              {
+                "type": "internal",
+                "page": "Ireland"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Federal Minister of Transport"
+          },
+          "term_start1": {
+            "text": "June 1999"
+          },
+          "term_end1": {
+            "text": "2001",
+            "number": 2001
+          },
+          "successor1": {
+            "text": "Ojo Maduekwe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ojo Maduekwe"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Federal Minister of Aviation"
+          },
+          "term_start2": {
+            "text": "2001",
+            "number": 2001
+          },
+          "term_end2": {
+            "text": "May 2003"
+          },
+          "predecessor2": {
+            "text": "Olusegun Agagu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Olusegun Agagu"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Isa Yuguda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isa Yuguda"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Aba, Abia State, Nigeria",
+            "links": [
+              {
+                "text": "Aba",
+                "type": "internal",
+                "page": "Aba, Nigeria"
+              },
+              {
+                "type": "internal",
+                "page": "Abia State"
+              },
+              {
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Democratic Party",
+            "links": [
+              {
+                "text": "People's Democratic Party",
+                "type": "internal",
+                "page": "People's Democratic Party (Nigeria)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.sunnewsonline.com/webpages/features/womanofthesun/2004/may/25/womanofthesun-may25-001.htm",
+          "title": "I’m not Obasanjo’s girl – Kema Chikwe",
+          "author": "Yetunde Oladeinde",
+          "date": "May 25, 2004",
+          "work": "Daily Sun",
+          "accessdate": "2010-02-16",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20070101101034/http://www.sunnewsonline.com/webpages/features/womanofthesun/2004/may/25/womanofthesun-may25-001.htm",
+          "archivedate": "January 1, 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.mynaijanews.com/content/view/2094/160/",
+          "title": "The Big Deal about Naeto C",
+          "author": "Babajide Okonrende",
+          "date": "22 August 2008",
+          "accessdate": "2010-02-16",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.onlinenigeria.com/PEOPLE/ad.asp?blurb=65",
+          "title": "Kema Chikwe",
+          "work": "Online Nigeria",
+          "accessdate": "2010-02-16",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cabinet of president olusegun obasanjo 1999-2003"
+        },
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

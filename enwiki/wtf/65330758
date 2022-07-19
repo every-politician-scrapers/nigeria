@@ -1,0 +1,183 @@
+{
+  "title": "Zubairu Dada",
+  "pageID": 65330758,
+  "categories": [
+    "1952 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ambassador Zubairu Dada was born on (28 March 1952) in Minna, Niger State.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minna"
+                },
+                {
+                  "type": "internal",
+                  "page": "Niger State"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ambassador Zubairu Dada"
+                ]
+              }
+            },
+            {
+              "text": "He is the minister of State Foreign Affairs of the Federal Republic of Nigeria, appointed in 2019.",
+              "links": [
+                {
+                  "text": "Federal Republic of Nigeria",
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ]
+            },
+            {
+              "text": "He was the director of Mass Mobilization for Self Reliance, Social Justice, and Economic Recovery from 1993 to 1993 where he rose to a position of Director, National Orientation Agency (NOA)."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        },
+        {
+          "date": "June 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1952",
+          "month": "3",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Zubairu Dada"
+          },
+          "country": {
+            "text": "Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 28, 1952"
+          },
+          "nationality": {
+            "text": "Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "minister": {
+            "text": "State Foreign Affairs"
+          },
+          "office1": {
+            "text": "Minister of State Foreign Affairs"
+          },
+          "citizenship": {
+            "text": "Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "term1": {
+            "text": "2019",
+            "number": 2019
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Minister of State Foreign Affairs Ambassador Zubairu Dada Archives",
+          "url": "https://www.radionigeria.gov.ng/tag/minister-of-state-foreign-affairs-ambassador-zubairu-dada/",
+          "access-date": "2020-09-16",
+          "website": "FRCN",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Reverse Appointment Of Ambassador Zubairu Dada – Niger APC {{!}} Channels Television",
+          "url": "https://www.channelstv.com/2019/08/01/reverse-appointment-of-ambassador-zubairu-dada-niger-apc/amp/",
+          "access-date": "2020-10-06",
+          "website": "www.channelstv.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-08-21",
+          "title": "FULL LIST: Portfolios of Buhari's 44 Ministers - 2019 - 2023",
+          "url": "https://www.premiumtimesng.com/news/headlines/347816-full-list-portfolios-of-buharis-44-ministers-2019-2023.html",
+          "access-date": "2020-09-16",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Iroanusi",
+          "first": "QueenEsther",
+          "date": "2019-07-23",
+          "title": "Nigeria: Buhari appoints Akpabio, Keyamo, Fashola, 40 other ministers (FULL LIST)",
+          "url": "https://allafrica.com/stories/201907230511.html",
+          "access-date": "2020-09-17",
+          "website": "allAfrica.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-08-06",
+          "title": "Ambassador Zubairu Dada visits ECOWAS headquarters over fire outbreak",
+          "url": "https://www.vanguardngr.com/2020/08/ambassador-zubairu-dada-visits-ecowas-headquarters-over-fire-outbreak/",
+          "access-date": "2020-10-06",
+          "website": "Vanguard News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Nigeria needs MAMSER now more than ever, says ministerial nominee, Dada",
+          "url": "https://punchng.com/nigeria-needs-mamser-now-more-than-ever-says-ministerial-nominee-dada/",
+          "access-date": "2020-10-06",
+          "website": "Punch Newspapers",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

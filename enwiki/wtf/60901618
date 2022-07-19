@@ -1,0 +1,216 @@
+{
+  "title": "Umar Usman Kadafur",
+  "pageID": 60901618,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "All Progressives Congress politicians",
+    "People from Borno State"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Umar Usman Kadafur (born May 31, 1976 in Biu, Nigeria) is a Nigerian politician.",
+              "links": [
+                {
+                  "text": "Biu",
+                  "type": "internal",
+                  "page": "Biu, Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Umar Usman Kadafur"
+                ]
+              }
+            },
+            {
+              "text": "He is the 8th democratically elected Deputy Governor of Borno State.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Borno State"
+                }
+              ]
+            },
+            {
+              "text": "Hon. Umar Usman Kadafur had his early education at Mbulamel Primary School, Biu."
+            },
+            {
+              "text": "He thereafter proceeded to Government Science Secondary School Monguno to obtain his secondary school leaving certificate."
+            },
+            {
+              "text": "Much later, he furthered his studies at University of Maiduguri, studied public administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Maiduguri"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Umar Usman Kadafur"
+          },
+          "office1": {
+            "text": "8th Deputy Governor of Borno State"
+          },
+          "term_start1": {
+            "text": "29 May 2019"
+          },
+          "governor1": {
+            "text": "Babagana Umara Zulum",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Babagana Umara Zulum"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Umar Usman Kadafur"
+          },
+          "birth_date": {
+            "text": "31 May 1975"
+          },
+          "birth_place": {
+            "text": "Biu Borno State, Nigeria",
+            "links": [
+              {
+                "text": "Biu",
+                "type": "internal",
+                "page": "Biu, Nigeria"
+              },
+              {
+                "type": "internal",
+                "page": "Borno State"
+              },
+              {
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "alma_mater": {
+            "text": "University of Maiduguri",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Maiduguri"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Public Administrator"
+          },
+          "nationality": {
+            "text": "Nigerian"
+          },
+          "party": {
+            "text": "All Progressive Congress (APC)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "All Progressive Congress"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.legit.ng/1221385-2019-group-condemns-assault-apc-supporters-borno-campaign.html",
+          "title": "Group condemns destruction of vehicles, assault on APC supporters in Borno",
+          "last": "Akinola",
+          "first": "Wale",
+          "date": "2019-02-12",
+          "website": "Legit.ng - Nigeria news.",
+          "language": "en",
+          "access-date": "2019-06-06",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://leadership.ng/2018/12/30/kadafur-the-audacity-of-hope/",
+          "title": "Kadafur: The Audacity Of Hope",
+          "last": "Jidda",
+          "first": "Salman Garba",
+          "date": "2018-12-30",
+          "website": "Leadership Newspaper",
+          "language": "en-US",
+          "access-date": "2019-06-06",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://dailypost.ng/2018/10/18/borno-apc-wild-jubilations-zullum-names-kadafur-running-mate/",
+          "title": "Borno APC: Wild jubilations as Zullum names Kadafur as running mate",
+          "last": "Maina",
+          "first": "Maina",
+          "date": "2018-10-18",
+          "website": "Daily Post Nigeria",
+          "language": "en-US",
+          "access-date": "2019-06-06",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Borno Govt Suspends COVID-19 Lockdown, Approves Religious Gathering",
+          "url": "https://nationalinsightnews.com/tag/alh-umar-usman-kadafur-deputy-governor",
+          "access-date": "2022-02-26",
+          "website": "National Insight News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dailytrust News, Sports and Business, Politics {{!}} Dailytrust",
+          "url": "https://dailytrust.com/",
+          "access-date": "2022-02-22",
+          "website": "Daily Trust",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

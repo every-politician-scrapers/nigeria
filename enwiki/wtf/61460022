@@ -1,0 +1,447 @@
+{
+  "title": "Douye Diri",
+  "pageID": 61460022,
+  "categories": [
+    "Living people",
+    "1959 births",
+    "Governors of Bayelsa State",
+    "Peoples Democratic Party (Nigeria) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Douye Diri (born 4 June 1959) is a Nigerian politician and Governor of Bayelsa State.",
+              "links": [
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "Governor of Bayelsa State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bayelsa State"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Douye Diri"
+                ]
+              }
+            },
+            {
+              "text": "He was the senator representing Bayelsa Central senatorial district of Bayelsa state at the Nigerian 9th National Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bayelsa"
+                },
+                {
+                  "text": "9th National Assembly",
+                  "type": "internal",
+                  "page": "9th National Assembly"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "df": "yes",
+            "year": "2019",
+            "month": "6",
+            "date": "12",
+            "template": "start date",
+            "text": "June 12, 2019"
+          }
+        },
+        {
+          "year": "1959",
+          "month": "6",
+          "day": "04",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Douye Diri"
+          },
+          "order1": {
+            "text": "Governor of Bayelsa State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Bayelsa State"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Lawrence Ewhrudjakpo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawrence Ewhrudjakpo"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 February 2020"
+          },
+          "predecessor1": {
+            "text": "Seriake Dickson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seriake Dickson"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Senator of the Federal Republic of Nigeria from Bayelsa Central Senatorial District",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bayelsa Central Senatorial District"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "June 12, 2019"
+          },
+          "term_end2": {
+            "text": "11 February 2020"
+          },
+          "predecessor2": {
+            "text": "Emmanuel Paulker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Emmanuel Paulker"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 4, 1959"
+          },
+          "spouse": {
+            "text": "Gloria Diri"
+          },
+          "party": {
+            "text": "People's Democratic Party",
+            "links": [
+              {
+                "text": "People's Democratic Party",
+                "type": "internal",
+                "page": "People's Democratic Party (Nigeria)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nigerian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigerian"
+              }
+            ]
+          },
+          "status": {
+            "text": "Sacked"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://pmnewsnigeria.com/2020/02/14/breaking-douye-diri-sworn-in-as-governor-of-bayelsa",
+          "title": "Breaking: Douye Diri sworn-in as Governor of Bayelsa",
+          "date": "14 February 2020",
+          "website": "P.M. News",
+          "access-date": "14 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Diri and the changing face of Bayelsa - The Nation Newspaper",
+          "url": "https://thenationonlineng.net/diri-and-the-changing-face-of-bayelsa/amp/",
+          "access-date": "2022-02-26",
+          "website": "thenationonlineng.net",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.premiumtimesng.com/news/top-news/319667-inec-releases-list-of-elected-senators-apc-62-pdp-37.html",
+          "title": "INEC releases list of elected senators, APC-62, PDP-37",
+          "last": "Iroanusi",
+          "first": "QueenEsther",
+          "date": "2019-03-11",
+          "language": "en-GB",
+          "access-date": "2019-08-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://dailypost.ng/2019/07/11/bayelsa-guber-senator-diri-joins-race/",
+          "title": "Bayelsa guber: Senator Diri joins race",
+          "last": "Bello",
+          "first": "Precious",
+          "date": "2019-07-11",
+          "website": "Daily Post Nigeria",
+          "language": "en-US",
+          "access-date": "2019-08-07",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Douye Diri began his early education at Okoro Primary School, Sampou and concluded it at Rev. Proctor Memorial Primary School, Kaiama in 1977, where he obtained his First School Leaving Certificate."
+            },
+            {
+              "text": "He later attended Government Secondary School, Odi in Bayelsa."
+            },
+            {
+              "text": "Douye studied at the College of Education, Port-Harcourt, Rivers State where he obtained a National Certificate in Education (NCE) in 1985."
+            },
+            {
+              "text": "He also attended the University of Port-Harcourt obtaining a Bachelors of Education (B.Ed) Degree in Political Science in 1990."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "October 2021",
+          "template": "citation needed"
+        },
+        {
+          "date": "October 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Governor of Bayelsa",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 13 February 2020, the Supreme Court of Nigeria invalidated the results of the 2019 Bayelsa State gubernatorial elections on grounds that the running mate of the actual winner of the election, David Lyon, submitted fake certificate to the Independent National Electoral Commission.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bayelsa State"
+                },
+                {
+                  "text": "David Lyon",
+                  "type": "internal",
+                  "page": "David Lyon (politician, born 1970)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Independent National Electoral Commission"
+                }
+              ]
+            },
+            {
+              "text": "The court ordered Diri to be issued a certificate of return, which would make him governor-elect."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 14 February 2020, he was sworn-in as the governor of Bayelsa State."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.channelstv.com/2020/02/13/breaking-supreme-court-sacks-bayelsa-governor-elect-lyon/",
+          "title": "Supreme Court Sacks Lyon As Bayelsa Governor-Elect, Hours Before Inauguration",
+          "website": "Channels Television",
+          "access-date": "2020-02-13",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Tsa",
+          "first1": "Godwin",
+          "url": "https://www.sunnewsonline.com/breaking-news-supreme-court-sacks-lyon-bayelsa-gov-elect-for-presenting-running-mate-with-fake-qualification/",
+          "title": "Breaking News: Supreme Court sacks Lyon, Bayelsa gov-elect, for presenting running mate with fake qualification",
+          "date": "14 November 2019",
+          "accessdate": "13 February 2020",
+          "website": "Sun News NG",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.pulse.ng/news/politics/douye-diri-sworn-in-as-bayelsa-governor/5z2y3c4",
+          "title": "Douye Diri sworn in as Bayelsa Governor",
+          "last": "Wahab",
+          "first": "Bayo",
+          "date": "14 February 2020",
+          "website": "Pulse NG",
+          "access-date": "14 February 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "August 2020 court rulings",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 17 August 2020, a tribunal at Abuja, Nigeria, ordered Diri sacked as the state governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abuja, Nigeria"
+                }
+              ]
+            },
+            {
+              "text": "However, on 2 October 2020, a court of appeal sitting in Abuja overruled the tribunal court and confirmed him as Governor."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "17 August 2020",
+          "title": "Tribunal sack Govnor Diri, order fresh election just days afta im bin jubilate say e win case for di same court",
+          "work": "BBC News Pidgin",
+          "url": "https://www.bbc.com/pidgin/53803592",
+          "access-date": "2020-08-17",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Appeal court confam Douye Diri election as Bayelsa Govnor",
+          "work": "BBC News Pidgin",
+          "url": "https://www.bbc.com/pidgin/tori-54390720",
+          "access-date": "2020-10-06",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2 October 2020",
+          "title": "Court of Appeal affirms Bayelsa Gov Douye Diri's election",
+          "url": "https://www.pulse.ng/news/politics/court-of-appeal-affirms-bayelsa-gov-douye-diris-election/ymwf7hm",
+          "access-date": "2020-10-06",
+          "website": "Pulse Nigeria",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Airport security controversy",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In August 2021, it was reported that Diri and his aides had forced their way through security checkpoints at Murtala Muhammed International Airport while trying to board the inaugural United Nigeria Airlines Lagos-to-Yenagoa flight.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Murtala Muhammed International Airport"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nigeria Airlines"
+                },
+                {
+                  "text": "Lagos",
+                  "type": "internal",
+                  "page": "Murtala Muhammed International Airport"
+                },
+                {
+                  "text": "Yenagoa",
+                  "type": "internal",
+                  "page": "Bayelsa International Airport"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "\"The Bags Belong To The Governor\"—Power-Drunk Bayelsa State Governor, Douye Diri, Aides Breach Airport Security Procedure, Refuse To Be Screened To Board Flight",
+          "url": "http://saharareporters.com/2021/08/11/bags-belong-governor%E2%80%94power-drunk-bayelsa-state-governor-douye-diri-aides-breach-airport",
+          "website": "Sahara Reporters",
+          "access-date": "2 September 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of Governors of Bayelsa State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of Governors of Bayelsa State"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "bayelsagovernors"
+        },
+        {
+          "template": "nigeria-politician-stub"
+        }
+      ]
+    }
+  ]
+}

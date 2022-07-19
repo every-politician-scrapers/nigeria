@@ -1,0 +1,741 @@
+{
+  "title": "Benedict Ayade",
+  "pageID": 31583192,
+  "categories": [
+    "Living people",
+    "1969 births",
+    "Ambrose Alli University alumni",
+    "Delta State University, Abraka alumni",
+    "People from Cross River State",
+    "Peoples Democratic Party members of the Senate (Nigeria)",
+    "Peoples Democratic Party state governors of Nigeria",
+    "University of Ibadan alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Benedict Bengioushuye Ayade (born 2 March 1968) is a Nigerian politician and the current governor of Cross River State since 29 May 2015.",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cross River State"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Benedict Bengioushuye Ayade"
+                ]
+              }
+            },
+            {
+              "text": "He ran successfully for the office of governor in April 2015 on the platform of People's Democratic Party (PDP).",
+              "links": [
+                {
+                  "text": "governor",
+                  "type": "internal",
+                  "page": "governor"
+                },
+                {
+                  "text": "People's Democratic Party",
+                  "type": "internal",
+                  "page": "People's Democratic Party (Nigeria)"
+                }
+              ]
+            },
+            {
+              "text": "Before that, he was a member of the 7th Senate of Nigeria.",
+              "links": [
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "National Assembly of Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigeria"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected as the governor of Cross River State in the 2019 gubernatorial elections."
+            },
+            {
+              "text": "Ayade, on Thursday, May 20, 2021, announced his defection to All Progressives Congress (APC) in Calabar, capital of the State, and was received by Yobe Governor and APC caretaker Committee Chair, Mai Mala Buni."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2019",
+          "template": "use nigerian english"
+        },
+        {
+          "date": "April 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1968",
+          "month": "3",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Benedict Ayade"
+          },
+          "image": {
+            "text": "File:Ben-ayade-1.jpg"
+          },
+          "caption": {
+            "text": "Senator Ben Ayade Executive Governor, Cross River state"
+          },
+          "order1": {
+            "text": "Governor of Cross River State"
+          },
+          "deputy1": {
+            "text": "Ivara Esu"
+          },
+          "term_start1": {
+            "text": "29 May 2015"
+          },
+          "predecessor1": {
+            "text": "Liyel Imoke",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liyel Imoke"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 2, 1968"
+          },
+          "birth_place": {
+            "text": "Kakum, Obudu LGA, Cross River State, Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cross River State"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nigerian",
+            "links": [
+              {
+                "text": "Nigerian",
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "party": {
+            "text": "All Progressives Congress (2021–present)",
+            "links": [
+              {
+                "text": "All Progressives Congress",
+                "type": "internal",
+                "page": "All Progressives Congress (Nigeria)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "People's Democratic Party (2011–2021)",
+            "links": [
+              {
+                "text": "People's Democratic Party",
+                "type": "internal",
+                "page": "People's Democratic Party (Nigeria)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Linda Ayade",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Linda Ayade"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Environmentalist, Lawyer"
+          },
+          "website": {
+            "text": "www.senatorbenayade.org",
+            "links": [
+              {
+                "text": "www.senatorbenayade.org",
+                "type": "external",
+                "site": "http://www.senatorbenayade.org"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Nigerian Senator for Cross River State"
+          },
+          "termstart2": {
+            "text": "April 2011",
+            "links": [
+              {
+                "text": "April 2011",
+                "type": "internal",
+                "page": "2011 Nigerian Senate elections in Cross River State"
+              }
+            ]
+          },
+          "termend2": {
+            "text": "May 2015"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-11-14",
+          "title": "Ben Ayade, The Worst Governor In Cross River’s History, By Elias Ozikpu",
+          "url": "http://saharareporters.com/2021/11/14/ben-ayade-worst-governor-cross-river%E2%80%99s-history-elias-ozikpu",
+          "access-date": "2022-02-22",
+          "website": "Sahara Reporters",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://encomium.ng/election-update-prof-ben-ayade-wins-in-cross-river-state/",
+          "title": "Election update : Prof. Ben Ayade wins in Cross River State",
+          "date": "13 April 2015",
+          "work": "Encomium",
+          "access-date": "13 April 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.channelstv.com/2019/03/11/breaking-cross-river-governor-ben-ayade-re-elected/amp/",
+          "title": "Cross River Governor Ben Ayade Re-Elected &#124; Channels Television",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.ripplesnigeria.com/apc-schemes-ayades-defection-ahead-of-2023-polls/",
+          "title": "APC schemes Ayade's defection ahead of 2023 polls",
+          "date": "20 May 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-02-20",
+          "title": "Ayade begs youths not to judge him wrongly",
+          "url": "https://guardian.ng/news/ayade-begs-youths-not-to-judge-him-wrongly/",
+          "access-date": "2022-02-22",
+          "website": "The Guardian Nigeria News - Nigeria and World News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ben Ayade Archives - The Nation Newspaper",
+          "url": "https://thenationonlineng.net/tag/ben-ayade/amp/",
+          "access-date": "2022-02-22",
+          "website": "thenationonlineng.net",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born in Obudu LGA of Cross River State on the 2nd of March, 1968 to the family of Mr. Peter Akinsheye Ayade and Mrs. Beatrice Ngayi Ayade, the patriarch and matriarch of the Ayade Dynasty, both of blessed memory."
+            },
+            {
+              "text": "He hails from Kakum Village, Ipong Ward of Obudu Local Government Area of Cross River State, Nigeria."
+            },
+            {
+              "text": "His parents were both devout Catholics.",
+              "links": [
+                {
+                  "text": "Catholics",
+                  "type": "internal",
+                  "page": "Catholic"
+                }
+              ]
+            },
+            {
+              "text": "His father worked as a public servant with the water board."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://senatorbenayade.org/?page_id=2",
+          "publisher": "Senator Ben Ayade's Website",
+          "title": "Meet Sen Ben Ayade",
+          "access-date": "13 January 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Benedict Ayade received his primary education at St. Stephens Primary School, Obudu, and proceeded to Government Secondary School, Obudu, Nigeria, for his secondary education."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ayade earned his B.Sc."
+            },
+            {
+              "text": "(Honours) from the University of Ibadan in Ibadan, Nigeria (1984–1988).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Ibadan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ibadan"
+                }
+              ]
+            },
+            {
+              "text": "He then proceeded to obtain his M.Sc."
+            },
+            {
+              "text": "in microbiology (1989–1990) and subsequently his Ph.D in environmental microbiology from the same University of Ibadan (1990–1994), winning the Best Doctoral Dissertation Award in Environmental Microbiology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dissertation"
+                }
+              ]
+            },
+            {
+              "text": "Ayade also has an MBA (2000–2002) from Ambrose Alli University Ekpoma, Edo State.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambrose Alli University"
+                }
+              ]
+            },
+            {
+              "text": "Ayade is a lawyer with a LLB law degree (2006–2010) from Delta State University, Abraka.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Delta State University, Abraka"
+                }
+              ]
+            },
+            {
+              "text": "Ayade went on to work as a lecturer at Delta State University, Abraka, where he was subsequently appointed professor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Delta State University, Abraka"
+                },
+                {
+                  "text": "professor",
+                  "type": "internal",
+                  "page": "professor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From his work in groundwater remediation in Nigeria, Ayade invented a sewage treatment plant powered by solar energy.",
+              "links": [
+                {
+                  "text": "groundwater",
+                  "type": "internal",
+                  "page": "groundwater"
+                },
+                {
+                  "text": "sewage treatment plant",
+                  "type": "internal",
+                  "page": "sewage treatment plant"
+                },
+                {
+                  "text": "solar energy",
+                  "type": "internal",
+                  "page": "solar energy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thisdaylive.com/index.php/2019/03/10/ayade-a-governor-and-philanthropist-51/",
+          "title": "Ayade: A Governor and Philanthropist @51",
+          "website": "THISDAYLIVE",
+          "date": "10 March 2019",
+          "language": "en-US",
+          "access-date": "2019-04-19",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://senatorbenayade.org/?page_id=2",
+          "title": "Meet Sen Ben Ayade",
+          "author": "Senator Ben Ayade Online Media Team",
+          "date": "13 January 2015",
+          "work": "Senator Ben Ayade website",
+          "access-date": "13 January 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.channelstv.com/2015/12/06/gov-ayade-leads-african-governors-to-climate-change-summit-in-paris",
+          "title": "Gov. Ayade Leads African Governors to Climate Summit in Paris",
+          "author": "Channels TV",
+          "date": "6 December 2015",
+          "work": "Channels TV",
+          "access-date": "6 December 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Appointments/political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ayade ventured into politics when he ran for a seat in the Nigerian Senate in the 2011 elections as a member of the PDP.",
+              "links": [
+                {
+                  "text": "Nigerian Senate",
+                  "type": "internal",
+                  "page": "National Assembly of Nigeria"
+                }
+              ]
+            },
+            {
+              "text": "Ayade was elected by accumulating a total of 91,123 votes."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During his term in the Senate, Ayade held the position of vice-chairman, Senate Committee on Environment and Ecology.",
+              "links": [
+                {
+                  "text": "Environment",
+                  "type": "internal",
+                  "page": "Environment (biophysical)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ecology"
+                }
+              ]
+            },
+            {
+              "text": "He was also a member of other committees such as Petroleum Downstream, Education, Drugs/Narcotics/Crime etc.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Education"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ayade won the gubernatorial poll again on the platform of the People's Democratic Party (PDP) in the April 2015 elections in Cross River State, having polled 342,016 votes ahead of the All Progressives Congress candidate in the state, Odey Ochicha, with 53,983 votes.",
+              "links": [
+                {
+                  "text": "gubernatorial",
+                  "type": "internal",
+                  "page": "gubernatorial"
+                },
+                {
+                  "type": "internal",
+                  "page": "All Progressives Congress"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ayade recontested in the 2019 gubernatorial elections as a member of the People Democratic Party (PDP) and was reelected as the governor of Cross River State."
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Chairman of Ecological Fund"
+          },
+          {
+            "text": "Chairman of International Institute of Environmental Research"
+          },
+          {
+            "text": "Member of Strategic Policy Advisory Council"
+          },
+          {
+            "text": "Member of Nigeria Association of Petroleum Engineers"
+          },
+          {
+            "text": "Member of Cross River State Poverty Alleviation Board"
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://senatorbenayade.org/?page_id=2",
+          "title": "Meet Sen Ben Ayade",
+          "author": "Senator Ben Ayade Online Media Team",
+          "date": "13 January 2015",
+          "work": "Senator Ben Ayade website",
+          "access-date": "13 January 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.crossriverwatch.com/?p=15082",
+          "title": "Senator Ayade Wins Cross River Governorship With Landslide",
+          "date": "13 April 2015",
+          "work": "Cross River watch",
+          "access-date": "13 April 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.premiumtimesng.com/news/top-news/319459-ayade-wins-re-election-as-governor-of-cross-river.html",
+          "title": "Ayade wins re-election as governor of Cross River",
+          "date": "11 March 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.channelstv.com/2015/12/06/gov-ayade-leads-african-governors-to-climate-change-summit-in-paris",
+          "title": "Gov. Ayade Leads African Governors to Climate Summit in Paris",
+          "author": "Channels TV",
+          "date": "6 December 2015",
+          "work": "Channels TV",
+          "access-date": "6 December 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "INEC declares Ben Ayade winner of Cross Rivers governorship election",
+          "url": "https://oak.tv/newstrack/inec-declares-ben-ayade-winner/",
+          "access-date": "17 June 2019",
+          "work": "Oak TV Newstrack",
+          "agency": "Oak tv",
+          "date": "11 March 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ayade was awarded the 2016 Vanguard Governor of the Year."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ayade was awarded the 2019 Champion Newspaper Governor of the Year."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ayade was awarded the 2020 Leadership newspaper Governor of the year."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ayade was also awarded the Blueprint Newspaper Governor of the Year on Agro-industrializatihin 2021."
+            },
+            {
+              "text": "The e award was in recognition of his developmental strides on Agro-industrialization."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 August 2019, Ayade was invested as the Knight of St. John (KSJ) International by the Roman Catholic Church, Sacred Heart Cathedral, the seat of the Metropolitan Archdiocese of Calabar."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.vanguardngr.com/2017/03/vanguard-gov-year-award-gowon-anyaoku-laud-ayade/",
+          "title": "Vanguard Gov of the Year Award: Gowon, Anyaoku, laud Ayade",
+          "author": "Vanguard Newspaper",
+          "date": "14 March 2017",
+          "work": "Vanguard Newspaper",
+          "access-date": "14 March 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ulom",
+          "first": "Frank",
+          "date": "2019-11-19",
+          "title": "Champion Newspaper Awards Ayade Governor Of The Year 2019",
+          "url": "https://theparadise.ng/champion-newspaper-awards-ayade-governor-year-2019",
+          "access-date": "2019-11-22",
+          "website": "The Paradise News",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Ulom",
+          "first": "Frank",
+          "date": "2019-08-25",
+          "title": "Governor Ayade Is Now A Knight Of St. John (KSJ)",
+          "url": "https://theparadise.ng/ayade-knight-st-john-ksj",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210713042447/https://theparadise.ng/ayade-knight-st-john-ksj/",
+          "archive-date": "13 July 2021",
+          "access-date": "2019-08-26",
+          "website": "The Paradise News",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Family and personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ayade is married to Dr. Linda Ayade and has 3 children.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Linda Ayade"
+                }
+              ]
+            },
+            {
+              "text": "His hobbies include reading, playing and watching games, as well as dancing."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-12-15",
+          "title": "Gov Ayade's wife kicks off health insurance scheme",
+          "url": "https://punchng.com/gov-ayades-wife-kicks-off-health-insurance-scheme/",
+          "access-date": "2022-02-23",
+          "website": "Punch Newspapers",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://senatorbenayade.org/?page_id=2",
+          "title": "Meet Sen Ben Ayade",
+          "author": "Senator Ben Ayade Online Media Team",
+          "date": "13 January 2015",
+          "work": "Senator Ben Ayade website",
+          "access-date": "13 January 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of Governors of Cross River State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of Governors of Cross River State"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "crossriverstategovernors"
+        },
+        {
+          "template": "nigerian senators of the 7th national assembly"
+        }
+      ]
+    }
+  ]
+}

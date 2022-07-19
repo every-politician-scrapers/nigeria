@@ -1,0 +1,353 @@
+{
+  "title": "Haruna Manu",
+  "pageID": 65805748,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Taraba State",
+    "People from Taraba State",
+    "Taraba State Peoples Democratic Party politicians",
+    "Ahmadu Bello University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Haruna Manu (born 23 August 1973) is a Nigerian politician, a member of the People's Democratic Party and a former member House of Representatives for Bali/Gassol Federal Constituency.",
+              "links": [
+                {
+                  "text": "People's Democratic Party",
+                  "type": "internal",
+                  "page": "People’s Democratic Party (Nigeria)"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Nigeria)"
+                },
+                {
+                  "text": "Bali",
+                  "type": "internal",
+                  "page": "Bali, Nigeria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gassol"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Haruna Manu"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Deputy Governor of Taraba State, serving together with Darius Dickson Ishaku since May 29, 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Darius Dickson Ishaku"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Nigerian Politician and Deputy Governor of Taraba State",
+          "template": "short description"
+        },
+        {
+          "date": "February 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1973",
+          "month": "08",
+          "day": "23",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Haruna Manu"
+          },
+          "caption": {
+            "text": "Haruna Manu"
+          },
+          "office": {
+            "text": "Deputy Governor of Taraba State",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taraba State"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "May 29, 2015"
+          },
+          "predecessor": {
+            "text": "Abubakar Sani Danladi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abubakar Sani Danladi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of House of Representatives (Nigeria)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "House of Representatives (Nigeria)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end1": {
+            "text": "2015",
+            "number": 2015
+          },
+          "birth_name": {
+            "text": "Haruna Manu"
+          },
+          "birth_date": {
+            "text": "August 23, 1973"
+          },
+          "birth_place": {
+            "text": "Mutum-Biyu, Gassol, Taraba State, Nigeria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gassol"
+              },
+              {
+                "type": "internal",
+                "page": "Nigeria"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Nigerian"
+          },
+          "party": {
+            "text": "People's Democratic Party",
+            "links": [
+              {
+                "text": "People's Democratic Party",
+                "type": "internal",
+                "page": "People’s Democratic Party (Nigeria)"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Jalingo, Taraba State (official)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jalingo"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Engineer Politician"
+          },
+          "alma_mater": {
+            "text": "Ahmadu Bello University Carnegie Mellon University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmadu Bello University"
+              },
+              {
+                "type": "internal",
+                "page": "Carnegie Mellon University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2017-11-15",
+          "title": "Taraba seeks Senate intervention over N30b spent on FG roads",
+          "url": "https://guardian.ng/news/taraba-seeks-senate-intervention-over-n30b-spent-on-fg-roads/",
+          "access-date": "2022-02-22",
+          "website": "The Guardian Nigeria News - Nigeria and World News",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-10-26",
+          "title": "Looters will be arrested, says Taraba deputy gov",
+          "url": "https://punchng.com/looters-will-be-arrested-says-taraba-deputy-gov/",
+          "access-date": "2022-03-12",
+          "website": "Punch Newspapers",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tarabastate.gov.ng/deputy-governor/",
+          "title": "Office of the Deputy Governor",
+          "website": "tarabastate.gov.ng",
+          "accessdate": "November 10, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.channelstv.com/2015/04/26/inec-declares-darius-ishaku-winner-of-taraba-governorship-election/amp/",
+          "title": "Inec Declares Darius Ishaku winner of Taraba Governorship Election",
+          "date": "April 26, 2015",
+          "website": "Channels TV",
+          "accessdate": "November 10, 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Haruna was born on August 23, 1973, in Mutum-Biyu, Gassol Local Government Area of Taraba State.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gassol"
+                }
+              ]
+            },
+            {
+              "text": "He has a first degree in Business Administration with specialization in Finance from the prestigious Ahmadu Bello University in Zaria, Kaduna State.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmadu Bello University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zaria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kaduna State"
+                }
+              ]
+            },
+            {
+              "text": "He also holds a master's degree in Electronic Commerce from Carnegie Mellon University in the United States of America, and he is a certified Microsoft System Engineer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carnegie Mellon University"
+                }
+              ]
+            },
+            {
+              "text": "He has working experience with the Nigeria Liquefied Natural Gas (NLNG) and later worked with MTN Nigeria communication Limited before finally settling down to pioneer many start-up firms.",
+              "links": [
+                {
+                  "text": "Nigeria Liquefied Natural Gas",
+                  "type": "internal",
+                  "page": "Nigeria LNG"
+                },
+                {
+                  "text": "MTN Nigeria communication Limited",
+                  "type": "internal",
+                  "page": "MTN Group"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://dailytrust.com/deputy-governors-series-6/",
+          "title": "Deputy Governors Series",
+          "date": "November 28, 2015",
+          "website": "Daily Trust",
+          "accessdate": "November 10, 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.medianigeria.com/biography-of-haruna-manu/",
+          "title": "Biography of Haruna Manu",
+          "date": "June 4, 2018",
+          "website": "medianigeria.com",
+          "accessdate": "November 10, 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Haruna joined the People's Democratic Party in late 2010 and won the primary ticket for the Bali/Gassol Federal Constituency seat of the National Assembly."
+            },
+            {
+              "text": "He won the election and represented Bali/Gassol Federal Constituency at the National House of Representatives from 2011 to 2015.",
+              "links": [
+                {
+                  "text": "National House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Nigeria)"
+                }
+              ]
+            },
+            {
+              "text": "He was the deputy chairman, House committee on Banking and Currency, and a member of various committees in the House of Representatives during his tenure at the National assembly."
+            },
+            {
+              "text": "Having served his constituency well, his performance was responsible for the decision to choose him as the running mate to Darius Dickson Ishaku on the platform of the People's Democratic Party in the 2015 general elections."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.johnmayaki.com/journey-to-becoming-taraba-deputy-gov-haruna-manu/",
+          "title": "Journey to becoming Taraba Deputy Governor-Haruna Manu",
+          "last": "John",
+          "first": "Mayaki",
+          "date": "June 3, 2015",
+          "website": "johnmayaki.com",
+          "accessdate": "November 10, 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
