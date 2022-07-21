@@ -290,7 +290,7 @@
         {
           "sentences": [
             {
-              "text": "John Olukayode Folorunso Fayemi was born in Ibadan on 9 February 1965 to an Ekiti parentage from Isan-Ekiti in  Oye Local Government of Ekiti State.",
+              "text": "John Olukayode Folorunso Fayemi was born in Ibadan on 9 February 1965 to an Ekiti parentage from Isan-Ekiti in Oye Local Government of Ekiti State.",
               "links": [
                 {
                   "type": "internal",
@@ -301,7 +301,7 @@
                   "page": "Isan-Ekiti"
                 },
                 {
-                  "text": " Oye",
+                  "text": "Oye",
                   "type": "internal",
                   "page": "Oye, Nigeria"
                 },
