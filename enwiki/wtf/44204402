@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Ezenwo Nyesom Wike (born 13 December 1963), is a Nigerian politician and lawyer who is the sixth and current Governor of Rivers State.",
+              "text": "Ezenwo Nyesom Wike (born 13 December 1967), is a Nigerian politician and lawyer who is the sixth and current Governor of Rivers State.",
               "links": [
                 {
                   "type": "internal",
@@ -180,7 +180,7 @@
           "template": "short description"
         },
         {
-          "year": "1963",
+          "year": "1967",
           "month": "12",
           "day": "13",
           "df": "y",
@@ -244,7 +244,7 @@
             ]
           },
           "birth_date": {
-            "text": "December 13, 1963"
+            "text": "December 13, 1967"
           },
           "birth_place": {
             "text": "Obio-Akpor, Rivers State, Nigeria",
